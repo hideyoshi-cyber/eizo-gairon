@@ -1,0 +1,1034 @@
+course:
+  name: 映像概論
+  subtitle: 現代映像概論 ―今から、源流へ遡る2年間
+  instructor: 蔡本英賛（株式会社リキッドブロック）
+  sessions: 60
+  format: 1回＝90分×2コマ
+  grading:
+  - 出席
+  - 毎回の感想の提出（内容の正誤では評価しない）
+  ladder:
+    1年前期: たどる全段／降ろすは形容詞まで
+    1年後期: 降ろすは具体まで
+    2年: パラメータまで（AE授業と合流）
+lessons:
+- 'no': 1
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第1回　オリエンテーション
+  title: 27年で何が変わり、何が変わらなかったか　『FF7』と『FF7 リバース』
+  works: 『FF7』（1997）オープニング 『FF7 リバース』（2024）トレーラー
+  homework: YouTube動画1本＋映画かアニメ1本。それぞれ1行メモ
+  next: YouTube動画と映像作品の違い
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - オリエン
+  - ゲーム
+  - レイヤー構造
+  fact_check: sourced
+  file: lessons/01/blog.md
+- 'no': 2
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第2回　YouTube動画と映像作品の違い
+  title: 同じYouTubeにある、二つの設計　YOASOBI『夜に駆ける』から考える
+  works: YouTube動画（宿題から1本） YOASOBI『夜に駆ける』MV
+  homework: 好きなゲームのムービーかトレーラー1本。「プレイ中と何が違うか」1行
+  next: ゲームと映像の違い
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - YouTube
+  - MV
+  - テロップ
+  fact_check: sourced
+  file: lessons/02/blog.md
+- 'no': 3
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第3回　ゲームと映像の違い
+  title: カメラを持つのは誰か　『Ghost of Tsushima』と黒澤明
+  works: 『Ghost of Tsushima』トレーラー、プレイ映像、黒澤モード
+  homework: 観た映画やアニメを1本。「場面が切り替わった瞬間」を1つメモ
+  next: 映像とは何か：時間・フレーム・編集
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - ゲーム
+  - カラコレ
+  - 黒澤明
+  fact_check: sourced
+  file: lessons/03/blog.md
+- 'no': 4
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第4回　映像とは何か：時間・フレーム・編集
+  title: 切らない映画は、編集をどこに隠したか　『1917 命をかけた伝令』
+  works: 『1917 命をかけた伝令』（本編上映）
+  homework: 映画かアニメのワンシーンを選び、カットの数を数える
+  next: ショット・カメラ・構図（前編）『トップガン マーヴェリック』
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 編集
+  - 時間
+  - フレーム
+  fact_check: sourced
+  file: lessons/04/blog.md
+- 'no': 5
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第5回　ショット・カメラ・構図（前編）
+  title: カメラを本物の戦闘機に載せた理由　『トップガン マーヴェリック』
+  works: 『トップガン マーヴェリック』（本編上映）
+  homework: 1986年の『トップガン』の予告編を観て、マーヴェリックとの違いを3つメモ
+  next: ショット・カメラ・構図（後編）
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - カメラ
+  - 構図
+  - 実写
+  fact_check: sourced
+  file: lessons/05/blog.md
+- 'no': 6
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第6回　ショット・カメラ・構図（後編）
+  title: 36年前の構図を、どう引き継いだか　『トップガン』と『トップガン マーヴェリック』
+  works: 『トップガン』（1986）（本編上映） 『トップガン マーヴェリック』の対応場面
+  homework: 好きな映画のポスターを1枚選び、構図を線でなぞってくる
+  next: 光と色（前編）：光『DUNE PART2』
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - カメラ
+  - 構図
+  - 源流
+  fact_check: sourced
+  file: lessons/06/blog.md
+- 'no': 7
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第7回　光と色（前編）：光
+  title: 見えない光で撮った白黒の惑星　『DUNE PART2』と光の設計
+  works: 『デューン 砂の惑星PART2』前半（166分のため2回に分けて上映）
+  homework: 部屋の照明を1つだけにして自撮りを2枚。光の向きを変えて比べる
+  next: 光と色（後編）：色とカラコレ
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 光
+  - 撮影
+  - 赤外線
+  fact_check: sourced
+  file: lessons/07/blog.md
+- 'no': 8
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第8回　光と色（後編）：色とカラコレ
+  title: 3つの惑星を色で分ける　『DUNE PART2』のパレット設計
+  works: 『デューン 砂の惑星PART2』後半
+  homework: 好きな映画のワンシーンから「主要な3色」を抜き出してくる
+  next: 音と音楽（前編）：音『ゴジラ-1.0』
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 色
+  - カラコレ
+  - 美術
+  fact_check: sourced
+  file: lessons/08/blog.md
+- 'no': 9
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第9回　音と音楽（前編）：音
+  title: 35人で作ったゴジラは、音でどう大きくなったか　『ゴジラ-1.0』
+  works: 『ゴジラ-1.0』（本編上映）
+  homework: 好きな映画のワンシーンを「音だけ」で聴き、聞こえた音をすべて書き出す
+  next: 音と音楽（後編）：音楽と源流
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 音
+  - VFX
+  - 白組
+  fact_check: sourced
+  file: lessons/09/blog.md
+- 'no': 10
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第10回　音と音楽（後編）：音楽と源流
+  title: 70年前のテーマ曲が鳴る瞬間　『ゴジラ-1.0』と1954年の『ゴジラ』
+  works: 『ゴジラ』（1954）（本編上映） 『ゴジラ-1.0』の主要場面
+  homework: 『ゴジラ-1.0／C』（モノクロ版）を一部観て、カラー版との違いを3つメモ
+  next: 脚本構成（前編）：構成『ルックバック』
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 音楽
+  - 源流
+  - 白黒
+  fact_check: sourced
+  file: lessons/10/blog.md
+- 'no': 11
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第11回　脚本構成（前編）：構成
+  title: 58分の映画は、なぜ58分なのか　『ルックバック』の構成
+  works: 『ルックバック』（本編上映）
+  homework: 『ルックバック』の場面を、思い出せる順に10個書き出してくる
+  next: 脚本構成（後編）：テンションカーブ
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 構成
+  - アニメ
+  - 脚本
+  fact_check: sourced
+  file: lessons/11/blog.md
+- 'no': 12
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第12回　脚本構成（後編）：テンションカーブ
+  title: テンションカーブを線で描く　『ルックバック』の感情の設計
+  works: 『ルックバック』（主要場面を再上映）
+  homework: 好きな映画1本のテンションカーブを描いてくる（横軸：時間、縦軸：緊張）
+  next: 世界観の作り方（前編）：ルール『マイ・エレメント』
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 構成
+  - テンションカーブ
+  - 音楽
+  fact_check: sourced
+  file: lessons/12/blog.md
+- 'no': 13
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第13回　世界観の作り方（前編）：ルール
+  title: 周期表がアパートに見えた日　『マイ・エレメント』の世界のルール
+  works: 『マイ・エレメント』（本編上映）
+  homework: 身の回りのものを1つ選び、それが住人になった街の「ルール」を3つ考えてくる
+  next: 世界観の作り方（後編）：ビジュアル
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 世界観
+  - CGアニメ
+  - ピクサー
+  fact_check: sourced
+  file: lessons/13/blog.md
+- 'no': 14
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第14回　世界観の作り方（後編）：ビジュアル
+  title: キャラクターそのものがエフェクトになる世界　『マイ・エレメント』のビジュアル設計
+  works: 『マイ・エレメント』（主要場面を再上映）
+  homework: 自分の世界の「ルール5つ」と「街のスケッチ1枚」を描いてくる（前期まとめ発表の素材）
+  next: 前期まとめ：分析シート発表
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - 世界観
+  - CGアニメ
+  - エフェクト
+  fact_check: sourced
+  file: lessons/14/blog.md
+- 'no': 15
+  term: 1年前期
+  era: 2020年代
+  theme: 1年前期　第15回　前期まとめ：分析シート発表
+  title: 14回分の目で、自分の1本を読む　前期まとめ発表
+  works: 各自が選んだ2020年代の作品1本
+  homework: 前期の分析シート15枚を見返し、最初と最後で何が変わったかを3行で書く
+  next: VFX・合成（1）『シン・ゴジラ』
+  ladder_stage: 形容詞まで
+  labels:
+  - 映像概論
+  - 2020年代
+  - まとめ
+  - 発表
+  fact_check: n/a（演習・講評回）
+  file: lessons/15/blog.md
+- 'no': 16
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第16回　VFX・合成（1）
+  title: 会議室で怪獣映画を撮るということ　『シン・ゴジラ』のVFX
+  works: 『シン・ゴジラ』（本編上映）
+  homework: 第10回の『ゴジラ-1.0』と比べて、ゴジラの「見せ方」の違いを3つ書く
+  next: VFX・合成（2）『マッドマックス 怒りのデス・ロード』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - VFX
+  - 合成
+  fact_check: verified-2026-11
+  file: lessons/16/blog.md
+- 'no': 17
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第17回　VFX・合成（2）
+  title: 本物を撮って、足りないところだけCGで埋める　『マッドマックス 怒りのデス・ロード』
+  works: 『マッドマックス 怒りのデス・ロード』（本編上映）
+  homework: 本物だと思った場面と、CGだと思った場面を3つずつメモ
+  next: VFX・合成（3）演習
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - VFX
+  - 合成
+  - 編集
+  fact_check: verified-2026-11
+  file: lessons/17/blog.md
+- 'no': 18
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第18回　VFX・合成（3）演習
+  title: 1カットを、層に戻す　合成カットのレイヤー分解
+  works: 『シン・ゴジラ』『怒りのデス・ロード』の合成カット数本
+  homework: 自分が一番好きな合成カットを1つ選び、レイヤーを書き出す
+  next: 実写とCGの境界（1）『ゼロ・グラビティ』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - 合成
+  - 演習
+  fact_check: n/a（演習・講評回）
+  file: lessons/18/blog.md
+- 'no': 19
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第19回　実写とCGの境界（1）
+  title: 宇宙で撮れないなら、光の箱を作る　『ゼロ・グラビティ』
+  works: 『ゼロ・グラビティ』（本編上映）
+  homework: 画面のどこまでが本物で、どこからがCGかを予想して書く
+  next: CM（広告映像）：15秒の設計
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - VFX
+  - 光
+  - 実写
+  fact_check: verified-2026-11
+  file: lessons/19/blog.md
+- 'no': 20
+  term: 1年後期
+  era: CM集
+  theme: 1年後期　第20回　CM（広告映像）
+  title: 15秒で、人を動かす　CMという映像の設計
+  works: CM集（Apple「1984」、日清カップヌードル「hungry?」、Honda「Cog」、Nike「Write the Future」、マクドナルド「ティロリミックス」ほか）
+  homework: 身近な商品を1つ選び、15秒CMの企画を「誰に・何を・なぜ」の一言と、絵コンテ4カットで描いてくる
+  next: タイトル・キネティックタイポ（1）『シン・ゴジラ』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - CM
+  - 広告
+  - 業界
+  fact_check: sourced（出典付きで作成）
+  file: lessons/20/blog.md
+- 'no': 21
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第21回　タイトル・キネティックタイポ（1）
+  title: 文字が、情報の速さを演出する　『シン・ゴジラ』のテロップ
+  works: 『シン・ゴジラ』のテロップが多い場面
+  homework: 好きな映画やドラマで、文字が印象に残った場面を1つ探す
+  next: タイトル・キネティックタイポ（2）『ストレンジャー・シングス』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - タイポ
+  - テロップ
+  fact_check: covered-by-16
+  file: lessons/21/blog.md
+- 'no': 22
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第22回　タイトル・キネティックタイポ（2）
+  title: 文字だけで、時代を連れてくる　『ストレンジャー・シングス』のタイトル
+  works: 『ストレンジャー・シングス 未知の世界』第1話（オープニングを含めて通して上映）
+  homework: 80年代の本や映画のポスターを1つ探し、文字の特徴を書く
+  next: モーショングラフィックス（1）『スパイダーバース』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - タイポ
+  - MG
+  - ドラマ
+  fact_check: verified-2026-11
+  file: lessons/22/blog.md
+- 'no': 23
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第23回　モーショングラフィックス（1）
+  title: CGに、印刷のズレを描き足す　『スパイダーマン：スパイダーバース』のルック
+  works: 『スパイダーマン：スパイダーバース』（本編上映）
+  homework: 画面の中で「漫画の印刷みたいだ」と思った部分を3つ探す
+  next: モーショングラフィックス（2）コマ数の演出
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - MG
+  - CGアニメ
+  - ルック
+  fact_check: verified-2026-11
+  file: lessons/23/blog.md
+- 'no': 24
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第24回　モーショングラフィックス（2）
+  title: 動きを減らして、キャラクターを描く　コマ数という演出
+  works: 『スパイダーバース』の主要場面（再上映）
+  homework: 好きなアニメの1場面を選び、なめらかな動きと、カクカクした動きを探す
+  next: アニメの演出（1）『君の名は。』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - MG
+  - アニメーション
+  - パラメータ
+  fact_check: covered-by-23
+  file: lessons/24/blog.md
+- 'no': 25
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第25回　アニメの演出（1）
+  title: 光と背景が、主役になる　『君の名は。』の背景美術
+  works: 『君の名は。』（本編上映）
+  homework: 作品の中で一番きれいだと思った風景を1つ選び、なぜきれいだったかを書く
+  next: アニメの演出（2）音楽と編集
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - アニメ
+  - 背景美術
+  - 光
+  fact_check: verified-2026-11
+  file: lessons/25/blog.md
+- 'no': 26
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第26回　アニメの演出（2）
+  title: 歌が、時間を飛び越えさせる　『君の名は。』の音楽と編集
+  works: 『君の名は。』の主要場面（再上映）
+  homework: 好きなアニメのOPを1本選び、映像と歌詞と音楽の関係を書く
+  next: 編集・色・音楽の総合（1）『ラ・ラ・ランド』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - アニメ
+  - 音楽
+  - 編集
+  fact_check: covered-by-25
+  file: lessons/26/blog.md
+- 'no': 27
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第27回　編集・色・音楽の総合（1）
+  title: 色と長回しで、夢を見せる　『ラ・ラ・ランド』
+  works: 『ラ・ラ・ランド』（本編上映）
+  homework: 衣装や背景の色が印象に残った場面を3つメモ
+  next: 編集・色・音楽の総合（2）源流をたどる
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - 色
+  - 音楽
+  - 長回し
+  fact_check: verified-2026-11
+  file: lessons/27/blog.md
+- 'no': 28
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第28回　編集・色・音楽の総合（2）
+  title: 50年前の傘が、色の源流だった　『ラ・ラ・ランド』と『シェルブールの雨傘』
+  works: 『シェルブールの雨傘』（1964）（本編上映）／『ラ・ラ・ランド』の主要場面
+  homework: 好きな作品の「元ネタ」だと思う作品を1つ探す
+  next: ゲームのシネマティクス『The Last of Us』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - 色
+  - 源流
+  - 音楽
+  fact_check: pending
+  file: lessons/28/blog.md
+- 'no': 29
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第29回　ゲームのシネマティクス
+  title: 遊ぶ時間と、観る時間をつなぐ演技　『The Last of Us』
+  works: 『The Last of Us』のムービーシーンと、冒頭のプレイ映像
+  homework: 好きなゲームの登場人物で、「演技がうまい」と思ったキャラクターを1人挙げる
+  next: 1年後期まとめ：系譜マップを作る
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - ゲーム
+  - 演技
+  - CG
+  fact_check: verified-2026-11
+  file: lessons/29/blog.md
+- 'no': 30
+  term: 1年後期
+  era: 2010年代
+  theme: 1年後期　第30回　1年後期まとめ
+  title: 1年分の作品を、1枚の地図にする　系譜マップの発表
+  works: 1年間で観た作品すべて（振り返り）
+  homework: 1年分の引き出しノートを見返し、一番多く集まった分類を書く
+  next: 企画書・コンセプトへの逆算（1）『千と千尋の神隠し』
+  ladder_stage: 具体まで
+  labels:
+  - 映像概論
+  - 2010年代
+  - まとめ
+  - 発表
+  fact_check: n/a（演習・講評回）
+  file: lessons/30/blog.md
+- 'no': 31
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第31回　企画書・コンセプトへの逆算（1）
+  title: 完成した映画を、企画書に戻す　『千と千尋の神隠し』
+  works: 『千と千尋の神隠し』（本編上映）
+  homework: この作品を「一言で言うと何の話か」を、20文字以内で書いてくる
+  next: 企画への逆算（2）世界観の設定
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - 企画
+  - アニメ
+  - プリプロ
+  fact_check: verified-2026-11
+  file: lessons/31/blog.md
+- 'no': 32
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第32回　企画への逆算（2）
+  title: 働く場所が、そのまま世界になる　『千と千尋の神隠し』の世界観設定
+  works: 『千と千尋の神隠し』主要場面（再上映）
+  homework: 湯屋の「仕事のルール」を5つ書き出す
+  next: 企画への逆算（3）演習
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - 世界観
+  - プリプロ
+  fact_check: covered-by-31
+  file: lessons/32/blog.md
+- 'no': 33
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第33回　企画への逆算（3）演習
+  title: 自分の企画の「芯」を、一言にする
+  works: 前2回の『千と千尋の神隠し』の分析
+  homework: 自分の自主制作のアイデアを3つ、それぞれ20文字以内の芯にする
+  next: 台本構成とテンションカーブ（1）『ダークナイト』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - 企画
+  - 演習
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/33/blog.md
+- 'no': 34
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第34回　台本構成とテンションカーブ（1）
+  title: 悪役が、物語の構造を壊しにくる　『ダークナイト』の構成
+  works: 『ダークナイト』前半（152分のため2回に分けて上映）
+  homework: 主人公と悪役、それぞれが「何を欲しがっているか」を1行ずつ書く
+  next: 台本構成とテンションカーブ（2）
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - 構成
+  - 脚本
+  fact_check: verified-2026-11
+  file: lessons/34/blog.md
+- 'no': 35
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第35回　台本構成とテンションカーブ（2）
+  title: 山が何度も来る映画のカーブを描く　『ダークナイト』後半
+  works: 『ダークナイト』後半
+  homework: 前後半を通したテンションカーブを描いてくる
+  next: 台本構成とテンションカーブ（3）演習
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - テンションカーブ
+  - 構成
+  fact_check: covered-by-34
+  file: lessons/35/blog.md
+- 'no': 36
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第36回　台本構成とテンションカーブ（3）演習
+  title: 自分の企画のテンションカーブを、先に描く
+  works: 第33回で決めた自分の企画の芯
+  homework: 企画の構成を4段階に分け、テンションカーブを描いてくる
+  next: 絵コンテ（1）『時をかける少女』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - テンションカーブ
+  - 演習
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/36/blog.md
+- 'no': 37
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第37回　絵コンテ（1）
+  title: コンテは、時間の設計図　『時をかける少女』
+  works: 『時をかける少女』（本編上映）
+  homework: 一番印象に残ったカットを1つ選び、構図を簡単にスケッチしてくる
+  next: 絵コンテ（2）繰り返しの構図
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - 絵コンテ
+  - アニメ
+  fact_check: verified-2026-11
+  file: lessons/37/blog.md
+- 'no': 38
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第38回　絵コンテ（2）
+  title: 同じ構図を繰り返して、時間を戻す　『時をかける少女』の演出
+  works: 『時をかける少女』主要場面（再上映）
+  homework: 同じ構図が繰り返される場面を2組見つけ、何が違うかを書く
+  next: 絵コンテ（3）富野由悠季とガンダム
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - 絵コンテ
+  - 構図
+  fact_check: covered-by-37
+  file: lessons/38/blog.md
+- 'no': 39
+  term: 2年前期
+  era: 源流（1979）
+  theme: 2年前期　第39回　絵コンテ（3）富野由悠季とガンダム
+  title: 映画を撮りたかった人が、アニメに映画を持ち込んだ　富野由悠季と『機動戦士ガンダム』
+  works: 『機動戦士ガンダム』（1979）TVシリーズ第1〜2話（通して上映）
+  homework: 第1話の場面を1つ選んでコンテに描き直し、そのうえで自分の企画の最初の山をコンテ6カットで描く
+  next: レイヤー構造（1）『アバター』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 源流
+  - 絵コンテ
+  - アニメ
+  - 富野由悠季
+  fact_check: sourced（出典付きで作成）
+  file: lessons/39/blog.md
+- 'no': 40
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第40回　レイヤー構造（1）
+  title: CGの世界に、カメラを持ち込む　『アバター』のバーチャルカメラ
+  works: 『アバター』前半（長編のため2回に分けて上映）
+  homework: CGだと分かっていても本物に見えた場面を3つ書く
+  next: レイヤー構造（2）パフォーマンスキャプチャ
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - レイヤー
+  - VFX
+  - CG
+  fact_check: verified-2026-11
+  file: lessons/40/blog.md
+- 'no': 41
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第41回　レイヤー構造（2）
+  title: 俳優の顔を、CGの顔に移す　パフォーマンスキャプチャ
+  works: 『アバター』後半
+  homework: CGのキャラクターの「表情」で一番心が動いた場面を1つ書く
+  next: レイヤー構造（3）演習
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - レイヤー
+  - 演技
+  - CG
+  fact_check: covered-by-40
+  file: lessons/41/blog.md
+- 'no': 42
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第42回　レイヤー構造（3）演習
+  title: 自分の企画の1カットを、素材のリストにする
+  works: 『アバター』の合成カット数本
+  homework: 自分のコンテの1カットを選び、必要な素材をすべて書き出す
+  next: ルックの設計（1）『アメリ』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - レイヤー
+  - 演習
+  - パラメータ
+  fact_check: n/a（演習・講評回）
+  file: lessons/42/blog.md
+- 'no': 43
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第43回　ルックの設計（1）
+  title: 映画全体を、二つの色で塗る　『アメリ』
+  works: 『アメリ』（本編上映）
+  homework: 作品全体で多く使われていた色を2つ選び、どんな場面で使われていたかを書く
+  next: ルックの設計（2）ゲームのルック
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - ルック
+  - 色
+  - カラコレ
+  fact_check: verified-2026-11
+  file: lessons/43/blog.md
+- 'no': 44
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第44回　ルックの設計（2）
+  title: ゲーム機の世代交代が、ルックを変える　『FFX』と『MGS4』
+  works: 『FFX』『MGS4』の冒頭のプレイ映像とトレーラー
+  homework: 好きなゲームのルックを、形容詞3つで言う
+  next: ルックの設計（3）演習
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - ゲーム
+  - ルック
+  fact_check: verified-2026-11
+  file: lessons/44/blog.md
+- 'no': 45
+  term: 2年前期
+  era: 2000年代
+  theme: 2年前期　第45回　ルックの設計（3）演習
+  title: 自分の作品の色を、時間に沿って並べる　カラースクリプト
+  works: これまでの作品のカラースクリプトの例
+  homework: 自分の企画のカラースクリプトを、4段階の色で作ってくる
+  next: 仕上げの意図（1）『マトリックス』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 2000年代
+  - カラコレ
+  - 演習
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/45/blog.md
+- 'no': 46
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第46回　仕上げの意図（1）
+  title: 緑の世界と、青い現実　『マトリックス』のカラコレと編集
+  works: 『マトリックス』（本編上映）
+  homework: 仮想世界と現実世界の色の違いを書く
+  next: 仕上げの意図（2）オープニング集
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - カラコレ
+  - 編集
+  - VFX
+  fact_check: verified-2026-11
+  file: lessons/46/blog.md
+- 'no': 47
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第47回　仕上げの意図（2）オープニング集
+  title: オープニングは入口、エンディングは出口　タイトルデザインの系譜
+  works: オープニング・エンディング集（ソール・バス、『007』シリーズ、『セブン』、『300』、『スター・トレック』ほか） カイル・クーパーのタイトル、ミシェル・ゴンドリーのMV
+  homework: 自分の自主制作のタイトル（またはエンディング）を、形容詞3つと具体の指示3つで企画してくる
+  next: 仕上げの意図（3）演習
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - タイポ
+  - タイトル
+  - 源流
+  - MV
+  fact_check: sourced（出典付きで作成）
+  file: lessons/47/blog.md
+- 'no': 48
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第48回　仕上げの意図（3）演習
+  title: 自主制作の「仕上げ」を、先に決める
+  works: 自分の自主制作の設計書（2年前期に作ったもの）
+  homework: 自分の作品の仕上げの方針を、形容詞3つとパラメータ3つで書く
+  next: 自主制作の企画書（1）『ジュラシック・パーク』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - 仕上げ
+  - 演習
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/48/blog.md
+- 'no': 49
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第49回　自主制作の企画書（1）
+  title: CGの恐竜と、本物の恐竜を使い分ける　『ジュラシック・パーク』
+  works: 『ジュラシック・パーク』（本編上映）
+  homework: CGの恐竜と、作り物の恐竜を見分けて、それぞれ2場面ずつ書く
+  next: 自主制作の企画書（2）『トイ・ストーリー』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - VFX
+  - CG
+  - 企画
+  fact_check: verified-2026-11
+  file: lessons/49/blog.md
+- 'no': 50
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第50回　自主制作の企画書（2）
+  title: 技術の限界から、企画を選ぶ　『トイ・ストーリー』
+  works: 『トイ・ストーリー』（本編上映）
+  homework: 自分の企画で「今の技術や時間ではできないこと」を3つ書く
+  next: 自主制作の企画書（3）提出と講評
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - CG
+  - 企画
+  - 源流
+  fact_check: pending
+  file: lessons/50/blog.md
+- 'no': 51
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第51回　自主制作の企画書（3）提出と講評
+  title: 企画書を、人に渡せる形にする
+  works: 各自の自主制作の企画書
+  homework: 講評でもらった意見を3つ書き出し、どれを取り入れるかを決める
+  next: 構成案・コンテ・ルックの提出（1）『攻殻機動隊』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - 企画
+  - 講評
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/51/blog.md
+- 'no': 52
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第52回　構成案・コンテ・ルックの提出（1）
+  title: アニメで、実写のように撮る　『GHOST IN THE SHELL／攻殻機動隊』
+  works: 『GHOST IN THE SHELL／攻殻機動隊』（本編上映）
+  homework: この作品で、実写の映画のようだと感じたカットを3つ書く
+  next: 構成案・コンテ・ルックの提出（2）『新世紀エヴァンゲリオン』
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - アニメ
+  - 源流
+  - レイアウト
+  fact_check: verified-2026-11
+  file: lessons/52/blog.md
+- 'no': 53
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第53回　構成案・コンテ・ルックの提出（2）
+  title: 明朝体が、アニメの画面を変えた　『新世紀エヴァンゲリオン』
+  works: 『新世紀エヴァンゲリオン』TVシリーズ第1〜3話（通して上映）
+  homework: エヴァの文字演出と、第21回の『シン・ゴジラ』の文字演出を比べて書く
+  next: 中間講評（1）『FF7』に戻る
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - タイポ
+  - アニメ
+  - 源流
+  fact_check: pending
+  file: lessons/53/blog.md
+- 'no': 54
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第54回　構成案・コンテ・ルックの講評
+  title: 設計書どおりに作れているかを、人の目で確かめる
+  works: 各自の構成案・コンテ・ルック設計
+  homework: 講評をもとに、修正するところを3つ決めて設計書に書き込む
+  next: 中間講評（1）『FF7』に戻る
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - 講評
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/54/blog.md
+- 'no': 55
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第55回　中間講評（1）
+  title: 2年前に観たオープニングを、もう一度観る　『FF7』（1997）
+  works: 『FF7』（1997）のオープニングと冒頭のプレイ映像（第1回と同じ映像）
+  homework: 1年前期の第1回の分析シートを読み返し、今の自分ならどう書くかを書く
+  next: 生成AIと作り手
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - ゲーム
+  - 講評
+  - 源流
+  fact_check: covered-by-1
+  file: lessons/55/blog.md
+- 'no': 56
+  term: 2年後期
+  era: 今
+  theme: 2年後期　第56回　生成AIと作り手
+  title: 生成AIは、はしごのどこを担うのか
+  works: 動画生成AIの公開デモ映像と、生成AIを使った広告・MVの事例
+  homework: 自分の作品の1カットを、プロンプト（形容詞と具体）で書く。AIに出してもらった結果と自分のコンテを比べ、違いを3つ書いてくる
+  next: 中間講評：迷うのはいい。悩むのはやめる
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 生成AI
+  - 権利
+  - 考え
+  fact_check: pending
+  file: lessons/56/blog.md
+- 'no': 57
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第57回　中間講評（2）
+  title: 迷うのはいい。悩むのはやめる
+  works: 各自の制作中の素材
+  homework: 完成までに迷っていることを1つ書き、選択肢を2つ出して決めてくる
+  next: 完成上映会
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - 講評
+  - 自主制作
+  - 考え
+  fact_check: n/a（演習・講評回）
+  file: lessons/57/blog.md
+- 'no': 58
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第58回　完成上映会
+  title: 作った作品を、観客の前で上映する
+  works: 全員の自主制作（上映会）
+  homework: 他の人の作品を1本選び、分析シートで分析する
+  next: 講評
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - 上映
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/58/blog.md
+- 'no': 59
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第59回　講評
+  title: 波紋を読んで、次の石を選ぶ
+  works: 上映した全員の自主制作
+  homework: 講評を受けて、次に作りたい作品の芯を20文字以内で書く
+  next: 2年間の総括
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - 講評
+  - 自主制作
+  fact_check: n/a（演習・講評回）
+  file: lessons/59/blog.md
+- 'no': 60
+  term: 2年後期
+  era: 90年代
+  theme: 2年後期　第60回　2年間の総括
+  title: 今から遡って、自分の原点にたどり着く
+  works: 2年間で観た作品の一覧と、各自の分析シート
+  homework: 2年間の引き出しノートを見返し、自分の一番の武器を3行で書く
+  next: 3年生：卒業制作へ
+  ladder_stage: パラメータまで
+  labels:
+  - 映像概論
+  - 90年代
+  - まとめ
+  - 考え
+  fact_check: n/a（演習・講評回）
+  file: lessons/60/blog.md
+gaiden:
+- 'no': 1
+  title: モーショングラフィックスは、どこから来たのか　ソール・バスとジョン・ホイットニー
+  file: gaiden/01.md
+- 'no': 2
+  title: 100年前の学校が、今の画面を作っている　第一次・第二次バウハウス
+  file: gaiden/02.md
+- 'no': 3
+  title: デザインは、飾りではなく判断である　デザインが映像にもたらす力
+  file: gaiden/03.md
+- 'no': 4
+  title: 15秒の国と、30秒の国　広告の役目と、日本と海外の違い
+  file: gaiden/04.md
+- 'no': 5
+  title: お金を集めるほど、予算が増えない　製作委員会方式のジレンマ
+  file: gaiden/05.md

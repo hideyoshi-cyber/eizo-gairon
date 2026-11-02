@@ -1,0 +1,18 @@
+---
+import { render } from 'astro:content';
+import Article from '../layouts/Article.astro';
+import { getPublic } from '../lib/plan';
+import { h1Of } from '../lib/title';
+import ladder from '../../figures/abstraction-ladder.svg?raw';
+export async function getStaticPaths() {
+  return (await getPublic('pages')).filter((e) => e.id !== 'gaiden-index').map((entry) => ({ params: { page: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+const svg = ladder.replace(/<metadata>[\s\S]*?<\/metadata>/, '');
+---
+<Article title={h1Of(entry.body, entry.id)} wide blockNo={1} crumbs={[[base, 'トップ']]} current={`${entry.id}/`}>
+  {entry.id === 'analysis-sheet' && <figure class="fig-wrap" set:html={svg + '<figcaption class="src">制作では抽象から降ろし、分析では作品からたどる。</figcaption>'} />}
+  <Content />
+</Article>

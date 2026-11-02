@@ -1,0 +1,101 @@
+/* レトロフューチャリズム（90年代の画面）。site.css の上に重ねる。変数名は試作サイトを引き継ぐ。 */
+:root:root:root {
+  --paper: #1b0a3c;
+  --panel: #271259;
+  --ink: #f3efff;
+  --sub: #b9abe6;
+  --rule: #4b2f93;
+  --off: #3a2478;
+  --neon: #86ff6b;      /* 主役のネオングリーン */
+  --glow: rgba(134, 255, 107, .45);
+  --c20: #3df5e8;       /* 2020年代 シアン */
+  --c10: #86ff6b;       /* 2010年代 グリーン */
+  --c00: #ff55d6;       /* 2000年代 マゼンタ */
+  --c90: #ffc53d;       /* 90年代 アンバー */
+  --display: "Unbounded", "Dela Gothic One", "Hiragino Sans", "Yu Gothic", sans-serif;
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(rgba(134, 255, 107, .07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(134, 255, 107, .07) 1px, transparent 1px);
+  background-size: 58px 58px;
+  background-attachment: fixed;
+}
+a:focus-visible, button:focus-visible { outline-color: var(--neon); }
+.prose a, .side-links a, .hero a { color: var(--neon); text-decoration-color: rgba(134, 255, 107, .5); }
+
+/* ヘッダー */
+.mast { background: rgba(27, 10, 60, .92); border-bottom: 1px solid var(--neon); position: sticky; top: 0; z-index: 10; backdrop-filter: blur(6px); }
+.brand b { font-family: var(--display); font-weight: 800; color: var(--neon); letter-spacing: 0; text-shadow: 0 0 14px var(--glow); }
+.brand span { color: var(--sub); }
+nav a { font-weight: 700; font-size: 14px; letter-spacing: .04em; padding: 5px 12px; border: 1px solid transparent; border-radius: 999px; }
+nav a:hover { border-color: var(--neon); }
+nav a[aria-current="page"] { border-color: var(--neon); color: var(--neon); }
+.crumb a { border-bottom-color: var(--rule); }
+
+/* ヒーロー：遠近グリッドの床 */
+.hero { position: relative; padding: 88px 0 140px; text-align: center; }
+.hero h1 {
+  font-family: var(--display); font-weight: 800; color: var(--neon);
+  font-size: clamp(40px, 7.4vw, 92px); line-height: 1.18; letter-spacing: -.01em;
+  text-shadow: 0 0 28px var(--glow), 3px 3px 0 #0e0524;
+}
+.hero p { margin-left: auto; margin-right: auto; color: var(--ink); }
+.hero-kicker { color: var(--c20) !important; font-family: var(--display); letter-spacing: .3em; font-size: 14px; text-transform: uppercase; }
+.hero::after {
+  content: ""; position: absolute; left: 50%; bottom: 0; width: 100vw; height: 120px; transform: translateX(-50%);
+  background:
+    repeating-linear-gradient(90deg, rgba(61, 245, 232, .5) 0 1px, transparent 1px 60px),
+    repeating-linear-gradient(0deg, rgba(61, 245, 232, .5) 0 1px, transparent 1px 16px),
+    linear-gradient(#1b0a3c, #0e2a8c);
+  -webkit-mask-image: linear-gradient(transparent, #000 40%); mask-image: linear-gradient(transparent, #000 40%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); opacity: .8; pointer-events: none;
+}
+
+/* 見出し・本文 */
+.sec-title, .block-head h2, .page h1 { font-family: var(--display); font-weight: 800; }
+.page h1, .article h1 { color: var(--neon); text-shadow: 0 0 22px var(--glow); }
+.article h1 { font-family: var(--display); font-weight: 800; font-size: clamp(24px, 4.2vw, 38px); line-height: 1.5; }
+.prose h2, .article h2 { font-family: var(--display); font-weight: 700; font-size: 19px; border-left: 4px solid var(--era, var(--neon)); color: var(--ink); }
+.era-tag { color: #1b0a3c; font-weight: 800; border-radius: 999px; padding: 2px 14px; background: var(--era, var(--c20)); box-shadow: 0 0 12px var(--era, var(--c20)); }
+.lead { color: var(--sub); }
+
+/* 60回の目盛り */
+.tick { box-shadow: none; }
+.tick.done { box-shadow: 0 0 8px var(--era); }
+.tick.b1 { --era: var(--c20); } .tick.b2 { --era: var(--c10); } .tick.b3 { --era: var(--c00); } .tick.b4 { --era: var(--c90); }
+
+/* 囲み・表・カード */
+.callout, .today, .titles li, .cards .card, .studio, .book, .video, .maker, .aw-block, .prose table, .tbl, .card, .sheet li {
+  border-color: var(--rule);
+}
+.callout.conclusion { border: 1px solid var(--era, var(--neon)); border-left-width: 6px; box-shadow: 0 0 18px rgba(134, 255, 107, .12); }
+.callout.exercise { border: 1px solid var(--c20); border-left-width: 6px; }
+.callout.exercise strong:first-child { color: var(--c20); }
+.today { background: var(--rule); }
+.prose th, th { background: #1b0a3c; color: var(--neon); font-family: var(--display); font-size: 13px; letter-spacing: .04em; }
+.prose table { border-color: var(--rule); }
+.cards .card { border-radius: 14px; }
+.cards .card:hover, .lesson-list a:hover, .titles li:hover { border-color: var(--neon); }
+.cards .card h3 a { color: var(--ink); }
+.titles li.done { background: transparent; color: var(--era); border: 1px solid var(--era); }
+.titles li.done a { color: var(--era); }
+.titles li.done:hover { background: var(--era); }
+.titles li.done:hover a { color: #1b0a3c; }
+.lesson-list .no, .posts .no { font-family: var(--display); font-weight: 800; text-shadow: 0 0 12px currentColor; }
+.block-head { border-top-width: 3px; }
+.chip { border-radius: 999px; border-color: var(--rule); background: transparent; color: var(--sub); }
+
+/* ピル型のページ送り */
+.pager a { border: 1px solid var(--neon); border-radius: 999px; padding: 8px 18px; color: var(--neon); border-bottom-width: 1px; }
+.pager a:hover { background: var(--neon); color: #1b0a3c; }
+
+.foot { background: #12062b; border-top: 1px solid var(--neon); }
+.fig-wrap { background: var(--panel); border-color: var(--rule); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .tick.done:hover { transform: translateY(-4px); transition: transform .15s; }
+}

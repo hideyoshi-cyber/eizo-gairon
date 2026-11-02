@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import { lessons, BLOCKS, block, pad, themeName, getPublic } from '../../lib/plan';
+const ids = new Set((await getPublic('lessons')).map((e) => Number(e.id)));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+const col = ['20', '10', '00', '90'];
+---
+<Base title="授業記録" current="lessons/">
+  <div class="wrap page">
+    <h1>授業記録</h1>
+    <p class="lead">各回の記事です。作品の基本情報、作り手、考察、授業の進め方、演習までをまとめています。作品は予定で、変わることがあります。</p>
+    {BLOCKS.map((b) => (
+      <section class={`block ${b.cls}`}>
+        <div class="block-head"><h2>{b.name}</h2><span>{b.term}　{b.range}</span></div>
+        <ul class="lesson-list" style={`--era:var(--c${col[b.n - 1]})`}>
+          {lessons.filter((l) => block(l.no) === b.n && ids.has(l.no)).map((l) => (
+            <li><a href={`${base}lessons/${pad(l.no)}/`}>
+              <span class="no">{pad(l.no)}<small>{themeName(l)}</small></span>
+              <span><h3>{l.title}</h3><p>{l.works}</p></span>
+            </a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</Base>

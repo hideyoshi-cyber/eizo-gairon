@@ -1,0 +1,60 @@
+---
+import Base from '../layouts/Base.astro';
+import { lessons, gaiden, BLOCKS, block, pad, themeName, getPublic } from '../lib/plan';
+const ids = new Set((await getPublic('lessons')).map((e) => Number(e.id)));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+const col = ['20', '10', '00', '90'];
+---
+<Base>
+  <div class="wrap">
+    <div class="hero">
+      <p class="hero-kicker">現代映像概論</p>
+      <h1>今から、<br />源流へ遡る。</h1>
+      <p>「映像概論」の授業記録です。2020年代の作品から出発して、2年・60回かけて90年代へ、そして戦後の源流まで遡ります。作品の読み方だけでなく、その作品を生んだ時代、作り手、会社、お金の流れまでを扱う、1945年から今までの映像の授業です。</p>
+      <p style="margin-top:16px"><a href={`${base}essays/01-seekbar/`}>はじめに読む：シークバーを、ただ通り過ぎないために →</a></p>
+    </div>
+
+    <div class="ruler">
+      <div class="ruler-head"><strong>60回の地図</strong><span>左が2020年代、右が90年代。2年かけて遡ります</span></div>
+      <div class="ticks">
+        {lessons.map((l) => ids.has(l.no)
+          ? <a class={`tick done b${block(l.no)}${l.no === 1 ? ' first' : ''}`} href={`${base}lessons/${pad(l.no)}/`} title={`第${l.no}回 ${l.title}`} aria-label={`第${l.no}回 ${l.title}`}></a>
+          : <span class={`tick b${block(l.no)}`}></span>)}
+      </div>
+      <div class="eras">
+        {BLOCKS.map((b) => <div class={`era ${b.cls}`}><b>{b.name}</b><span>{b.term}　{b.range}</span></div>)}
+      </div>
+    </div>
+
+    <div class="home-grid">
+      <div>
+        <h2 class="sec-title">この授業で観る作品</h2>
+        {BLOCKS.map((b) => (
+          <div class={`era-row ${b.cls}`} style={`--era:var(--c${col[b.n - 1]})`}>
+            <div class="era-name"><b>{b.name}</b><span>{b.term}</span></div>
+            <ul class="titles">
+              {lessons.filter((l) => block(l.no) === b.n && ids.has(l.no)).map((l) => (
+                <li class="done"><a href={`${base}lessons/${pad(l.no)}/`}><span class="st">{l.no}</span>{themeName(l)}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+      <aside>
+        <h4>読むところ</h4>
+        <ul class="side-links">
+          <li><a href={`${base}lessons/`}>授業記録（全{lessons.length}回）</a></li>
+          <li><a href={`${base}syllabus/`}>60回の地図</a></li>
+          <li><a href={`${base}gaiden/`}>外伝（{gaiden.length}本）</a></li>
+          <li><a href={`${base}analysis-sheet/`}>分析シート</a></li>
+          <li><a href={`${base}timeline/`}>年表　1945年から今まで</a></li>
+          <li><a href={`${base}studios/`}>世界のビジュアルスタジオ</a></li>
+          <li><a href={`${base}glossary/`}>用語集</a></li>
+          <li><a href={`${base}books/`}>書棚</a></li>
+          <li><a href={`${base}links/`}>リンク集</a></li>
+          <li><a href={`${base}about/`}>この授業について</a></li>
+        </ul>
+      </aside>
+    </div>
+  </div>
+</Base>

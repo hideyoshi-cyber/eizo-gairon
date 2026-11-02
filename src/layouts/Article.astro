@@ -1,0 +1,30 @@
+---
+import Base from './Base.astro';
+interface Props {
+  title: string;
+  kicker?: string;
+  blockNo?: number;
+  wide?: boolean;
+  crumbs?: [string, string][];
+  prev?: [string, string];
+  next?: [string, string];
+  labels?: string[];
+  current?: string;
+}
+const { title, kicker, blockNo = 1, wide = false, crumbs = [], prev, next, labels = [], current } = Astro.props;
+---
+<Base title={title} current={current}>
+  <article class={`article e${blockNo}${wide ? ' wide' : ''}`}>
+    {crumbs.length > 0 && <nav class="crumb" aria-label="パンくず">{crumbs.map(([h, t], i) => <>{i > 0 && ' / '}<a href={h}>{t}</a></>)}</nav>}
+    {kicker && <div class="a-meta"><span class="era-tag">{kicker.split('｜')[0]}</span><span>{kicker.split('｜').slice(1).join('｜')}</span></div>}
+    <h1>{title}</h1>
+    <div class="prose"><slot /></div>
+    {labels.length > 0 && <ul class="a-labels chips">{labels.map((l) => <li class="chip">{l}</li>)}</ul>}
+    {(prev || next) && (
+      <div class="pager">
+        {prev ? <a href={prev[0]}>← {prev[1]}</a> : <span />}
+        {next ? <a href={next[0]}>{next[1]} →</a> : <span />}
+      </div>
+    )}
+  </article>
+</Base>

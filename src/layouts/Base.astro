@@ -1,0 +1,43 @@
+---
+import '../styles/site.css';
+import '../styles/retro.css';
+interface Props { title?: string; description?: string; current?: string }
+const { title, description = '2020年代の作品から出発し、2年・60回かけて90年代、戦後の源流まで遡る映像の授業。', current = '' } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+const full = title ? `${title} | 映像概論` : '映像概論 ― 今から、源流へ遡る2年間';
+const nav = [
+  ['lessons/', '授業記録'], ['syllabus/', '60回の地図'], ['gaiden/', '外伝'], ['analysis-sheet/', '分析シート'],
+  ['timeline/', '年表'], ['studios/', 'スタジオ'], ['glossary/', '用語集'], ['books/', '書棚'],
+  ['links/', 'リンク集'], ['about/', 'この授業について'],
+];
+---
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{full}</title>
+  <meta name="description" content={description} />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Unbounded:wght@600;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="mast">
+    <div class="wrap">
+      <a class="brand" href={base}><b>映像概論</b><span>現代映像概論 ―今から、源流へ遡る2年間</span></a>
+      <nav aria-label="サイト内">
+        {nav.map(([p, label]) => <a href={base + p} aria-current={current === p ? 'page' : undefined}>{label}</a>)}
+      </nav>
+    </div>
+  </header>
+  <main><slot /></main>
+  <footer class="foot">
+    <div class="wrap">
+      <p>講師：蔡本英賛（株式会社リキッドブロック）</p>
+      <p>作品の基本情報は公開情報で確認したものです。配信状況は変わるため、授業前に確認してください。</p>
+    </div>
+  </footer>
+</body>
+</html>
