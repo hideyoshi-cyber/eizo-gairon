@@ -95,7 +95,7 @@ labels:
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=La%20La%20Land%20trailer)
+- [▶](https://www.youtube.com/watch?v=0pdqf4P9MB8)
 
   ### 『ラ・ラ・ランド』予告編
 

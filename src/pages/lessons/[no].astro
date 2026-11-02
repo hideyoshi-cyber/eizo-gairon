@@ -1,6 +1,7 @@
 ---
 import { render } from 'astro:content';
 import Article from '../../layouts/Article.astro';
+import FeedbackBox from '../../components/FeedbackBox.astro';
 import { lessons, pad, block, themeName, getPublic } from '../../lib/plan';
 export async function getStaticPaths() {
   const entries = await getPublic('lessons');
@@ -24,4 +25,5 @@ const link = (x?: typeof l): [string, string] | undefined => x && [`${base}lesso
   current="lessons/"
 >
   <Content />
+  <FeedbackBox no={n} />
 </Article>

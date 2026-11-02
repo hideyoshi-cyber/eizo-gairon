@@ -179,7 +179,7 @@ FF7の映像は二層でできています。プリレンダの2D背景の上に
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=FINAL%20FANTASY%20VII%201997%20%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%20%E5%AE%9F%E6%B3%81%E3%81%AA%E3%81%97)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=FINAL%20FANTASY%20VII%201997%20%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%20%E5%AE%9F%E6%B3%81%E3%81%AA%E3%81%97)
-- [▶](https://www.youtube.com/results?search_query=FINAL%20FANTASY%20VII%20REBIRTH%20State%20of%20Play%202024)
+- [▶](https://www.youtube.com/watch?v=WgdkN2tCAFw)
 
   ### 『FINAL FANTASY VII REBIRTH』State of Play（2024年2月）
 

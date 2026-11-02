@@ -92,7 +92,7 @@ labels:
   曲の楽器ごとに、どのダンサーの集団が割り当てられているかを聴き分けながら観てください。
 
   [YouTubeで観るミシェル・ゴンドリー監督](https://www.youtube.com/watch?v=s9MszVE7aR4)
-- [▶](https://www.youtube.com/results?search_query=Chemical%20Brothers%20Star%20Guitar%20Michel%20Gondry)
+- [▶](https://www.youtube.com/watch?v=0S43IwBF0uM)
 
   ### ケミカル・ブラザーズ「Star Guitar」
 
@@ -111,7 +111,7 @@ labels:
   ゴンドリーが曲を図に起こして、映像の設計図を作る様子です。
 
   [YouTubeで観るミシェル・ゴンドリー](https://www.youtube.com/watch?v=CJ1iMQA0egc)
-- [▶](https://www.youtube.com/results?search_query=White%20Stripes%20Fell%20in%20Love%20with%20a%20Girl%20Michel%20Gondry)
+- [▶](https://www.youtube.com/watch?v=fTH71AAxXmM)
 
   ### ホワイト・ストライプス「Fell in Love with a Girl」（2002）
 

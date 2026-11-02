@@ -113,7 +113,7 @@ labels:
 
 授業で上映した作品の予告編です。
 
-- [▶](https://www.youtube.com/results?search_query=%E3%83%9E%E3%82%A4%E3%83%BB%E3%82%A8%E3%83%AC%E3%83%A1%E3%83%B3%E3%83%88%20%E4%BA%88%E5%91%8A%E7%B7%A8)
+- [▶](https://www.youtube.com/watch?v=lIj91bZ0Ipg)
 
   ### 『マイ・エレメント』予告編
 

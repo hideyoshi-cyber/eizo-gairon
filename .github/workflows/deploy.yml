@@ -25,6 +25,7 @@ jobs:
           # 公開URLが決まったら Repository variables の SITE_URL / BASE_PATH を設定する
           SITE_URL: ${{ vars.SITE_URL }}
           BASE_PATH: ${{ vars.BASE_PATH }}
+          PUBLIC_FEEDBACK_FORM_URL: ${{ vars.FEEDBACK_FORM_URL }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

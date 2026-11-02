@@ -481,7 +481,7 @@ lessons:
   - 色
   - 源流
   - 音楽
-  fact_check: pending
+  fact_check: verified-2026-11
   file: lessons/28/blog.md
 - 'no': 29
   term: 1年後期
@@ -849,7 +849,7 @@ lessons:
   - CG
   - 企画
   - 源流
-  fact_check: pending
+  fact_check: verified-2026-11
   file: lessons/50/blog.md
 - 'no': 51
   term: 2年後期
@@ -900,7 +900,7 @@ lessons:
   - タイポ
   - アニメ
   - 源流
-  fact_check: pending
+  fact_check: verified-2026-11
   file: lessons/53/blog.md
 - 'no': 54
   term: 2年後期

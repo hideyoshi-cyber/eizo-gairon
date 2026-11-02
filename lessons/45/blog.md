@@ -78,7 +78,7 @@ labels:
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=Pixar%20color%20script)
+- [▶](https://www.youtube.com/watch?v=4BHGUk3R-Rk)
 
   ### ピクサーのカラースクリプトの解説
 

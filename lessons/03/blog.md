@@ -139,7 +139,7 @@ labels:
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=Ghost%20of%20Tsushima%20%E9%BB%92%E6%BE%A4%E3%83%A2%E3%83%BC%E3%83%89)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=Ghost%20of%20Tsushima%20%E9%BB%92%E6%BE%A4%E3%83%A2%E3%83%BC%E3%83%89)
-- [▶](https://www.youtube.com/results?search_query=%E6%A4%BF%E4%B8%89%E5%8D%81%E9%83%8E%20%E4%BA%88%E5%91%8A%E7%B7%A8)
+- [▶](https://www.youtube.com/watch?v=ffkxU6VmKFc)
 
   ### 『椿三十郎』（1962）予告編
 
@@ -160,7 +160,7 @@ labels:
 | **序盤のプレイ映像** | 約30分 | ムービーからプレイに切り替わる瞬間。風で目的地を示す画面 |
 | **黒澤モード** | 約10分 | 同じプレイ画面が、白黒と音でどう変わるか |
 
-- [▶](https://www.youtube.com/results?search_query=Ghost%20of%20Tsushima%20State%20of%20Play%20May%202020%20gameplay)
+- [▶](https://www.youtube.com/watch?v=Ur0pQblaZcE)
 
   ### 『Ghost of Tsushima』State of Play（2020年5月）
 

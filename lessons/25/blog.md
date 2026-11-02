@@ -101,7 +101,7 @@ labels:
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82%20%E4%BA%88%E5%91%8A)
+- [▶](https://www.youtube.com/watch?v=k4xGqY5IDBE)
 
   ### 『君の名は。』予告編
 

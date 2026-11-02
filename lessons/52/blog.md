@@ -103,7 +103,7 @@ Production I.Gのような制作会社が、こうした作品を作っていま
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A%201995%20%E4%BA%88%E5%91%8A)
+- [▶](https://www.youtube.com/watch?v=LDsk1GVCvDo)
 
   ### 『GHOST IN THE SHELL／攻殻機動隊』予告編
 

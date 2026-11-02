@@ -120,7 +120,7 @@ labels:
 
 授業で上映した作品の予告編です。
 
-- [▶](https://www.youtube.com/results?search_query=%E5%8A%87%E5%A0%B4%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF%20%E6%9C%AC%E4%BA%88%E5%91%8A)
+- [▶](https://www.youtube.com/watch?v=gH6zVJVHEaM)
 
   ### 劇場アニメ『ルックバック』本予告
 
@@ -130,7 +130,7 @@ labels:
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=%E5%8A%87%E5%A0%B4%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF%20%E6%9C%AC%E4%BA%88%E5%91%8A)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=%E5%8A%87%E5%A0%B4%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF%20%E6%9C%AC%E4%BA%88%E5%91%8A)
-- [▶](https://www.youtube.com/results?search_query=%E5%8A%87%E5%A0%B4%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%AB%E3%83%83%E3%82%AF%E3%83%90%E3%83%83%E3%82%AF%20%E7%89%B9%E5%A0%B1)
+- [▶](https://www.youtube.com/watch?v=6pKt9OsxwWc)
 
   ### 劇場アニメ『ルックバック』特報
 

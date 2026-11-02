@@ -129,7 +129,7 @@ YOASOBIの曲は、MVの外にも広がっています。その一つが、日�
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=%E3%83%86%E3%82%A3%E3%83%AD%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%20YOASOBI%20%E7%BE%A4%E9%9D%92%20Vaundy%20%E8%8A%B1%E5%8D%A0%E3%81%84)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=%E3%83%86%E3%82%A3%E3%83%AD%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%20YOASOBI%20%E7%BE%A4%E9%9D%92%20Vaundy%20%E8%8A%B1%E5%8D%A0%E3%81%84)
-- [▶](https://www.youtube.com/results?search_query=%E3%83%86%E3%82%A3%E3%83%AD%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%20Ado%20%E8%B8%8A%20asmi%20PAKU)
+- [▶](https://www.youtube.com/watch?v=diIX7sbAC7s)
 
   ### ティロリミックス｜Ado「踊」× asmi「PAKU」（2023）
 

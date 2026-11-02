@@ -100,7 +100,7 @@ labels:
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer)
+- [▶](https://www.youtube.com/watch?v=_PZpmTj1Q8Q)
 
   ### 『ダークナイト』予告編
 

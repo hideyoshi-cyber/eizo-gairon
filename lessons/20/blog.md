@@ -125,7 +125,7 @@ Honda「Cog」は、部品が次々に動いていく様子を、切れ目のな
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=Honda%20Cog%20commercial%202003)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=Honda%20Cog%20commercial%202003)
-- [▶](https://www.youtube.com/results?search_query=Nike%20Write%20the%20Future%20commercial%202010)
+- [▶](https://www.youtube.com/watch?v=igUF8Aa2OL0)
 
   ### Nike「Write the Future」
 

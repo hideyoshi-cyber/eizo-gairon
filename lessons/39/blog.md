@@ -117,7 +117,7 @@ labels:
 
 授業で扱った作品と、富野由悠季を知るための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E7%AC%AC1%E8%A9%B1%201979)
+- [▶](https://www.youtube.com/watch?v=0qM82sMzyzc)
 
   ### 『機動戦士ガンダム』（1979）第1話
 

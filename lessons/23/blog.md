@@ -93,7 +93,7 @@ CGは、写真のようにリアルにもできるし、手描きのようにも
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=Spider-Man%20Into%20the%20Spider-Verse%20trailer)
+- [▶](https://www.youtube.com/watch?v=g4Hbz2jLxvQ)
 
   ### 『スパイダーマン：スパイダーバース』予告編
 

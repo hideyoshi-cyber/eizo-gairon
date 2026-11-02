@@ -43,7 +43,7 @@ labels:
 | **つながる作品** | 『シン・ゴジラ』（第16回・第21回）、『時をかける少女』（第37回、貞本義行） |
 | **配信** | 要確認 |
 
-作品の基本情報は公開情報をもとにしています。配信状況は変わるため、授業前に確認してください。
+作品の基本情報は2026年11月に公開情報で確認しました（[アニメ！アニメ！／映画.com](https://anime.eiga.com/movie/101345/)、[INTERNET Watch](https://internet.watch.impress.co.jp/docs/news/1028410.html)、[KAI-YOU](https://kai-you.net/article/35097)、[国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/en/books/R100000038-I3814567)、Wikipedia日本語版）。配信状況は変わるため、授業前に確認してください。
 
 ## 作り手のバックボーン
 

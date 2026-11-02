@@ -101,7 +101,7 @@ CM（広告映像）：15秒の設計
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=Gravity%202013%20trailer)
+- [▶](https://www.youtube.com/watch?v=OiTiKOy59o4)
 
   ### 『ゼロ・グラビティ』予告編
 

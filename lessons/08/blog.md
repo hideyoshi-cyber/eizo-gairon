@@ -117,7 +117,7 @@ labels:
   3つの世界の色の違いを確認してください。
 
   [YouTubeで観るWarner Bros. Pictures](https://www.youtube.com/watch?v=Way9Dexny3w)
-- [▶](https://www.youtube.com/results?search_query=Dune%202021%20official%20trailer)
+- [▶](https://www.youtube.com/watch?v=npl8ogM704A)
 
   ### 『DUNE／デューン 砂の惑星』（2021）予告編
 

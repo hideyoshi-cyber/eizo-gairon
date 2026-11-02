@@ -100,7 +100,7 @@ AIは、言われたものを出します。でも、何を作るべきか、な
 
 生成AIの映像を知るための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=OpenAI%20Sora%20demo%20video)
+- [▶](https://www.youtube.com/watch?v=HK6y8DAPN_0)
 
   ### OpenAI「Sora」の公開デモ
 
@@ -120,7 +120,7 @@ AIは、言われたものを出します。でも、何を作るべきか、な
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=Kling%20AI%20video%20generation)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=Kling%20AI%20video%20generation)
-- [▶](https://www.youtube.com/results?search_query=Adobe%20Firefly%20video%20model)
+- [▶](https://www.youtube.com/watch?v=fjk2mMFBpRo)
 
   ### Adobe Fireflyの映像生成
 

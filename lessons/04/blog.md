@@ -128,7 +128,7 @@ labels:
   本編の雰囲気をつかむための予告編です。予告編は普通にカットを割っている点にも注目してください。
 
   [YouTubeで観るUniversal Pictures](https://www.youtube.com/watch?v=UcmZN0Mbl04)
-- [▶](https://www.youtube.com/results?search_query=1917%20behind%20the%20scenes%20one%20shot)
+- [▶](https://www.youtube.com/watch?v=VZEjNIy5zHI)
 
   ### 『1917』メイキング：一続きのショットの撮り方
 

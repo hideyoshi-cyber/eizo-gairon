@@ -93,7 +93,7 @@ VFX・合成（2）『マッドマックス 怒りのデス・ロード』
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B4%E3%82%B8%E3%83%A9%20%E4%BA%88%E5%91%8A)
+- [▶](https://www.youtube.com/watch?v=ysRIwlEBjuw)
 
   ### 『シン・ゴジラ』予告編
 
@@ -103,7 +103,7 @@ VFX・合成（2）『マッドマックス 怒りのデス・ロード』
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B4%E3%82%B8%E3%83%A9%20%E4%BA%88%E5%91%8A)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B4%E3%82%B8%E3%83%A9%20%E4%BA%88%E5%91%8A)
-- [▶](https://www.youtube.com/results?search_query=%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B4%E3%82%B8%E3%83%A9%20%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%20VFX)
+- [▶](https://www.youtube.com/watch?v=66SAVZ4JxY8)
 
   ### 『シン・ゴジラ』メイキング
 

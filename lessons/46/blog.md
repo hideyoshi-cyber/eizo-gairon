@@ -92,7 +92,7 @@ labels:
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=The%20Matrix%201999%20trailer)
+- [▶](https://www.youtube.com/watch?v=tGgCqGm_6Hs)
 
   ### 『マトリックス』予告編
 

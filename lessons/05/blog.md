@@ -138,7 +138,7 @@ labels:
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=Top%20Gun%201986%20trailer)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=Top%20Gun%201986%20trailer)
-- [▶](https://www.youtube.com/results?search_query=Top%20Gun%20Maverick%20cockpit%20cameras%20behind%20the%20scenes)
+- [▶](https://www.youtube.com/watch?v=96oC5P4MRqQ)
 
   ### 『トップガン マーヴェリック』操縦席のカメラのメイキング
 

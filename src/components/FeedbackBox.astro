@@ -1,0 +1,13 @@
+---
+// 感想の提出ボタン。フォームのURLが設定されていないときは何も表示しない。
+const url = import.meta.env.PUBLIC_FEEDBACK_FORM_URL;
+const { no } = Astro.props;
+---
+{url && (
+  <section class="feedback" aria-labelledby="fb-title">
+    <h2 id="fb-title">感想の提出</h2>
+    <p>成績は、出席と、毎回の感想の提出で決まります。感想は、内容の正誤では評価しません。1行でもかまいません。Googleアカウントでログインして提出してください。</p>
+    <p class="fb-note">フォームでは「第{no}回」を選んでください。掲載に同意した感想だけを、名前を伏せて「みんなの気づき」に載せることがあります。</p>
+    <a class="fb-button" href={url} target="_blank" rel="noopener">第{no}回の感想を提出する →</a>
+  </section>
+)}

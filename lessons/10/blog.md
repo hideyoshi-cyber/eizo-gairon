@@ -117,7 +117,7 @@ labels:
   音楽が入る位置と、入らない位置を確認してください。
 
   [YouTubeで観るJoBlo Horror Trailers（再掲）](https://www.youtube.com/watch?v=NdeImvAcgY0)
-- [▶](https://www.youtube.com/results?search_query=%E3%82%B4%E3%82%B8%E3%83%A9%201954%20%E4%BA%88%E5%91%8A%E7%B7%A8)
+- [▶](https://www.youtube.com/watch?v=KIBFhpxAcRE)
 
   ### 『ゴジラ』（1954）予告編
 
@@ -137,7 +137,7 @@ labels:
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=%E4%BC%8A%E7%A6%8F%E9%83%A8%E6%98%AD%20%E3%82%B4%E3%82%B8%E3%83%A9%20%E3%83%86%E3%83%BC%E3%83%9E)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=%E4%BC%8A%E7%A6%8F%E9%83%A8%E6%98%AD%20%E3%82%B4%E3%82%B8%E3%83%A9%20%E3%83%86%E3%83%BC%E3%83%9E)
-- [▶](https://www.youtube.com/results?search_query=%E3%82%B4%E3%82%B8%E3%83%A9-1.0/C%20%E4%BA%88%E5%91%8A)
+- [▶](https://www.youtube.com/watch?v=PShgB-ielBI)
 
   ### 『ゴジラ-1.0／C』予告編
 

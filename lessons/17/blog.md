@@ -96,7 +96,7 @@ VFX・合成（3）演習
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=Mad%20Max%20Fury%20Road%20trailer)
+- [▶](https://www.youtube.com/watch?v=hEJnMQG9ev8)
 
   ### 『マッドマックス 怒りのデス・ロード』予告編
 

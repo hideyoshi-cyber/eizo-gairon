@@ -125,7 +125,7 @@ labels:
   音を消して一度、音を出して一度観て、印象の違いを比べてください。
 
   [YouTubeで観るJoBlo Horror Trailers（再掲）](https://www.youtube.com/watch?v=NdeImvAcgY0)
-- [▶](https://www.youtube.com/results?search_query=%E3%82%B4%E3%82%B8%E3%83%A9-1.0%20VFX%20%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%20%E7%99%BD%E7%B5%84)
+- [▶](https://www.youtube.com/watch?v=tej6GCean34)
 
   ### 『ゴジラ-1.0』VFXメイキング
 
@@ -135,7 +135,7 @@ labels:
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=%E3%82%B4%E3%82%B8%E3%83%A9-1.0%20VFX%20%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%20%E7%99%BD%E7%B5%84)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=%E3%82%B4%E3%82%B8%E3%83%A9-1.0%20VFX%20%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%20%E7%99%BD%E7%B5%84)
-- [▶](https://www.youtube.com/results?search_query=%E3%82%B4%E3%82%B8%E3%83%A9-1.0%20%E4%BA%88%E5%91%8A%20%E6%9D%B1%E5%AE%9D)
+- [▶](https://www.youtube.com/watch?v=x7ythIm0834)
 
   ### 『ゴジラ-1.0』予告編（日本版）
 

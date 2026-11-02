@@ -38,7 +38,7 @@ labels:
 | **『シェルブールの雨傘』（1964）** | ジャック・ドゥミ監督。全編のセリフを歌で語るフランスのミュージカル。鮮やかな色の壁や衣装が特徴 |
 | **『ラ・ラ・ランド』（2016）** | ドゥミ作品への敬意を込めた原色の色づかいと、夢と現実のすれ違いの物語 |
 
-作品の基本情報は公開情報をもとにしています。配信状況は変わるため、授業前に確認してください。
+作品の基本情報は2026年11月に公開情報で確認しました（[Wikipedia英語版「La La Land」](https://en.wikipedia.org/wiki/La_La_Land)、[同「The Umbrellas of Cherbourg」](https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg)、[カンヌ国際映画祭公式](https://www.festival-cannes.com/en/f/les-parapluies-de-cherbourg/)、[Little White Lies](https://lwlies.com/articles/the-umbrellas-of-cherbourg-la-la-land-damien-chazelle/)）。配信状況は変わるため、授業前に確認してください。
 
 ## 作り手のバックボーン
 

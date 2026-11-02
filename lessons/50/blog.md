@@ -41,7 +41,7 @@ labels:
 | **特徴** | 世界で初めて全編をCGで作った長編アニメーション映画 |
 | **配信** | Disney+（要確認） |
 
-作品の基本情報は公開情報をもとにしています。配信状況は変わるため、授業前に確認してください。
+作品の基本情報は2026年11月に公開情報で確認しました（[Wikipedia英語版「Toy Story」](https://en.wikipedia.org/wiki/Toy_Story)、[Disney公式](https://thewaltdisneycompany.com/news/toy-story-pixar-history/)、[アカデミー賞公式（第68回）](https://www.oscars.org/oscars/ceremonies/1996)、[映画.com](https://eiga.com/news/20260323/2/)）。配信状況は変わるため、授業前に確認してください。
 
 ## 作り手のバックボーン
 
@@ -91,7 +91,7 @@ labels:
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=Toy%20Story%201995%20trailer)
+- [▶](https://www.youtube.com/watch?v=CxwTLktovTU)
 
   ### 『トイ・ストーリー』予告編
 

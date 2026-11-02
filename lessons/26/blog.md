@@ -90,7 +90,7 @@ labels:
 
 授業で扱った映像と、理解を深めるための映像です。
 
-- [▶](https://www.youtube.com/results?search_query=%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82%20%E4%BA%88%E5%91%8A)
+- [▶](https://www.youtube.com/watch?v=3KR8_igDs1Y)
 
   ### 『君の名は。』予告編
 
@@ -100,7 +100,7 @@ labels:
 
   [YouTubeで探す検索結果を開きます](https://www.youtube.com/results?search_query=%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82%20%E4%BA%88%E5%91%8A)
   [Vimeoで探す検索結果を開きます](https://vimeo.com/search?q=%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82%20%E4%BA%88%E5%91%8A)
-- [▶](https://www.youtube.com/results?search_query=RADWIMPS%20%E5%89%8D%E5%89%8D%E5%89%8D%E4%B8%96)
+- [▶](https://www.youtube.com/watch?v=PDSkFeMVNFs)
 
   ### RADWIMPSの劇中歌
 
