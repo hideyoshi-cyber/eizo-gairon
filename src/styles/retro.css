@@ -29,7 +29,7 @@ a:focus-visible, button:focus-visible { outline-color: var(--neon); }
 
 /* ヘッダー */
 .mast { background: rgba(27, 10, 60, .92); border-bottom: 1px solid var(--neon); position: sticky; top: 0; z-index: 10; backdrop-filter: blur(6px); }
-.brand b { font-family: var(--display); font-weight: 800; color: var(--neon); letter-spacing: 0; text-shadow: 0 0 14px var(--glow); }
+.brand b { font-family: var(--display); font-weight: 700; color: var(--neon); letter-spacing: 0; text-shadow: 0 0 8px rgba(134, 255, 107, .25); }
 .brand span { color: var(--sub); }
 nav a { font-weight: 700; font-size: 14px; letter-spacing: .04em; padding: 5px 12px; border: 1px solid transparent; border-radius: 999px; }
 nav a:hover { border-color: var(--neon); }
@@ -39,9 +39,9 @@ nav a[aria-current="page"] { border-color: var(--neon); color: var(--neon); }
 /* ヒーロー：遠近グリッドの床 */
 .hero { position: relative; padding: 88px 0 140px; text-align: center; }
 .hero h1 {
-  font-family: var(--display); font-weight: 800; color: var(--neon);
+  font-family: var(--display); font-weight: 700; color: var(--neon);
   font-size: clamp(40px, 7.4vw, 92px); line-height: 1.18; letter-spacing: -.01em;
-  text-shadow: 0 0 28px var(--glow), 3px 3px 0 #0e0524;
+  text-shadow: 0 0 18px rgba(134, 255, 107, .25);
 }
 .hero p { margin-left: auto; margin-right: auto; color: var(--ink); }
 .hero-kicker { color: var(--c20) !important; font-family: var(--display); letter-spacing: .3em; font-size: 14px; text-transform: uppercase; }
@@ -56,11 +56,11 @@ nav a[aria-current="page"] { border-color: var(--neon); color: var(--neon); }
 }
 
 /* 見出し・本文 */
-.sec-title, .block-head h2, .page h1 { font-family: var(--display); font-weight: 800; }
-.page h1, .article h1 { color: var(--neon); text-shadow: 0 0 22px var(--glow); }
-.article h1 { font-family: var(--display); font-weight: 800; font-size: clamp(24px, 4.2vw, 38px); line-height: 1.5; }
-.prose h2, .article h2 { font-family: var(--display); font-weight: 700; font-size: 19px; border-left: 4px solid var(--era, var(--neon)); color: var(--ink); }
-.era-tag { color: #1b0a3c; font-weight: 800; border-radius: 999px; padding: 2px 14px; background: var(--era, var(--c20)); box-shadow: 0 0 12px var(--era, var(--c20)); }
+.sec-title, .block-head h2, .page h1 { font-family: var(--display); font-weight: 700; }
+.page h1, .article h1 { color: var(--neon); text-shadow: 0 0 12px rgba(134, 255, 107, .2); }
+.article h1 { font-family: var(--display); font-weight: 700; font-size: clamp(24px, 4.2vw, 38px); line-height: 1.5; }
+.prose h2, .article h2 { font-family: var(--display); font-weight: 600; font-size: 19px; border-left: 4px solid var(--era, var(--neon)); color: var(--ink); }
+.era-tag { color: #1b0a3c; font-weight: 700; border-radius: 999px; padding: 2px 14px; background: var(--era, var(--c20)); box-shadow: 0 0 12px var(--era, var(--c20)); }
 .lead { color: var(--sub); }
 
 /* 60回の目盛り */
@@ -85,7 +85,7 @@ nav a[aria-current="page"] { border-color: var(--neon); color: var(--neon); }
 .titles li.done a { color: var(--era); }
 .titles li.done:hover { background: var(--era); }
 .titles li.done:hover a { color: #1b0a3c; }
-.lesson-list .no, .posts .no { font-family: var(--display); font-weight: 800; text-shadow: 0 0 12px currentColor; }
+.lesson-list .no, .posts .no { font-family: var(--display); font-weight: 700; text-shadow: 0 0 6px currentColor; }
 .block-head { border-top-width: 3px; }
 .chip { border-radius: 999px; border-color: var(--rule); background: transparent; color: var(--sub); }
 
