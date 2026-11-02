@@ -17,6 +17,17 @@ export function resolveAnchor(hash, base) {
   return null;
 }
 
+
+/** 個別の動画URL（YouTube／Vimeo）だけを埋め込みURLにする。検索結果ページは埋め込めないので null */
+export function embedUrl(url) {
+  let m;
+  if ((m = url.match(/^https:\/\/(?:www\.)?youtube\.com\/watch\?(?:[^#]*&)?v=([\w-]{11})/)) || (m = url.match(/^https:\/\/youtu\.be\/([\w-]{11})/))) {
+    return `https://www.youtube-nocookie.com/embed/${m[1]}`;
+  }
+  if ((m = url.match(/^https:\/\/vimeo\.com\/(\d+)(?:[/?#]|$)/))) return `https://player.vimeo.com/video/${m[1]}`;
+  return null;
+}
+
 const text = (n) => (n.value ?? (n.children ?? []).map(text).join(''));
 
 export function remarkEizo(opts = {}) {
@@ -110,6 +121,11 @@ export function remarkEizo(opts = {}) {
           if (link && h3) {
             h3.children = [{ type: 'link', url: link.url, children: h3.children }];
             li.children.splice(0, 1);
+            const src = embedUrl(link.url);
+            if (src) {
+              const title = text(h3).replace(/"/g, '&quot;');
+              li.children.unshift({ type: 'html', value: `<div class="video-embed"><iframe src="${src}" title="${title}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>` });
+            }
           }
           li.data = { hProperties: { className: ['card'] } };
         }
