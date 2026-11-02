@@ -14,5 +14,9 @@
     "astro": "^7.4.4",
     "unist-util-visit": "^5.2.0",
     "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "@emnapi/core": "^1.11.3",
+    "@emnapi/runtime": "^1.11.3"
   }
 }
