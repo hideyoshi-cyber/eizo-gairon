@@ -1,0 +1,42 @@
+<svg class="fig-l19d" viewBox="0 0 560 448" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l19d-t l19d-d">
+  <title id="l19d-t">境界は「何を本物のまま残すか」で決まる</title>
+  <desc id="l19d-d">宇宙服や背景はCGでも、顔に当たる光は本物にする。境界は観客が見る顔に引かれ、尺は物語の大きさに合わせる。</desc>
+  <style>
+    .fig-l19d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l19d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l19d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l19d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l19d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l19d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l19d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l19d .head{fill:var(--sub,#5B616E)}
+    .fig-l19d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l19d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l19d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l19d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l19d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l19d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l19d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l19d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l19d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l19d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l19d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <text class="step" x="20" y="36">1　光だけは本物にする</text>
+  <rect class="dash" x="20" y="50" width="520" height="170" rx="10"/>
+  <text class="sh" x="40" y="78">CG：宇宙服や背景</text>
+  <rect class="softh" x="110" y="94" width="340" height="108" rx="10"/>
+  <text class="step" x="134" y="126">顔：本物の芝居と本物の光</text>
+  <text class="ex" x="134" y="154">LEDの光の箱の中で</text>
+  <text class="ex" x="134" y="176">CGの映像と同じ動きで当てる</text>
+  <rect class="box" x="20" y="234" width="520" height="92" rx="10"/>
+  <rect class="b2" x="20" y="234" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="264">2　境界は「顔」に引かれている</text>
+  <text class="ex" x="48" y="288">観客が一番よく見ているのは顔</text>
+  <text class="ex" x="48" y="310">境界は、観客がどこを見るかで決まる</text>
+  <rect class="box" x="20" y="340" width="520" height="92" rx="10"/>
+  <rect class="b1" x="20" y="340" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="370">3　91分という尺</text>
+  <text class="ex" x="48" y="394">物語の大きさに合わせた尺</text>
+  <text class="ex" x="48" y="416">宇宙で一人を、引き伸ばさず描く</text>
+</svg>

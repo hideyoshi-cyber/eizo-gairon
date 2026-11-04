@@ -1,0 +1,41 @@
+<svg class="fig-l42i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l42i-t l42i-d">
+  <title id="l42i-t">1カットを層に分ける</title>
+  <desc id="l42i-d">平行四辺形の板が5枚、少しずつ間隔をあけて縦に重なる。1枚の画を層に分解するイメージ。</desc>
+  <style>
+    .fig-l42i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l42i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l42i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l42i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l42i .mid{text-anchor:middle}
+    .fig-l42i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l42i .head{fill:var(--sub,#5B616E)}
+    .fig-l42i .bar{fill:var(--c00,#B0347E)}
+    .fig-l42i .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l42i .accfill{fill:var(--c00,#B0347E)}
+    .fig-l42i .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l42i .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l42i .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l42i .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l42i .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l42i .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l42i .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="panel" x="0" y="0" width="560" height="315"/>
+  <polygon style="fill:var(--c00,#B0347E);fill-opacity:0.18" points="180,40 410,40 380,74 150,74"/>
+  <line class="rule" x1="180" y1="74" x2="180" y2="92" style="stroke-dasharray:3 4"/>
+  <line class="rule" x1="410" y1="74" x2="410" y2="92" style="stroke-dasharray:3 4"/>
+  <polygon style="fill:var(--c00,#B0347E);fill-opacity:0.3" points="180,92 410,92 380,126 150,126"/>
+  <line class="rule" x1="180" y1="126" x2="180" y2="144" style="stroke-dasharray:3 4"/>
+  <line class="rule" x1="410" y1="126" x2="410" y2="144" style="stroke-dasharray:3 4"/>
+  <polygon style="fill:var(--c00,#B0347E);fill-opacity:0.5" points="180,144 410,144 380,178 150,178"/>
+  <line class="rule" x1="180" y1="178" x2="180" y2="196" style="stroke-dasharray:3 4"/>
+  <line class="rule" x1="410" y1="178" x2="410" y2="196" style="stroke-dasharray:3 4"/>
+  <polygon style="fill:var(--c00,#B0347E);fill-opacity:0.75" points="180,196 410,196 380,230 150,230"/>
+  <line class="rule" x1="180" y1="230" x2="180" y2="248" style="stroke-dasharray:3 4"/>
+  <line class="rule" x1="410" y1="230" x2="410" y2="248" style="stroke-dasharray:3 4"/>
+  <polygon class="inkfill" style="fill-opacity:.88" points="180,248 410,248 380,282 150,282"/>
+  <line class="rule" x1="180" y1="282" x2="180" y2="300" style="stroke-dasharray:3 4"/>
+  <line class="rule" x1="410" y1="282" x2="410" y2="300" style="stroke-dasharray:3 4"/>
+  <line class="ink" x1="470" y1="50" x2="470" y2="270"/><polygon class="inkfill" points="462,262 478,262 470,278"/>
+
+</svg>

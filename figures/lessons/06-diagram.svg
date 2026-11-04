@@ -1,0 +1,43 @@
+<svg class="fig-l06d" viewBox="0 0 560 452" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l06d-t l06d-d">
+  <title id="l06d-t">引き継ぐものと更新するもの</title>
+  <desc id="l06d-d">続編の構図は、前作の様式を引き継ぎ、空中の俳優の顔だけを更新する。全部新しくも全部真似でもない。</desc>
+  <style>
+    .fig-l06d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l06d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l06d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l06d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l06d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l06d .head{fill:var(--sub,#5B616E)}
+    .fig-l06d .a{fill:var(--c20,#127F91)} .fig-l06d .b{fill:var(--c10,#5C6BC0)} .fig-l06d .c{fill:var(--c00,#B0347E)} .fig-l06d .d{fill:var(--c90,#C26A1B)}
+    .fig-l06d .mid{text-anchor:middle}
+    .fig-l06d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="255" height="114" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="48">引き継ぐ</text>
+  <text class="ex" x="48" y="76">時間帯：夕景、逆光</text>
+  <text class="ex" x="48" y="98">レンズ：望遠の圧縮</text>
+  <text class="ex" x="48" y="120">質感：フィルターと粒子</text>
+  <rect class="box" x="285" y="16" width="255" height="114" rx="10"/>
+  <rect class="c" x="285" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="313" y="48">更新する</text>
+  <text class="ex" x="313" y="76">空中の俳優の顔</text>
+  <text class="ex" x="313" y="98">1986年版は撮れなかった</text>
+  <text class="ex" x="313" y="120">操縦席のカメラで撮った</text>
+  <rect class="box" x="20" y="142" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="142" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="174">どこを動かすかが設計</text>
+  <text class="ex" x="48" y="202">全部新しいと、前作との連続性が切れる</text>
+  <text class="ex" x="48" y="224">全部真似ると、続編を作る理由がなくなる</text>
+  <line class="arrow" x1="280" y1="238" x2="280" y2="250"/><polygon class="head" points="272,248 288,248 280,258"/>
+  <rect class="box" x="20" y="262" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="262" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="294">様式は作り手の経歴から来る</text>
+  <text class="ex" x="48" y="322">1986年版の画は、CM出身のスコットの様式</text>
+  <text class="who" x="48" y="344">その監督がどこで画を覚えたかまでたどる</text>
+  <rect class="box" x="20" y="366" width="520" height="70" rx="10"/>
+  <rect class="d" x="20" y="366" width="10" height="70" rx="4"/>
+  <text class="step" x="48" y="398">構図は観客の記憶に働きかける</text>
+  <text class="ex" x="48" y="426">夕景の甲板の画を見て、1986年を思い出す</text>
+
+</svg>

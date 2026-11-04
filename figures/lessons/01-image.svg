@@ -1,0 +1,68 @@
+<svg class="fig-l01i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l01i-t l01i-d">
+  <title id="l01i-t">1997年の層と2024年の1つのエンジン</title>
+  <desc id="l01i-d">別々にずらして重ねた3枚の層と、継ぎ目のない1枚の面を並べた抽象的な図案。</desc>
+  <style>
+    .fig-l01i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l01i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l01i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l01i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l01i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l01i .head{fill:var(--sub,#5B616E)}
+    .fig-l01i .a{fill:var(--c20,#127F91)} .fig-l01i .b{fill:var(--c10,#5C6BC0)} .fig-l01i .c{fill:var(--c00,#B0347E)} .fig-l01i .d{fill:var(--c90,#C26A1B)}
+    .fig-l01i .mid{text-anchor:middle}
+    .fig-l01i .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect width="560" height="315" fill="var(--paper,#F5F3EE)"/>
+  <g stroke="var(--rule,#D3D7DE)" stroke-width="1" opacity=".6"><line x1="0" y1="0" x2="0" y2="315"/><line x1="40" y1="0" x2="40" y2="315"/><line x1="80" y1="0" x2="80" y2="315"/><line x1="120" y1="0" x2="120" y2="315"/><line x1="160" y1="0" x2="160" y2="315"/><line x1="200" y1="0" x2="200" y2="315"/><line x1="240" y1="0" x2="240" y2="315"/><line x1="280" y1="0" x2="280" y2="315"/><line x1="320" y1="0" x2="320" y2="315"/><line x1="360" y1="0" x2="360" y2="315"/><line x1="400" y1="0" x2="400" y2="315"/><line x1="440" y1="0" x2="440" y2="315"/><line x1="480" y1="0" x2="480" y2="315"/><line x1="520" y1="0" x2="520" y2="315"/><line x1="560" y1="0" x2="560" y2="315"/><line x1="0" y1="0" x2="560" y2="0"/><line x1="0" y1="35" x2="560" y2="35"/><line x1="0" y1="70" x2="560" y2="70"/><line x1="0" y1="105" x2="560" y2="105"/><line x1="0" y1="140" x2="560" y2="140"/><line x1="0" y1="175" x2="560" y2="175"/><line x1="0" y1="210" x2="560" y2="210"/><line x1="0" y1="245" x2="560" y2="245"/><line x1="0" y1="280" x2="560" y2="280"/><line x1="0" y1="315" x2="560" y2="315"/></g>
+  <g transform="translate(60,0) skewX(-20)">
+    <rect x="100" y="50" width="170" height="38" fill="var(--c20,#127F91)" opacity="0.95"/>
+    <rect x="100" y="105" width="170" height="38" fill="var(--c20,#127F91)" opacity="0.6"/>
+    <rect x="100" y="160" width="170" height="38" fill="var(--c20,#127F91)" opacity="0.32"/>
+    <line x1="90" y1="96" x2="290" y2="96" stroke="var(--ink,#1A1D24)" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <line x1="90" y1="151" x2="290" y2="151" stroke="var(--ink,#1A1D24)" stroke-width="1.5" stroke-dasharray="5 4"/>
+  </g>
+  <polyline points="285,128 305,148 285,168" fill="none" stroke="var(--ink,#1A1D24)" stroke-width="4"/><polyline points="305,128 325,148 305,168" fill="none" stroke="var(--ink,#1A1D24)" stroke-width="4" opacity=".5"/>
+  <rect x="350" y="48" width="165" height="160" fill="var(--c20,#127F91)"/>
+  <line x1="350" y1="56" x2="515" y2="56" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="64" x2="515" y2="64" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="72" x2="515" y2="72" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="80" x2="515" y2="80" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="88" x2="515" y2="88" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="96" x2="515" y2="96" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="104" x2="515" y2="104" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="112" x2="515" y2="112" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="120" x2="515" y2="120" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="128" x2="515" y2="128" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="136" x2="515" y2="136" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="144" x2="515" y2="144" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="152" x2="515" y2="152" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="160" x2="515" y2="160" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="168" x2="515" y2="168" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="176" x2="515" y2="176" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="184" x2="515" y2="184" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="192" x2="515" y2="192" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <line x1="350" y1="200" x2="515" y2="200" stroke="var(--paper,#F5F3EE)" stroke-width="1" opacity=".35"/>
+  <rect x="350" y="48" width="165" height="160" fill="none" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <rect x="0" y="240" width="560" height="75" fill="var(--c20,#127F91)" opacity=".14"/>
+  <line x1="280" y1="240" x2="-280" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="-210" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="-140" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="-70" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="0" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="70" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="140" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="210" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="280" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="350" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="420" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="490" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="560" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="630" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="700" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="770" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="240" x2="840" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="0" y1="258.8" x2="560" y2="258.8" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="0" y1="281.3" x2="560" y2="281.3" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="0" y1="315.0" x2="560" y2="315.0" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+
+</svg>

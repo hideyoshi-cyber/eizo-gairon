@@ -1,0 +1,43 @@
+<svg class="fig-l22d" viewBox="0 0 560 402" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l22d-t l22d-d">
+  <title id="l22d-t">文字だけで時代を連れてくる3つの理由</title>
+  <desc id="l22d-d">書体が時代を運び、動きが少ないほど文字が記憶に残り、毎話のオープニングが作品に入る儀式になる。</desc>
+  <style>
+    .fig-l22d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l22d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l22d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l22d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l22d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l22d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l22d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l22d .head{fill:var(--sub,#5B616E)}
+    .fig-l22d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l22d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l22d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l22d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l22d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l22d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l22d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l22d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l22d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l22d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l22d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="46">1　書体が時代を運ぶ</text>
+  <text class="ex" x="48" y="70">書体と色と音が、時代の記号になる</text>
+  <text class="ex" x="48" y="92">80年代の小説の表紙の雰囲気</text>
+  <text class="who" x="48" y="114">書体は、時代の記憶をまとっている</text>
+  <rect class="box" x="20" y="144" width="520" height="114" rx="10"/>
+  <rect class="b2" x="20" y="144" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="174">2　動きは少ないほど強い</text>
+  <text class="ex" x="48" y="198">ゆっくり動くだけ</text>
+  <text class="ex" x="48" y="220">一文字ずつの形が記憶に残る</text>
+  <text class="who" x="48" y="242">第21回とは逆：読ませる文字</text>
+  <rect class="box" x="20" y="272" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="272" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="302">3　オープニングは毎回の儀式</text>
+  <text class="ex" x="48" y="326">毎話、同じ映像を何度も観る</text>
+  <text class="ex" x="48" y="348">作品の世界に入る準備をする</text>
+  <text class="who" x="48" y="370">タイトルは、作品の世界への入口</text>
+</svg>

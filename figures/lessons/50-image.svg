@@ -1,0 +1,18 @@
+<svg class="fig-l50i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l50i-t l50i-d">
+  <title id="l50i-t">限界の中で輝く題材を表す図案</title>
+  <desc id="l50i-d">つるつるした丸や角丸の面が左に並び、右の点線の境界の先には、ぎざぎざの線だけの形がある。技術の限界と、その中で選ぶ題材を抽象的に表す。</desc>
+  <style>
+    .fig-l50i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l50i .gl{stroke:var(--rule,#D3D7DE);stroke-width:1;fill:none}
+    .fig-l50i .a{fill:var(--c90,#C26A1B)}
+    .fig-l50i .as{stroke:var(--c90,#C26A1B);stroke-width:2.5;fill:none}
+    .fig-l50i .k{fill:var(--ink,#1A1D24)}
+    .fig-l50i .ks{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l50i .ss{stroke:var(--sub,#5B616E);stroke-width:1.5;fill:none}
+    .fig-l50i .p{fill:var(--paper,#F4F5F7)}
+    .fig-l50i .pn{fill:var(--panel,#FFFFFF)}
+    .fig-l50i .d{stroke-dasharray:6 5}
+  </style>
+  <rect class="bg" width="560" height="315"/>
+  <line class="gl" x1="0" y1="202.3" x2="560" y2="202.3"/><line class="gl" x1="0" y1="209.2" x2="560" y2="209.2"/><line class="gl" x1="0" y1="220.7" x2="560" y2="220.7"/><line class="gl" x1="0" y1="236.8" x2="560" y2="236.8"/><line class="gl" x1="0" y1="257.5" x2="560" y2="257.5"/><line class="gl" x1="0" y1="282.8" x2="560" y2="282.8"/><line class="gl" x1="0" y1="312.7" x2="560" y2="312.7"/><line class="gl" x1="280" y1="200" x2="0" y2="315"/><line class="gl" x1="280" y1="200" x2="0" y2="315"/><line class="gl" x1="280" y1="200" x2="20" y2="315"/><line class="gl" x1="280" y1="200" x2="90" y2="315"/><line class="gl" x1="280" y1="200" x2="160" y2="315"/><line class="gl" x1="280" y1="200" x2="230" y2="315"/><line class="gl" x1="280" y1="200" x2="300" y2="315"/><line class="gl" x1="280" y1="200" x2="370" y2="315"/><line class="gl" x1="280" y1="200" x2="440" y2="315"/><line class="gl" x1="280" y1="200" x2="510" y2="315"/><line class="gl" x1="280" y1="200" x2="560" y2="315"/><line class="gl" x1="280" y1="200" x2="560" y2="315"/><circle class="a" cx="110" cy="150" r="52"/><ellipse class="pn" fill-opacity=".5" cx="92" cy="128" rx="14" ry="9"/><rect class="a" fill-opacity=".75" x="190" y="110" width="80" height="80" rx="16"/><rect class="pn" fill-opacity=".45" x="202" y="120" width="26" height="8" rx="4"/><rect class="k" x="290" y="130" width="60" height="60" rx="30"/><ellipse class="pn" fill-opacity=".4" cx="310" cy="146" rx="10" ry="6"/><line class="ss d" x1="378" y1="50" x2="378" y2="270"/><polyline class="ss d" points="400,190 408,110 416,190 424,110 432,190 440,110 448,190 456,110 464,190 472,110 480,190 488,110 496,190 504,110 512,190 520,110 528,190 536,110 544,190"/><polyline class="ss d" points="400,230 408,150 416,230 424,150 432,230 440,150 448,230 456,150 464,230 472,150 480,230 488,150 496,230 504,150 512,230 520,150 528,230 536,150 544,230"/>
+</svg>

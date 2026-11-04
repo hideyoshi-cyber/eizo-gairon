@@ -1,0 +1,58 @@
+<svg class="fig-l47d" viewBox="0 0 560 672" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l47d-t l47d-d">
+  <title id="l47d-t">入口と出口：タイトルデザインの5つの考察</title>
+  <desc id="l47d-d">オープニングは観客を作品に入れる入口で約束、エンディングは外へ送り出す出口で余韻。型を守り時代で更新する。短い尺にはしごの全段が入る。自分のバックボーンを作り方にする。</desc>
+  <style>
+    .fig-l47d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l47d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l47d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l47d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l47d .mid{text-anchor:middle}
+    .fig-l47d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l47d .head{fill:var(--sub,#5B616E)}
+    .fig-l47d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l47d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c90,#C26A1B);stroke-width:2.5}
+    .fig-l47d .accfill{fill:var(--c90,#C26A1B)}
+    .fig-l47d .accline{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l47d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l47d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l47d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l47d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l47d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l47d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <line class="accline" x1="40" y1="52" x2="500" y2="52"/><polygon class="accfill" points="498,42 498,62 518,52"/>
+  <circle class="accfill" cx="60" cy="52" r="8"/>
+  <text class="step" text-anchor="middle" x="60" y="86">入口</text>
+  <text class="who" text-anchor="middle" x="60" y="28">オープニング</text>
+  <circle class="accfill" cx="280" cy="52" r="8"/>
+  <text class="step" text-anchor="middle" x="280" y="86">本編</text>
+  <circle class="accfill" cx="490" cy="52" r="8"/>
+  <text class="step" text-anchor="middle" x="490" y="86">出口</text>
+  <text class="who" text-anchor="middle" x="490" y="28">エンディング</text>
+  <rect class="box" x="20" y="110" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="110" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="142">オープニングは「約束」</text>
+  <text class="ex" x="48" y="168">どんな作品が始まるかを観客に約束する</text>
+  <text class="who" x="48" y="190">約束が守られるから、安心して作品に入れる</text>
+  <rect class="box" x="20" y="222" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="222" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="254">エンディングは「余韻」</text>
+  <text class="ex" x="48" y="280">観客をゆっくり現実に戻す時間</text>
+  <text class="who" x="48" y="302">どう終わるかで、持ち帰るものが変わる</text>
+  <rect class="box" x="20" y="334" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="334" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="366">型を守り、時代で更新する</text>
+  <text class="ex" x="48" y="392">『007』は銃口、主題歌、シルエット</text>
+  <text class="who" x="48" y="414">型は変わらず、表現は時代ごとに変わる</text>
+  <rect class="box" x="20" y="446" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="446" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="478">短い尺に、はしごの全段</text>
+  <text class="ex" x="48" y="504">抽象、形容詞、具体、パラメータ</text>
+  <text class="who" x="48" y="526">どこかの段を飛ばすと、すぐにばれる</text>
+  <rect class="box" x="20" y="558" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="558" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="590">バックボーンを作り方にする</text>
+  <text class="ex" x="48" y="616">クーパーは文字と質感、ゴンドリーは音楽の構造</text>
+  <text class="who" x="48" y="638">引き出しノートに、自分だけの種を探す</text>
+
+</svg>

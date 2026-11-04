@@ -1,0 +1,35 @@
+<svg class="fig-l30d" viewBox="0 0 560 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l30d-t l30d-d">
+  <title id="l30d-t">1年分の作品を1枚の地図にする系譜マップの考察</title>
+  <desc id="l30d-d">作品を時代順に並べ、線でつなぐと、線が多い作品がハブになる。</desc>
+  <style>
+    .fig-l30d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l30d .k{fill:var(--ink,#1A1D24)}
+    .fig-l30d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l30d .s{fill:var(--sub,#5B616E)}
+    .fig-l30d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l30d .m{fill:var(--c10,#5C6BC0)}
+    .fig-l30d .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l30d .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l30d .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l30d .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l30d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l30d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l30d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l30d .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l30d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l30d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l30d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l30d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l30d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l30d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l30d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l30d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l30d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l30d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l30d .head{fill:var(--sub,#5B616E)}
+    .fig-l30d .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l30d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l30d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">地図を描けると、作品は「点」から「流れ」になる</text><rect class="box" x="20" y="76" width="520" height="116" rx="10"/><rect class="m" x="20" y="76" width="10" height="116" rx="4"/><text class="step" x="48" y="106">1　地図の描き方</text><text class="ex" x="48" y="130">①1年間の作品を時代順に並べる</text><text class="ex" x="48" y="152">②作り手・技術・源流が同じものを線でつなぐ</text><text class="ex" x="48" y="174">③線が多い作品ほど、ハブになっている</text><rect class="box" x="20" y="204" width="520" height="138" rx="10"/><rect class="m" x="20" y="204" width="10" height="138" rx="4"/><text class="step" x="48" y="234">2　1年で遡れたところ</text><text class="ex" x="48" y="258">2020年代から始めて、2010年代まで</text><text class="ex" x="48" y="280">線の先は、黒澤明、1954年の『ゴジラ』、</text><text class="ex" x="48" y="302">1964年の『シェルブールの雨傘』</text><text class="ex" x="48" y="324">2年生：2000年代、90年代で線を太くする</text><rect class="box" x="20" y="354" width="520" height="94" rx="10"/><rect class="m" x="20" y="354" width="10" height="94" rx="4"/><text class="step" x="48" y="384">3　自分探しより、引き出し探し</text><text class="ex" x="48" y="408">引き出しノートに、何に反応してきたかが書いてある</text><text class="ex" x="48" y="430">自分は、集めてきたものの中にある</text>
+</svg>

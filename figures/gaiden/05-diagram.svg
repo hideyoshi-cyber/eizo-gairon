@@ -1,0 +1,52 @@
+<svg class="fig-g05d" viewBox="0 0 560 628" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="g05d-t g05d-d">
+  <title id="g05d-t">製作委員会のジレンマ</title>
+  <desc id="g05d-d">リスクを分け合うために出し合うが、出資者は発言権を持ちたい。幹事が主導権を握ろうとして予算の上限が決まり、本数だけが増え、しわ寄せは委員会の外の制作会社へ来る。お金を集めるほど主導権は失われる。</desc>
+  <style>
+    .fig-g05d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-g05d .bar{fill:var(--c00,#B0347E)}
+    .fig-g05d .bk{fill:var(--ink,#1A1D24)}
+    .fig-g05d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g05d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g05d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g05d .lab{fill:var(--sub,#5B616E);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g05d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-g05d .head{fill:var(--sub,#5B616E)}
+    .fig-g05d .c{text-anchor:middle}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="64" rx="10"/>
+  <rect class="bk" x="20" y="16" width="10" height="64" rx="4"/>
+  <text class="step" x="48" y="43">製作委員会</text>
+  <text class="ex" x="48" y="66">リスクを分け合うため、たくさんの会社でお金を出し合う</text>
+  <line class="arrow" x1="280" y1="82" x2="280" y2="90"/><polygon class="head" points="272,88 288,88 280,98"/>
+  <rect class="box" x="20" y="100" width="520" height="64" rx="10"/>
+  <rect class="bar" x="20" y="100" width="10" height="64" rx="4"/>
+  <text class="step" x="48" y="127">1　出資者は口を出したい</text>
+  <text class="ex" x="48" y="150">お金を出す会社は、作品への発言権を持ちたい</text>
+  <line class="arrow" x1="280" y1="166" x2="280" y2="174"/><polygon class="head" points="272,172 288,172 280,182"/>
+  <rect class="box" x="20" y="184" width="520" height="64" rx="10"/>
+  <rect class="bar" x="20" y="184" width="10" height="64" rx="4"/>
+  <text class="step" x="48" y="211">2　幹事は主導権を握ろうとする</text>
+  <text class="ex" x="48" y="234">幹事は4割ほどを自分で確保し、残りを小さく分ける</text>
+  <line class="arrow" x1="280" y1="250" x2="280" y2="258"/><polygon class="head" points="272,256 288,256 280,266"/>
+  <rect class="box" x="20" y="268" width="520" height="64" rx="10"/>
+  <rect class="bar" x="20" y="268" width="10" height="64" rx="4"/>
+  <text class="step" x="48" y="295">3　予算の上限が決まる</text>
+  <text class="ex" x="48" y="318">作品全体の予算は「幹事が出せる金額」から決まる</text>
+  <line class="arrow" x1="280" y1="334" x2="280" y2="342"/><polygon class="head" points="272,340 288,340 280,350"/>
+  <rect class="box" x="20" y="352" width="520" height="64" rx="10"/>
+  <rect class="bar" x="20" y="352" width="10" height="64" rx="4"/>
+  <text class="step" x="48" y="379">4　本数だけが増える</text>
+  <text class="ex" x="48" y="402">1本あたりの制作費は上がらず、現場に回るお金は増えない</text>
+  <line class="arrow" x1="280" y1="418" x2="280" y2="426"/><polygon class="head" points="272,424 288,424 280,434"/>
+  <rect class="box" x="20" y="436" width="520" height="64" rx="10"/>
+  <rect class="bar" x="20" y="436" width="10" height="64" rx="4"/>
+  <text class="step" x="48" y="463">5　しわ寄せは外へ</text>
+  <text class="ex" x="48" y="486">委員会の外にいる制作会社と、そこで働く人たちへ</text>
+  <line class="arrow" x1="280" y1="502" x2="280" y2="510"/><polygon class="head" points="272,508 288,508 280,518"/>
+  <rect class="box" x="20" y="520" width="520" height="64" rx="10"/>
+  <rect class="bk" x="20" y="520" width="10" height="64" rx="4"/>
+  <text class="step" x="48" y="547">お金を集めるほど、主導権は失われる</text>
+  <text class="ex" x="48" y="570">主導権を守れば、予算は増えない</text>
+  <text class="who" x="20" y="610">岡田斗司夫さんの説明（要約）にもとづく</text>
+
+</svg>

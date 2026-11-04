@@ -1,0 +1,18 @@
+<svg class="fig-l52i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l52i-t l52i-d">
+  <title id="l52i-t">アニメにカメラを持ち込む図案</title>
+  <desc id="l52i-d">左は手描きの斜線、右はデジタルの格子。その境目に、同心円のレンズと、ぼけた光の円が重なる。アニメに実写のレンズの効果を持ち込むことを抽象的に表す。</desc>
+  <style>
+    .fig-l52i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l52i .gl{stroke:var(--rule,#D3D7DE);stroke-width:1;fill:none}
+    .fig-l52i .a{fill:var(--c90,#C26A1B)}
+    .fig-l52i .as{stroke:var(--c90,#C26A1B);stroke-width:2.5;fill:none}
+    .fig-l52i .k{fill:var(--ink,#1A1D24)}
+    .fig-l52i .ks{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l52i .ss{stroke:var(--sub,#5B616E);stroke-width:1.5;fill:none}
+    .fig-l52i .p{fill:var(--paper,#F4F5F7)}
+    .fig-l52i .pn{fill:var(--panel,#FFFFFF)}
+    .fig-l52i .d{stroke-dasharray:6 5}
+  </style>
+  <rect class="bg" width="560" height="315"/>
+  <line class="ss" stroke-opacity=".5" x1="14" y1="50" x2="40" y2="265"/><line class="ss" stroke-opacity=".5" x1="28" y1="50" x2="54" y2="265"/><line class="ss" stroke-opacity=".5" x1="42" y1="50" x2="68" y2="265"/><line class="ss" stroke-opacity=".5" x1="56" y1="50" x2="82" y2="265"/><line class="ss" stroke-opacity=".5" x1="70" y1="50" x2="96" y2="265"/><line class="ss" stroke-opacity=".5" x1="84" y1="50" x2="110" y2="265"/><line class="ss" stroke-opacity=".5" x1="98" y1="50" x2="124" y2="265"/><line class="ss" stroke-opacity=".5" x1="112" y1="50" x2="138" y2="265"/><line class="ss" stroke-opacity=".5" x1="126" y1="50" x2="152" y2="265"/><line class="ss" stroke-opacity=".5" x1="140" y1="50" x2="166" y2="265"/><line class="ss" stroke-opacity=".5" x1="154" y1="50" x2="180" y2="265"/><line class="ss" stroke-opacity=".5" x1="168" y1="50" x2="194" y2="265"/><line class="ss" stroke-opacity=".5" x1="182" y1="50" x2="208" y2="265"/><line class="ss" stroke-opacity=".5" x1="196" y1="50" x2="222" y2="265"/><line class="ss" stroke-opacity=".5" x1="210" y1="50" x2="236" y2="265"/><line class="ss" stroke-opacity=".5" x1="224" y1="50" x2="250" y2="265"/><line class="ss" stroke-opacity=".5" x1="238" y1="50" x2="264" y2="265"/><line class="gl" x1="290" y1="38" x2="290" y2="277"/><line class="gl" x1="322" y1="38" x2="322" y2="277"/><line class="gl" x1="354" y1="38" x2="354" y2="277"/><line class="gl" x1="386" y1="38" x2="386" y2="277"/><line class="gl" x1="418" y1="38" x2="418" y2="277"/><line class="gl" x1="450" y1="38" x2="450" y2="277"/><line class="gl" x1="482" y1="38" x2="482" y2="277"/><line class="gl" x1="514" y1="38" x2="514" y2="277"/><line class="gl" x1="546" y1="38" x2="546" y2="277"/><line class="gl" x1="280" y1="38" x2="560" y2="38"/><line class="gl" x1="280" y1="68" x2="560" y2="68"/><line class="gl" x1="280" y1="98" x2="560" y2="98"/><line class="gl" x1="280" y1="128" x2="560" y2="128"/><line class="gl" x1="280" y1="158" x2="560" y2="158"/><line class="gl" x1="280" y1="188" x2="560" y2="188"/><line class="gl" x1="280" y1="218" x2="560" y2="218"/><line class="gl" x1="280" y1="248" x2="560" y2="248"/><rect class="k" x="0" y="0" width="560" height="34"/><rect class="k" x="0" y="281" width="560" height="34"/><circle class="k" cx="280" cy="157" r="92"/><circle class="as" cx="280" cy="157" r="76"/><circle class="as" stroke-opacity=".7" cx="280" cy="157" r="56"/><circle class="a" fill-opacity=".85" cx="280" cy="157" r="30"/><ellipse class="pn" fill-opacity=".6" cx="270" cy="146" rx="9" ry="6"/><circle class="a" fill-opacity=".35" cx="440" cy="90" r="30"/><circle class="a" fill-opacity=".25" cx="478" cy="200" r="22"/><circle class="a" fill-opacity=".3" cx="110" cy="230" r="26"/><circle class="a" fill-opacity=".2" cx="76" cy="90" r="18"/>
+</svg>

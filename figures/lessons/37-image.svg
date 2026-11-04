@@ -1,0 +1,94 @@
+<svg class="fig-l37i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l37i-t l37i-d">
+  <title id="l37i-t">時間の設計図：コマの長さと繰り返し</title>
+  <desc id="l37i-d">ものさしの上に、長さの違う四角のコマが並ぶ。長いコマと短いコマで見せる時間が変わり、同じ形のコマが繰り返される。</desc>
+  <style>
+    .fig-l37i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l37i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l37i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l37i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l37i .mid{text-anchor:middle}
+    .fig-l37i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l37i .head{fill:var(--sub,#5B616E)}
+    .fig-l37i .bar{fill:var(--c00,#B0347E)}
+    .fig-l37i .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l37i .accfill{fill:var(--c00,#B0347E)}
+    .fig-l37i .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l37i .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l37i .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l37i .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l37i .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l37i .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l37i .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="panel" x="0" y="0" width="560" height="315"/>
+  <line class="rule" x1="0" y1="0" x2="0" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="40" y1="0" x2="40" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="80" y1="0" x2="80" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="120" y1="0" x2="120" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="160" y1="0" x2="160" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="200" y1="0" x2="200" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="240" y1="0" x2="240" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="280" y1="0" x2="280" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="320" y1="0" x2="320" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="360" y1="0" x2="360" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="400" y1="0" x2="400" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="440" y1="0" x2="440" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="480" y1="0" x2="480" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="520" y1="0" x2="520" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="560" y1="0" x2="560" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="0" x2="560" y2="0" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="35" x2="560" y2="35" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="70" x2="560" y2="70" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="105" x2="560" y2="105" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="140" x2="560" y2="140" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="175" x2="560" y2="175" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="210" x2="560" y2="210" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="245" x2="560" y2="245" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="280" x2="560" y2="280" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="315" x2="560" y2="315" style="stroke-opacity:.5"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:0.85" x="24" y="110" width="60" height="60" rx="3" />
+  <line class="ink" x1="24" y1="190" x2="84" y2="190"/>
+  <line class="ink" x1="24" y1="184" x2="24" y2="196"/>
+  <line class="ink" x1="84" y1="184" x2="84" y2="196"/>
+  <rect class="box" x="92" y="110" width="140" height="60" rx="3" />
+  <line class="ink" x1="92" y1="190" x2="232" y2="190"/>
+  <line class="ink" x1="92" y1="184" x2="92" y2="196"/>
+  <line class="ink" x1="232" y1="184" x2="232" y2="196"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:0.85" x="240" y="110" width="60" height="60" rx="3" />
+  <line class="ink" x1="240" y1="190" x2="300" y2="190"/>
+  <line class="ink" x1="240" y1="184" x2="240" y2="196"/>
+  <line class="ink" x1="300" y1="184" x2="300" y2="196"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:0.85" x="308" y="110" width="60" height="60" rx="3" />
+  <line class="ink" x1="308" y1="190" x2="368" y2="190"/>
+  <line class="ink" x1="308" y1="184" x2="308" y2="196"/>
+  <line class="ink" x1="368" y1="184" x2="368" y2="196"/>
+  <rect class="box" x="376" y="110" width="140" height="60" rx="3" />
+  <line class="ink" x1="376" y1="190" x2="516" y2="190"/>
+  <line class="ink" x1="376" y1="184" x2="376" y2="196"/>
+  <line class="ink" x1="516" y1="184" x2="516" y2="196"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:0.85" x="524" y="110" width="60" height="60" rx="3" />
+  <line class="ink" x1="524" y1="190" x2="584" y2="190"/>
+  <line class="ink" x1="524" y1="184" x2="524" y2="196"/>
+  <line class="ink" x1="584" y1="184" x2="584" y2="196"/>
+  <line class="sub" x1="24" y1="240" x2="536" y2="240"/>
+  <line class="sub" x1="24" y1="232" x2="24" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="56" y1="232" x2="56" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="88" y1="232" x2="88" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="120" y1="232" x2="120" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="152" y1="232" x2="152" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="184" y1="232" x2="184" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="216" y1="232" x2="216" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="248" y1="232" x2="248" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="280" y1="232" x2="280" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="312" y1="232" x2="312" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="344" y1="232" x2="344" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="376" y1="232" x2="376" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="408" y1="232" x2="408" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="440" y1="232" x2="440" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="472" y1="232" x2="472" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="504" y1="232" x2="504" y2="248" style="stroke-width:1.5"/>
+  <line class="sub" x1="536" y1="232" x2="536" y2="248" style="stroke-width:1.5"/>
+  <path style="fill:none;stroke:var(--c00,#B0347E);stroke-width:3" d="M76 100 C76 60 190 60 190 100"/><path style="fill:none;stroke:var(--c00,#B0347E);stroke-width:3" d="M266 100 C266 60 330 60 330 100"/>
+  <circle class="inkfill" cx="540" cy="60" r="0"/>
+
+</svg>

@@ -1,0 +1,56 @@
+<svg class="fig-l24d" viewBox="0 0 560 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l24d-t l24d-d">
+  <title id="l24d-t">動きの細かさも表現のパラメータ</title>
+  <desc id="l24d-d">なめらかさは選択肢の一つで、動きの細かさでキャラクターを描き分ける。1秒間に描き変える枚数は、はしごのパラメータの例。</desc>
+  <style>
+    .fig-l24d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l24d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l24d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l24d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l24d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l24d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l24d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l24d .head{fill:var(--sub,#5B616E)}
+    .fig-l24d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l24d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l24d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l24d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l24d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l24d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l24d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l24d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l24d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l24d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l24d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="144" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="144" rx="4"/>
+  <text class="step" x="48" y="46">1　なめらかさは選択肢の一つ</text>
+  <text class="endl" x="48" y="74">なめらか</text>
+  <text class="endr" text-anchor="end" x="524" y="74">コマを減らす</text>
+  <line class="axis" x1="60" y1="92" x2="512" y2="92"/>
+  <polygon class="axh" points="48,92 62,85 62,99"/><polygon class="axh" points="524,92 510,85 510,99"/>
+  <text class="ex" x="48" y="122">すべてのコマを計算するか、</text>
+  <text class="ex" x="48" y="144">あえて減らして「キレ」と「重さ」を出すか</text>
+  <rect class="box" x="20" y="174" width="520" height="114" rx="10"/>
+  <rect class="b2" x="20" y="174" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="204">2　動きでキャラクターを描き分ける</text>
+  <text class="ex" x="48" y="228">キャラクターごとに動きの細かさが違う</text>
+  <text class="ex" x="48" y="250">別の世界から来たことが伝わる</text>
+  <text class="who" x="48" y="272">動きそのものが、キャラクターの設定</text>
+  <rect class="box" x="20" y="302" width="520" height="132" rx="10"/>
+  <rect class="b1" x="20" y="302" width="10" height="132" rx="4"/>
+  <text class="step" x="48" y="332">3　はしごの「パラメータ」の例</text>
+  <text class="ex" x="48" y="356">1秒間に何枚描き変えるか</text>
+  <rect class="chip" x="48" y="368" width="102" height="28" rx="6"/>
+  <text class="chipt" x="99" y="387">抽象</text>
+  <polygon class="head" points="156,376 156,388 168,382"/>
+  <rect class="chip" x="174" y="368" width="102" height="28" rx="6"/>
+  <text class="chipt" x="225" y="387">形容詞</text>
+  <polygon class="head" points="282,376 282,388 294,382"/>
+  <rect class="chip" x="300" y="368" width="102" height="28" rx="6"/>
+  <text class="chipt" x="351" y="387">具体</text>
+  <polygon class="head" points="408,376 408,388 420,382"/>
+  <rect class="chiph" x="426" y="368" width="102" height="28" rx="6"/>
+  <text class="chiptw" x="477" y="387">パラメータ</text>
+  <text class="who" x="48" y="418">2年でAEを使うとき、そのまま使える</text>
+</svg>

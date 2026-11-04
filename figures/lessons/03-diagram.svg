@@ -1,0 +1,51 @@
+<svg class="fig-l03d" viewBox="0 0 560 638" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l03d-t l03d-d">
+  <title id="l03d-t">カメラを持つのは誰か</title>
+  <desc id="l03d-d">ゲームはプレイヤーが、映像は作り手が時間とカメラの主導権を持つ。主導権を渡したまま映画のような瞬間を作る工夫。</desc>
+  <style>
+    .fig-l03d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l03d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l03d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l03d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l03d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l03d .head{fill:var(--sub,#5B616E)}
+    .fig-l03d .a{fill:var(--c20,#127F91)} .fig-l03d .b{fill:var(--c10,#5C6BC0)} .fig-l03d .c{fill:var(--c00,#B0347E)} .fig-l03d .d{fill:var(--c90,#C26A1B)}
+    .fig-l03d .mid{text-anchor:middle}
+    .fig-l03d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="255" height="92" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="48">ゲーム</text>
+  <text class="ex" x="48" y="76">時間：プレイヤーが握る</text>
+  <text class="ex" x="48" y="98">カメラ：自由に回せる</text>
+  <rect class="box" x="285" y="16" width="255" height="92" rx="10"/>
+  <rect class="c" x="285" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="313" y="48">映像</text>
+  <text class="ex" x="313" y="76">時間：尺と順番が決まる</text>
+  <text class="ex" x="313" y="98">カメラ：全フレームを決める</text>
+  <rect class="box" x="20" y="120" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="120" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="152">主導権を渡したまま作る</text>
+  <text class="ex" x="48" y="180">システムと画面設計で</text>
+  <text class="ex" x="48" y="202">「映画のような瞬間」を作る</text>
+  <line class="arrow" x1="280" y1="216" x2="280" y2="228"/><polygon class="head" points="272,226 288,226 280,236"/>
+  <rect class="box" x="20" y="240" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="240" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="272">一騎打ち</text>
+  <text class="ex" x="48" y="300">二人が向き合って静止し、周囲だけが動く</text>
+  <text class="who" x="48" y="322">時代劇映画の構図そのもの</text>
+  <rect class="box" x="20" y="344" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="344" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="376">黒澤モード</text>
+  <text class="ex" x="48" y="404">同じゲームに別のカラコレとサウンドを重ねる</text>
+  <text class="who" x="48" y="426">ルックは作品から切り離せるレイヤー</text>
+  <rect class="box" x="20" y="448" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="448" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="480">風で導く</text>
+  <text class="ex" x="48" y="508">地図やマーカーの代わりに、画の中の要素で伝える</text>
+  <text class="who" x="48" y="530">第2回のテロップとは正反対の考え方</text>
+  <rect class="box" x="20" y="552" width="520" height="70" rx="10"/>
+  <rect class="d" x="20" y="552" width="10" height="70" rx="4"/>
+  <text class="step" x="48" y="584">源流は70年前の時代劇</text>
+  <text class="ex" x="48" y="612">2020年のゲームの背骨に、黒澤作品がある</text>
+
+</svg>

@@ -1,0 +1,41 @@
+<svg class="fig-g01d" viewBox="0 0 560 396" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="g01d-t g01d-d">
+  <title id="g01d-t">モーショングラフィックスは二つの流れが出会って生まれた</title>
+  <desc id="g01d-d">ソール・バスのデザインの流れと、ジョン・ホイットニーの技術の流れが出会ってモーショングラフィックスが生まれ、今のAfter Effectsの仕事でもデザインと技術が組む形は変わらない。</desc>
+  <style>
+    .fig-g01d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-g01d .bar{fill:var(--c00,#B0347E)}
+    .fig-g01d .bk{fill:var(--ink,#1A1D24)}
+    .fig-g01d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g01d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g01d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g01d .lab{fill:var(--sub,#5B616E);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g01d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-g01d .head{fill:var(--sub,#5B616E)}
+    .fig-g01d .c{text-anchor:middle}
+  </style>
+  <rect class="box" x="20" y="16" width="254" height="130" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="130" rx="4"/>
+  <text class="step" x="48" y="52">デザインの流れ</text>
+  <text class="who" x="48" y="74">ソール・バス</text>
+  <text class="ex" x="48" y="108">映画の画面に</text>
+  <text class="ex" x="48" y="130">デザインを持ち込んだ</text>
+  <rect class="box" x="286" y="16" width="254" height="130" rx="10"/>
+  <rect class="bk" x="286" y="16" width="10" height="130" rx="4"/>
+  <text class="step" x="314" y="52">技術の流れ</text>
+  <text class="who" x="314" y="74">ジョン・ホイットニー</text>
+  <text class="ex" x="314" y="108">機械で図形を動かす</text>
+  <text class="ex" x="314" y="130">方法を作った</text>
+  <line class="arrow" x1="147" y1="150" x2="147" y2="164"/><polygon class="head" points="139,162 155,162 147,172"/>
+  <line class="arrow" x1="413" y1="150" x2="413" y2="164"/><polygon class="head" points="405,162 421,162 413,172"/>
+  <rect class="box" x="20" y="176" width="520" height="96" rx="10"/>
+  <rect class="bar" x="20" y="176" width="10" height="96" rx="4"/>
+  <text class="step" x="48" y="210">モーショングラフィックス</text>
+  <text class="ex" x="48" y="236">二つの流れが出会って生まれた</text>
+  <text class="who" x="48" y="258">言葉は、ホイットニーが1960年に立ち上げた会社名から</text>
+  <line class="arrow" x1="280" y1="276" x2="280" y2="290"/><polygon class="head" points="272,288 288,288 280,298"/>
+  <rect class="box" x="20" y="302" width="520" height="78" rx="10"/>
+  <rect class="bk" x="20" y="302" width="10" height="78" rx="4"/>
+  <text class="step" x="48" y="336">今のAfter Effectsの仕事</text>
+  <text class="ex" x="48" y="362">デザインと技術が組む形は、変わっていない</text>
+
+</svg>

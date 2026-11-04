@@ -1,0 +1,50 @@
+<svg class="fig-l18d" viewBox="0 0 560 410" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l18d-t l18d-d">
+  <title id="l18d-t">1カットを5つの層に戻す</title>
+  <desc id="l18d-d">合成カットは遠景・中景・主役・エフェクト・仕上げの5層。本物かCGかで作品の性格が分かり、層に書き出せば設計図になる。</desc>
+  <style>
+    .fig-l18d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l18d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l18d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l18d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l18d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l18d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l18d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l18d .head{fill:var(--sub,#5B616E)}
+    .fig-l18d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l18d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l18d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l18d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l18d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l18d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l18d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l18d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l18d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l18d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l18d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <polygon class="soft" points="52,16 302,16 278,56 28,56"/>
+  <text class="ex" x="62" y="41">5　仕上げ（色・光・粒子）</text>
+  <polygon class="soft" points="50,62 300,62 276,102 26,102"/>
+  <text class="ex" x="60" y="87">4　エフェクト（煙・火・破片）</text>
+  <polygon class="softh" points="48,108 298,108 274,148 24,148"/>
+  <text class="ex" x="58" y="133">3　主役（人物・車・怪獣）</text>
+  <polygon class="soft" points="46,154 296,154 272,194 22,194"/>
+  <text class="ex" x="56" y="179">2　中景（建物・地形）</text>
+  <polygon class="soft" points="44,200 294,200 270,240 20,240"/>
+  <text class="ex" x="54" y="225">1　遠景（空・背景）</text>
+  <rect class="box" x="312" y="16" width="228" height="106" rx="10"/><rect class="b1" x="312" y="16" width="10" height="106" rx="4"/>
+  <text class="sh" x="338" y="46">『怒りのデス・ロード』</text>
+  <text class="ex" x="338" y="74">主役の層が本物</text>
+  <text class="ex" x="338" y="96">空や背景にCGが多い</text>
+  <rect class="box" x="312" y="134" width="228" height="106" rx="10"/><rect class="b2" x="312" y="134" width="10" height="106" rx="4"/>
+  <text class="sh" x="338" y="164">『シン・ゴジラ』</text>
+  <text class="ex" x="338" y="192">主役の層がCG</text>
+  <text class="ex" x="338" y="214">街に本物の素材が多い</text>
+  <line class="arrow" x1="280" y1="256" x2="280" y2="268"/><polygon class="head" points="272,266 288,266 280,276"/>
+  <rect class="box" x="20" y="280" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="280" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="310">分解できれば、設計できる</text>
+  <text class="ex" x="48" y="334">層に書き出す＝合成の設計図</text>
+  <text class="ex" x="48" y="356">AEの授業で、この順に素材を用意</text>
+  <text class="who" x="48" y="378">観ることと作ることは、ここでつながる</text>
+</svg>

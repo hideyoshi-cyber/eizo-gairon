@@ -1,0 +1,35 @@
+<svg class="fig-l31d" viewBox="0 0 560 490" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l31d-t l31d-d">
+  <title id="l31d-t">完成した映画を企画書に戻す『千と千尋の神隠し』の考察</title>
+  <desc id="l31d-d">企画の芯は一言で言え、対象を絞り、はしごの一番上の「抽象」にあたる。</desc>
+  <style>
+    .fig-l31d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l31d .k{fill:var(--ink,#1A1D24)}
+    .fig-l31d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l31d .s{fill:var(--sub,#5B616E)}
+    .fig-l31d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l31d .m{fill:var(--c00,#B0347E)}
+    .fig-l31d .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l31d .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l31d .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l31d .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l31d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l31d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l31d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l31d .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l31d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l31d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l31d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l31d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l31d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l31d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l31d .head{fill:var(--sub,#5B616E)}
+    .fig-l31d .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l31d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">完成した映画を、企画書の段階に戻す</text><rect class="box" x="20" y="76" width="520" height="138" rx="10"/><rect class="m" x="20" y="76" width="10" height="138" rx="4"/><text class="step" x="48" y="106">1　企画の芯は一言で言える</text><text class="ex" x="48" y="130">「名前を奪われた少女が、働くことで</text><text class="ex" x="48" y="152">　自分を取り戻す」</text><text class="ex" x="48" y="174">一言があるから、舞台も場面も理由を持つ</text><text class="ex" x="48" y="196">一言で言えない作品は、途中で迷う</text><rect class="box" x="20" y="226" width="520" height="116" rx="10"/><rect class="m" x="20" y="226" width="10" height="116" rx="4"/><text class="step" x="48" y="256">2　誰に向けた映画か</text><text class="ex" x="48" y="280">10歳の女の子に向けて作る</text><text class="ex" x="48" y="302">主人公の年齢、感情、場面の選び方が決まる</text><text class="ex" x="48" y="324">対象が広すぎる企画は、誰にも届かない</text><rect class="box" x="20" y="354" width="520" height="116" rx="10"/><rect class="m" x="20" y="354" width="10" height="116" rx="4"/><text class="step" x="48" y="384">3　はしごで言えば「抽象」</text><text class="ex" x="48" y="408">企画の芯は、はしごの一番上</text><text class="ex" x="48" y="430">2年生：ここからパラメータまで降ろす練習</text><text class="ex" x="48" y="452">最初に、完成品から抽象まで戻る練習をした</text>
+</svg>

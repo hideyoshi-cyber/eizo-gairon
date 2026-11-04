@@ -1,0 +1,27 @@
+<svg class="fig-l18i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l18i-t l18i-d">
+  <title id="l18i-t">層に戻した1カットの図案</title>
+  <desc id="l18i-d">5枚の板が少しずつずれて重なり、1カットが層でできていることを示す。下の板ほど薄く、上へ行くほど濃い。</desc>
+  <style>
+    .fig-l18i .bg{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l18i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l18i .ms{fill:none;stroke:var(--c10,#5C6BC0)}
+    .fig-l18i .k{fill:var(--ink,#1A1D24)}
+    .fig-l18i .ks{fill:none;stroke:var(--ink,#1A1D24)}
+    .fig-l18i .r{fill:var(--rule,#D3D7DE)}
+    .fig-l18i .rs{fill:none;stroke:var(--rule,#D3D7DE)}
+    .fig-l18i .a{fill:var(--c00,#B0347E)}
+    .fig-l18i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+  <rect class="bg" x="1" y="1" width="558" height="313" rx="10"/>
+  <polygon class="m" points="194,240 444,240 400,270 150,270" fill-opacity="0.15"/>
+  <polygon class="ms" points="194,240 444,240 400,270 150,270" stroke-width="2"/>
+  <polygon class="m" points="200,192 450,192 406,222 156,222" fill-opacity="0.35"/>
+  <polygon class="ms" points="200,192 450,192 406,222 156,222" stroke-width="2"/>
+  <polygon class="m" points="206,144 456,144 412,174 162,174" fill-opacity="0.55"/>
+  <polygon class="ms" points="206,144 456,144 412,174 162,174" stroke-width="2"/>
+  <polygon class="m" points="212,96 462,96 418,126 168,126" fill-opacity="0.7500000000000001"/>
+  <polygon class="ms" points="212,96 462,96 418,126 168,126" stroke-width="2"/>
+  <polygon class="m" points="218,48 468,48 424,78 174,78" fill-opacity="0.9500000000000001"/>
+  <polygon class="ms" points="218,48 468,48 424,78 174,78" stroke-width="2"/>
+  <line class="rs" x1="150" y1="50" x2="150" y2="270" stroke-width="2" stroke-dasharray="4 5"/><line class="rs" x1="444" y1="50" x2="444" y2="270" stroke-width="2" stroke-dasharray="4 5"/>
+</svg>

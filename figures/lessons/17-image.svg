@@ -1,0 +1,39 @@
+<svg class="fig-l17i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l17i-t l17i-d">
+  <title id="l17i-t">本物の土台と、足りない部分の図案</title>
+  <desc id="l17i-d">放射する線の床が本物の土台。上の空間には点線の枠が散らばり、足りないところをCGで埋める。見せたいものは画面の中心に置く。</desc>
+  <style>
+    .fig-l17i .bg{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l17i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l17i .ms{fill:none;stroke:var(--c10,#5C6BC0)}
+    .fig-l17i .k{fill:var(--ink,#1A1D24)}
+    .fig-l17i .ks{fill:none;stroke:var(--ink,#1A1D24)}
+    .fig-l17i .r{fill:var(--rule,#D3D7DE)}
+    .fig-l17i .rs{fill:none;stroke:var(--rule,#D3D7DE)}
+    .fig-l17i .a{fill:var(--c00,#B0347E)}
+    .fig-l17i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+  <rect class="bg" x="1" y="1" width="558" height="313" rx="10"/>
+  <line class="ms" x1="280" y1="140" x2="20" y2="300" stroke-width="2.5" stroke-opacity="0.9"/>
+  <line class="ms" x1="280" y1="140" x2="72" y2="300" stroke-width="2.5" stroke-opacity="0.5"/>
+  <line class="ms" x1="280" y1="140" x2="124" y2="300" stroke-width="2.5" stroke-opacity="0.9"/>
+  <line class="ms" x1="280" y1="140" x2="176" y2="300" stroke-width="2.5" stroke-opacity="0.5"/>
+  <line class="ms" x1="280" y1="140" x2="228" y2="300" stroke-width="2.5" stroke-opacity="0.9"/>
+  <line class="ms" x1="280" y1="140" x2="280" y2="300" stroke-width="2.5" stroke-opacity="0.5"/>
+  <line class="ms" x1="280" y1="140" x2="332" y2="300" stroke-width="2.5" stroke-opacity="0.9"/>
+  <line class="ms" x1="280" y1="140" x2="384" y2="300" stroke-width="2.5" stroke-opacity="0.5"/>
+  <line class="ms" x1="280" y1="140" x2="436" y2="300" stroke-width="2.5" stroke-opacity="0.9"/>
+  <line class="ms" x1="280" y1="140" x2="488" y2="300" stroke-width="2.5" stroke-opacity="0.5"/>
+  <line class="ms" x1="280" y1="140" x2="540" y2="300" stroke-width="2.5" stroke-opacity="0.9"/>
+  <line class="ks" x1="20" y1="158" x2="540" y2="158" stroke-width="1.5" stroke-opacity=".35"/>
+  <line class="ks" x1="20" y1="180" x2="540" y2="180" stroke-width="1.5" stroke-opacity=".35"/>
+  <line class="ks" x1="20" y1="210" x2="540" y2="210" stroke-width="1.5" stroke-opacity=".35"/>
+  <line class="ks" x1="20" y1="248" x2="540" y2="248" stroke-width="1.5" stroke-opacity=".35"/>
+  <line class="ks" x1="20" y1="294" x2="540" y2="294" stroke-width="1.5" stroke-opacity=".35"/>
+  <line class="ks" x1="20" y1="140" x2="540" y2="140" stroke-width="3"/>
+  <rect class="ms" x="34" y="24" width="120" height="64" rx="4" stroke-width="2" stroke-dasharray="6 5"/>
+  <rect class="ms" x="188" y="40" width="64" height="40" rx="4" stroke-width="2" stroke-dasharray="6 5"/>
+  <rect class="ms" x="410" y="22" width="112" height="72" rx="4" stroke-width="2" stroke-dasharray="6 5"/>
+  <rect class="ms" x="318" y="58" width="52" height="30" rx="4" stroke-width="2" stroke-dasharray="6 5"/>
+  <rect class="ms" x="60" y="100" width="70" height="26" rx="4" stroke-width="2" stroke-dasharray="6 5"/>
+  <rect class="ms" x="244" y="78" width="72" height="48" stroke-width="2"/><rect class="m" x="262" y="90" width="36" height="24" rx="2"/>
+</svg>

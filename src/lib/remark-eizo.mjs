@@ -70,7 +70,8 @@ export function remarkEizo(opts = {}) {
         while (j < kids.length && !(kids[j].type === 'heading' && kids[j].depth <= 2)) j++;
         const body = kids.slice(i + 1, j);
         const lists = body.filter((x) => x.type === 'list');
-        if (lists.length && lists.every((l) => l.children.every((li) => /^\[授業後に/.test(text(li).trim())))) {
+        const hasFigure = body.some((x) => /^（図：/.test(text(x).trim()));
+        if (!hasFigure && lists.length && lists.every((l) => l.children.every((li) => /^\[授業後に/.test(text(li).trim())))) {
           kids.splice(i, j - i); i--;
         }
       }
@@ -94,7 +95,7 @@ export function remarkEizo(opts = {}) {
     for (let i = 0; i < kids.length; i++) {
       const n = kids[i];
       if (n.type !== 'paragraph') continue;
-      const m = text(n).match(/^（図：(figures\/[\w.-]+\.svg)）\n?([\s\S]*)$/);
+      const m = text(n).match(/^（図：(figures\/[\w./-]+\.svg)）\n?([\s\S]*)$/);
       if (!m) continue;
       let svg;
       try { svg = readFileSync(m[1], 'utf-8').replace(/<metadata>[\s\S]*?<\/metadata>/, ''); } catch { continue; }

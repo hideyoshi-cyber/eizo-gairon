@@ -1,0 +1,41 @@
+<svg class="fig-g03d" viewBox="0 0 560 516" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="g03d-t g03d-d">
+  <title id="g03d-t">デザインが映像にもたらす4つの力</title>
+  <desc id="g03d-d">デザインは飾りではなく判断。整理する力、約束する力、記憶させる力、翻訳する力の4つを、授業で観た例とともに示す。</desc>
+  <style>
+    .fig-g03d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-g03d .bar{fill:var(--c00,#B0347E)}
+    .fig-g03d .bk{fill:var(--ink,#1A1D24)}
+    .fig-g03d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g03d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g03d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g03d .lab{fill:var(--sub,#5B616E);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g03d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-g03d .head{fill:var(--sub,#5B616E)}
+    .fig-g03d .c{text-anchor:middle}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="84" rx="10"/>
+  <rect class="bk" x="20" y="16" width="10" height="84" rx="4"/>
+  <text class="step" x="48" y="52">デザインは、飾りではなく判断</text>
+  <text class="ex" x="48" y="82">何を見せて、何を見せないか。何秒、どこに出すか</text>
+  <rect class="box" x="20" y="116" width="520" height="88" rx="10"/>
+  <rect class="bar" x="20" y="116" width="10" height="88" rx="4"/>
+  <text class="step" x="48" y="148">1　整理する力</text>
+  <text class="ex" x="48" y="174">情報の順番と優先順位を決め、観客が迷わないようにする</text>
+  <text class="who" x="48" y="194">例：『マッドマックス』『シン・ゴジラ』</text>
+  <rect class="box" x="20" y="216" width="520" height="88" rx="10"/>
+  <rect class="bar" x="20" y="216" width="10" height="88" rx="4"/>
+  <text class="step" x="48" y="248">2　約束する力</text>
+  <text class="ex" x="48" y="274">観る前に、どんな作品かを観客に伝える</text>
+  <text class="who" x="48" y="294">例：ソール・バス、『セブン』ほか</text>
+  <rect class="box" x="20" y="316" width="520" height="88" rx="10"/>
+  <rect class="bar" x="20" y="316" width="10" height="88" rx="4"/>
+  <text class="step" x="48" y="348">3　記憶させる力</text>
+  <text class="ex" x="48" y="374">形、色、音を一つに絞り、観客の記憶に残す</text>
+  <text class="who" x="48" y="394">例：『黄金の腕』の腕の形、エヴァの明朝体、ティロリの音</text>
+  <rect class="box" x="20" y="416" width="520" height="88" rx="10"/>
+  <rect class="bar" x="20" y="416" width="10" height="88" rx="4"/>
+  <text class="step" x="48" y="448">4　翻訳する力</text>
+  <text class="ex" x="48" y="474">頭の中の抽象を、人が作業できる形に降ろす</text>
+  <text class="who" x="48" y="494">例：はしご、カラースクリプト（第45回）</text>
+
+</svg>

@@ -1,0 +1,38 @@
+<svg class="fig-l07d" viewBox="0 0 560 462" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l07d-t l07d-d">
+  <title id="l07d-t">見えない光が設計を変える</title>
+  <desc id="l07d-d">赤外線だけを記録するカメラで撮ると、見た明暗と写る明暗がずれ、衣装が作り直され、光の選択がプリプロで美術と衣装を巻き込む。</desc>
+  <style>
+    .fig-l07d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l07d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l07d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l07d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l07d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l07d .head{fill:var(--sub,#5B616E)}
+    .fig-l07d .a{fill:var(--c20,#127F91)} .fig-l07d .b{fill:var(--c10,#5C6BC0)} .fig-l07d .c{fill:var(--c00,#B0347E)} .fig-l07d .d{fill:var(--c90,#C26A1B)}
+    .fig-l07d .mid{text-anchor:middle}
+    .fig-l07d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="48">撮影の段階で白黒にする</text>
+  <text class="ex" x="48" y="76">可視光をほぼ遮り、赤外線だけを記録する</text>
+  <text class="ex" x="48" y="98">後処理で色を抜いたのではない</text>
+  <line class="arrow" x1="280" y1="112" x2="280" y2="124"/><polygon class="head" points="272,122 288,122 280,132"/>
+  <rect class="box" x="20" y="136" width="520" height="70" rx="10"/>
+  <rect class="b" x="20" y="136" width="10" height="70" rx="4"/>
+  <text class="step" x="48" y="168">見た明暗と写る明暗がずれる</text>
+  <text class="ex" x="48" y="196">テストでは、赤が黒に、デニムが白に写った</text>
+  <line class="arrow" x1="280" y1="210" x2="280" y2="222"/><polygon class="head" points="272,220 288,220 280,230"/>
+  <rect class="box" x="20" y="234" width="520" height="92" rx="10"/>
+  <rect class="c" x="20" y="234" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="266">衣装を作り直す</text>
+  <text class="ex" x="48" y="294">黒く見せたい衣装が白く写ってしまう</text>
+  <text class="ex" x="48" y="316">一部の衣装は屋外用と屋内用の2着</text>
+  <line class="arrow" x1="280" y1="330" x2="280" y2="342"/><polygon class="head" points="272,340 288,340 280,350"/>
+  <rect class="box" x="20" y="354" width="520" height="92" rx="10"/>
+  <rect class="d" x="20" y="354" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="386">光の選択が美術・衣装を巻き込む</text>
+  <text class="ex" x="48" y="414">プリプロダクションの段階の決定</text>
+  <text class="who" x="48" y="436">光の種類が、世界のルールになる</text>
+
+</svg>

@@ -1,0 +1,40 @@
+<svg class="fig-l55d" viewBox="0 0 560 466" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l55d-t l55d-d">
+  <title id="l55d-t">同じ映像、違う目の要点</title>
+  <desc id="l55d-d">考察の3点。第1回と同じ映像でも、今は継ぎ目が見える。第1回の分析シートの空欄が書ける。自分の作品にも同じ目を向ける。</desc>
+  <style>
+    .fig-l55d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l55d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l55d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l55d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l55d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l55d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l55d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l55d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l55d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l55d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l55d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="150" rx="10"/><rect class="bar" x="20" y="16" width="10" height="150" rx="4"/><text class="step" x="48" y="48">1　同じ映像、違う目</text>
+  <rect class="chip" x="36" y="64" width="228" height="60" rx="8"/>
+  <text class="ex2" x="150" y="89" text-anchor="middle">2年前（第1回）</text>
+  <text class="ex" x="150" y="109" text-anchor="middle">「かっこいい」「古い」</text>
+  <rect class="chip" x="296" y="64" width="228" height="60" rx="8"/>
+  <text class="ex2" x="410" y="89" text-anchor="middle">今</text>
+  <text class="ex" x="410" y="109" text-anchor="middle">どこが継ぎ目か、なぜそこか</text>
+  <line class="arrow" x1="268" y1="94" x2="286" y2="94"/><polygon class="head" points="294,94 284,88 284,100"/>
+  <text class="who" x="48" y="144">変わったのは映像ではなく、皆さんの目</text>
+  <rect class="box" x="20" y="178" width="520" height="130" rx="10"/><rect class="bar" x="20" y="178" width="10" height="130" rx="4"/><text class="step" x="48" y="210">2　第1回のシートと比べる</text>
+  <rect class="chip" x="36" y="226" width="228" height="44" rx="8"/>
+  <text class="ex" x="150" y="253" text-anchor="middle">空欄だった項目</text>
+  <rect class="chip" x="296" y="226" width="228" height="44" rx="8"/>
+  <text class="ex" x="410" y="253" text-anchor="middle">今は書ける</text>
+  <line class="arrow" x1="268" y1="248" x2="286" y2="248"/><polygon class="head" points="294,248 284,242 284,254"/>
+  <text class="who" x="48" y="290">書けるようになったことが、手に入れた筋肉</text>
+  <rect class="box" x="20" y="320" width="520" height="130" rx="10"/><rect class="bar" x="20" y="320" width="10" height="130" rx="4"/><text class="step" x="48" y="352">3　自分の作品にも同じ目を</text>
+  <rect class="chip" x="36" y="368" width="228" height="44" rx="8"/>
+  <text class="ex" x="150" y="395" text-anchor="middle">他人の作品の継ぎ目が見える</text>
+  <rect class="chip" x="296" y="368" width="228" height="44" rx="8"/>
+  <text class="ex" x="410" y="395" text-anchor="middle">自分の作品の継ぎ目も見える</text>
+  <line class="arrow" x1="268" y1="390" x2="286" y2="390"/><polygon class="head" points="294,390 284,384 284,396"/>
+  <text class="who" x="48" y="432">この目で、自分の自主制作を観る</text>
+</svg>

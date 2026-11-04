@@ -1,0 +1,35 @@
+<svg class="fig-l27i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l27i-t l27i-d">
+  <title id="l27i-t">色と長回しを表す抽象図案</title>
+  <desc id="l27i-d">原色の色面を、切れ目のない一本の曲線が貫く抽象的な図案。</desc>
+  <style>
+    .fig-l27i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l27i .k{fill:var(--ink,#1A1D24)}
+    .fig-l27i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l27i .s{fill:var(--sub,#5B616E)}
+    .fig-l27i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l27i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l27i .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l27i .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l27i .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l27i .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l27i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l27i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l27i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l27i .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l27i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l27i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l27i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l27i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l27i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l27i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l27i .head{fill:var(--sub,#5B616E)}
+    .fig-l27i .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l27i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><rect class="a10" x="14" y="70" width="100" height="190"/><rect class="a20" x="122" y="70" width="100" height="190"/><rect class="a00" x="230" y="70" width="100" height="190"/><rect class="a90" x="338" y="70" width="100" height="190"/><rect class="mm" x="446" y="70" width="100" height="190"/><rect class="ko" x="14" y="262" width="532" height="8"/><path class="ks" style="stroke-width:6" d="M14,230 C140,60 220,260 320,150 S480,60 546,190"/><circle class="k" cx="546" cy="190" r="8"/><text class="t" x="24" y="40">色と長回し</text>
+</svg>

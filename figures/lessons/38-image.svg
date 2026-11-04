@@ -1,0 +1,74 @@
+<svg class="fig-l38i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l38i-t l38i-d">
+  <title id="l38i-t">同じ構図、小さな違い</title>
+  <desc id="l38i-d">同じ配置の枠が6つ並び、そのうち2つだけ丸の位置と大きさが少し違う。繰り返しの中の小さな違い。</desc>
+  <style>
+    .fig-l38i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l38i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l38i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l38i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l38i .mid{text-anchor:middle}
+    .fig-l38i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l38i .head{fill:var(--sub,#5B616E)}
+    .fig-l38i .bar{fill:var(--c00,#B0347E)}
+    .fig-l38i .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l38i .accfill{fill:var(--c00,#B0347E)}
+    .fig-l38i .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l38i .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l38i .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l38i .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l38i .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l38i .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l38i .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="panel" x="0" y="0" width="560" height="315"/>
+  <line class="rule" x1="0" y1="0" x2="0" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="40" y1="0" x2="40" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="80" y1="0" x2="80" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="120" y1="0" x2="120" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="160" y1="0" x2="160" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="200" y1="0" x2="200" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="240" y1="0" x2="240" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="280" y1="0" x2="280" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="320" y1="0" x2="320" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="360" y1="0" x2="360" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="400" y1="0" x2="400" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="440" y1="0" x2="440" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="480" y1="0" x2="480" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="520" y1="0" x2="520" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="560" y1="0" x2="560" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="0" x2="560" y2="0" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="35" x2="560" y2="35" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="70" x2="560" y2="70" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="105" x2="560" y2="105" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="140" x2="560" y2="140" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="175" x2="560" y2="175" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="210" x2="560" y2="210" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="245" x2="560" y2="245" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="280" x2="560" y2="280" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="315" x2="560" y2="315" style="stroke-opacity:.5"/>
+  <rect class="box" x="30" y="30" width="160" height="110" rx="4"/>
+  <line class="rule" x1="30" y1="103" x2="190" y2="103"/>
+  <rect class="inkfill" x="124" y="70" width="22" height="33" style="fill-opacity:.8"/>
+  <circle class="inkfill" cx="76" cy="86" r="15"/>
+  <rect class="box" x="206" y="30" width="160" height="110" rx="4"/>
+  <line class="rule" x1="206" y1="103" x2="366" y2="103"/>
+  <rect class="inkfill" x="300" y="70" width="22" height="33" style="fill-opacity:.8"/>
+  <circle class="inkfill" cx="252" cy="86" r="15"/>
+  <rect class="box" x="382" y="30" width="160" height="110" rx="4"/>
+  <line class="rule" x1="382" y1="103" x2="542" y2="103"/>
+  <rect class="inkfill" x="476" y="70" width="22" height="33" style="fill-opacity:.8"/>
+  <circle style="fill:var(--c00,#B0347E);fill-opacity:1" cx="434" cy="82" r="17"/>
+  <rect class="box" x="30" y="170" width="160" height="110" rx="4"/>
+  <line class="rule" x1="30" y1="243" x2="190" y2="243"/>
+  <rect class="inkfill" x="124" y="210" width="22" height="33" style="fill-opacity:.8"/>
+  <circle class="inkfill" cx="76" cy="226" r="15"/>
+  <rect class="box" x="206" y="170" width="160" height="110" rx="4"/>
+  <line class="rule" x1="206" y1="243" x2="366" y2="243"/>
+  <rect class="inkfill" x="300" y="210" width="22" height="33" style="fill-opacity:.8"/>
+  <circle style="fill:var(--c00,#B0347E);fill-opacity:1" cx="244" cy="232" r="17"/>
+  <rect class="box" x="382" y="170" width="160" height="110" rx="4"/>
+  <line class="rule" x1="382" y1="243" x2="542" y2="243"/>
+  <rect class="inkfill" x="476" y="210" width="22" height="33" style="fill-opacity:.8"/>
+  <circle class="inkfill" cx="428" cy="226" r="15"/>
+
+</svg>

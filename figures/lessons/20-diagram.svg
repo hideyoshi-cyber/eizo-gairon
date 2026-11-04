@@ -1,0 +1,59 @@
+<svg class="fig-l20d" viewBox="0 0 560 570" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l20d-t l20d-d">
+  <title id="l20d-t">CMは課題を15秒で解く映像</title>
+  <desc id="l20d-d">CMには最初から依頼主と課題がある。15秒にはしごの全段が詰まり、長回しの系譜や映画監督の参加で映像の最前線にある。</desc>
+  <style>
+    .fig-l20d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l20d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l20d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l20d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l20d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l20d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l20d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l20d .head{fill:var(--sub,#5B616E)}
+    .fig-l20d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l20d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l20d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l20d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l20d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l20d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l20d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l20d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l20d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l20d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l20d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="46">1　お金を出す人と課題</text>
+  <text class="ex" x="48" y="70">依頼主がいて、売りたい商品がある</text>
+  <text class="ex" x="48" y="92">解きたい課題が最初からある</text>
+  <text class="who" x="48" y="114">作り手の仕事は、課題を映像で解くこと</text>
+  <line class="arrow" x1="280" y1="134" x2="280" y2="146"/><polygon class="head" points="272,144 288,144 280,154"/>
+  <rect class="box" x="20" y="158" width="520" height="132" rx="10"/>
+  <rect class="b2" x="20" y="158" width="10" height="132" rx="4"/>
+  <text class="step" x="48" y="188">2　15秒に、はしごの全段</text>
+  <rect class="chip" x="48" y="224" width="102" height="28" rx="6"/>
+  <text class="chipt" x="99" y="243">抽象</text>
+  <polygon class="head" points="156,232 156,244 168,238"/>
+  <rect class="chip" x="174" y="224" width="102" height="28" rx="6"/>
+  <text class="chipt" x="225" y="243">形容詞</text>
+  <polygon class="head" points="282,232 282,244 294,238"/>
+  <rect class="chip" x="300" y="224" width="102" height="28" rx="6"/>
+  <text class="chipt" x="351" y="243">場面</text>
+  <polygon class="head" points="408,232 408,244 420,238"/>
+  <rect class="chiph" x="426" y="224" width="102" height="28" rx="6"/>
+  <text class="chiptw" x="477" y="243">パラメータ</text>
+  <text class="who" x="48" y="274">段を飛ばすと「何のCMか分からない」</text>
+  <rect class="box" x="20" y="312" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="312" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="342">3　長回しの系譜</text>
+  <text class="ex" x="48" y="366">Honda「Cog」は切れ目がない映像</text>
+  <text class="ex" x="48" y="388">『1917』『ゼロ・グラビティ』と同じ</text>
+  <text class="who" x="48" y="410">「切らない」ことが引きつける力</text>
+  <rect class="box" x="20" y="440" width="520" height="114" rx="10"/>
+  <rect class="b2" x="20" y="440" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="470">4　CMは映像の最前線</text>
+  <text class="ex" x="48" y="494">リドリー・スコット、イニャリトゥ、</text>
+  <text class="ex" x="48" y="516">The Mill。一線の作り手が作る</text>
+  <text class="who" x="48" y="538">CMは映画への遠回りではない</text>
+</svg>

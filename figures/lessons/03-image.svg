@@ -1,0 +1,49 @@
+<svg class="fig-l03i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l03i-t l03i-d">
+  <title id="l03i-t">カメラと時間を誰が持つか</title>
+  <desc id="l03i-d">白黒の面と色の面に分けた枠の中を、風のような曲線が目印へ流れる抽象的な図案。中央に照準の十字を置いた。</desc>
+  <style>
+    .fig-l03i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l03i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l03i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l03i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l03i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l03i .head{fill:var(--sub,#5B616E)}
+    .fig-l03i .a{fill:var(--c20,#127F91)} .fig-l03i .b{fill:var(--c10,#5C6BC0)} .fig-l03i .c{fill:var(--c00,#B0347E)} .fig-l03i .d{fill:var(--c90,#C26A1B)}
+    .fig-l03i .mid{text-anchor:middle}
+    .fig-l03i .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect width="560" height="315" fill="var(--paper,#F5F3EE)"/>
+  <g stroke="var(--rule,#D3D7DE)" stroke-width="1" opacity=".6"><line x1="0" y1="0" x2="0" y2="315"/><line x1="40" y1="0" x2="40" y2="315"/><line x1="80" y1="0" x2="80" y2="315"/><line x1="120" y1="0" x2="120" y2="315"/><line x1="160" y1="0" x2="160" y2="315"/><line x1="200" y1="0" x2="200" y2="315"/><line x1="240" y1="0" x2="240" y2="315"/><line x1="280" y1="0" x2="280" y2="315"/><line x1="320" y1="0" x2="320" y2="315"/><line x1="360" y1="0" x2="360" y2="315"/><line x1="400" y1="0" x2="400" y2="315"/><line x1="440" y1="0" x2="440" y2="315"/><line x1="480" y1="0" x2="480" y2="315"/><line x1="520" y1="0" x2="520" y2="315"/><line x1="560" y1="0" x2="560" y2="315"/><line x1="0" y1="0" x2="560" y2="0"/><line x1="0" y1="35" x2="560" y2="35"/><line x1="0" y1="70" x2="560" y2="70"/><line x1="0" y1="105" x2="560" y2="105"/><line x1="0" y1="140" x2="560" y2="140"/><line x1="0" y1="175" x2="560" y2="175"/><line x1="0" y1="210" x2="560" y2="210"/><line x1="0" y1="245" x2="560" y2="245"/><line x1="0" y1="280" x2="560" y2="280"/><line x1="0" y1="315" x2="560" y2="315"/></g>
+  <rect x="70" y="40" width="420" height="200" fill="var(--panel,#FFFFFF)" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <rect x="70" y="40" width="210" height="200" fill="var(--ink,#1A1D24)"/>
+  <rect x="280" y="40" width="210" height="200" fill="var(--c20,#127F91)" opacity=".25"/>
+  <path d="M90,215 C190,190 300,150 420,110" fill="none" stroke="var(--c20,#127F91)" stroke-width="2.5" opacity="0.9"/>
+  <path d="M98,205 C190,170 300,136 420,116" fill="none" stroke="var(--paper,#F5F3EE)" stroke-width="2.5" opacity="0.78"/>
+  <path d="M106,195 C190,150 300,122 420,122" fill="none" stroke="var(--c20,#127F91)" stroke-width="2.5" opacity="0.66"/>
+  <path d="M114,185 C190,130 300,108 420,128" fill="none" stroke="var(--paper,#F5F3EE)" stroke-width="2.5" opacity="0.54"/>
+  <path d="M122,175 C190,110 300,94 420,134" fill="none" stroke="var(--c20,#127F91)" stroke-width="2.5" opacity="0.42000000000000004"/>
+  <polygon points="440,110 452,98 464,110 452,122" fill="var(--c20,#127F91)" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <circle cx="280" cy="140" r="26" fill="none" stroke="var(--c00,#B0347E)" stroke-width="2.5"/><line x1="280" y1="100" x2="280" y2="180" stroke="var(--c00,#B0347E)" stroke-width="2.5"/><line x1="240" y1="140" x2="320" y2="140" stroke="var(--c00,#B0347E)" stroke-width="2.5"/>
+  <rect x="0" y="262" width="560" height="53" fill="var(--c20,#127F91)" opacity=".14"/>
+  <line x1="280" y1="262" x2="-280" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="-210" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="-140" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="-70" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="0" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="70" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="140" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="210" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="280" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="350" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="420" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="490" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="560" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="630" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="700" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="770" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="280" y1="262" x2="840" y2="315" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="0" y1="275.3" x2="560" y2="275.3" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="0" y1="291.1" x2="560" y2="291.1" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+  <line x1="0" y1="315.0" x2="560" y2="315.0" stroke="var(--c20,#127F91)" stroke-width="1" opacity=".45"/>
+
+</svg>

@@ -1,0 +1,35 @@
+<svg class="fig-l32i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l32i-t l32i-d">
+  <title id="l32i-t">職場のルールでできた世界を表す抽象図案</title>
+  <desc id="l32i-d">窓が規則正しく並ぶ建物の図で、ルールでできた世界を表す抽象的な図案。</desc>
+  <style>
+    .fig-l32i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l32i .k{fill:var(--ink,#1A1D24)}
+    .fig-l32i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l32i .s{fill:var(--sub,#5B616E)}
+    .fig-l32i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l32i .m{fill:var(--c00,#B0347E)}
+    .fig-l32i .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l32i .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l32i .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l32i .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l32i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l32i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l32i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l32i .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l32i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l32i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l32i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l32i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l32i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l32i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l32i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l32i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l32i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l32i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l32i .head{fill:var(--sub,#5B616E)}
+    .fig-l32i .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l32i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l32i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><path class="m" d="M90,52 L280,14 L470,52 Z"/><rect class="k" x="110" y="52" width="340" height="233" opacity=".88"/><rect class="m" x="128" y="68" width="24" height="22"/><rect class="mo" x="166" y="68" width="24" height="22"/><rect class="mo" x="204" y="68" width="24" height="22"/><rect class="m" x="242" y="68" width="24" height="22"/><rect class="mo" x="280" y="68" width="24" height="22"/><rect class="m" x="318" y="68" width="24" height="22"/><rect class="mo" x="356" y="68" width="24" height="22"/><rect class="mo" x="394" y="68" width="24" height="22"/><rect class="mo" x="128" y="105" width="24" height="22"/><rect class="m" x="166" y="105" width="24" height="22"/><rect class="mo" x="204" y="105" width="24" height="22"/><rect class="mo" x="242" y="105" width="24" height="22"/><rect class="m" x="280" y="105" width="24" height="22"/><rect class="mo" x="318" y="105" width="24" height="22"/><rect class="m" x="356" y="105" width="24" height="22"/><rect class="mo" x="394" y="105" width="24" height="22"/><rect class="m" x="128" y="142" width="24" height="22"/><rect class="mo" x="166" y="142" width="24" height="22"/><rect class="m" x="204" y="142" width="24" height="22"/><rect class="mo" x="242" y="142" width="24" height="22"/><rect class="mo" x="280" y="142" width="24" height="22"/><rect class="m" x="318" y="142" width="24" height="22"/><rect class="mo" x="356" y="142" width="24" height="22"/><rect class="m" x="394" y="142" width="24" height="22"/><rect class="mo" x="128" y="179" width="24" height="22"/><rect class="m" x="166" y="179" width="24" height="22"/><rect class="mo" x="204" y="179" width="24" height="22"/><rect class="m" x="242" y="179" width="24" height="22"/><rect class="mo" x="280" y="179" width="24" height="22"/><rect class="mo" x="318" y="179" width="24" height="22"/><rect class="m" x="356" y="179" width="24" height="22"/><rect class="mo" x="394" y="179" width="24" height="22"/><rect class="mo" x="128" y="216" width="24" height="22"/><rect class="mo" x="166" y="216" width="24" height="22"/><rect class="m" x="204" y="216" width="24" height="22"/><rect class="mo" x="242" y="216" width="24" height="22"/><rect class="m" x="280" y="216" width="24" height="22"/><rect class="mo" x="318" y="216" width="24" height="22"/><rect class="mo" x="356" y="216" width="24" height="22"/><rect class="m" x="394" y="216" width="24" height="22"/><path class="bg" d="M250,285 L250,262 A30,30 0 0 1 310,262 L310,285 Z"/><rect class="ko" x="0" y="285" width="560" height="10"/><line class="ks2" x1="60" y1="240" x2="60" y2="285"/><circle class="m" cx="60" cy="236" r="9"/><line class="ks2" x1="500" y1="240" x2="500" y2="285"/><circle class="m" cx="500" cy="236" r="9"/><text class="t" x="24" y="306">ルールの世界</text>
+</svg>

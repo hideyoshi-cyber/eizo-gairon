@@ -1,0 +1,41 @@
+<svg class="fig-l04d" viewBox="0 0 560 528" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l04d-t l04d-d">
+  <title id="l04d-t">編集は消えたのではなく、隠された</title>
+  <desc id="l04d-d">時間、フレーム、編集の3要素。『1917』はつなぎ目を物陰や暗がりに隠し、フレームが編集の代わりをし、時間を飛ばすには理由が要る。</desc>
+  <style>
+    .fig-l04d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l04d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l04d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l04d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l04d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l04d .head{fill:var(--sub,#5B616E)}
+    .fig-l04d .a{fill:var(--c20,#127F91)} .fig-l04d .b{fill:var(--c10,#5C6BC0)} .fig-l04d .c{fill:var(--c00,#B0347E)} .fig-l04d .d{fill:var(--c90,#C26A1B)}
+    .fig-l04d .mid{text-anchor:middle}
+    .fig-l04d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="114" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="48">映像の3要素</text>
+  <text class="ex" x="48" y="76">時間：主人公と観客の時間をほぼ一致</text>
+  <text class="ex" x="48" y="98">フレーム：見えるものを限定</text>
+  <text class="ex" x="48" y="120">編集：つなぎ目を物陰や暗がりに隠す</text>
+  <line class="arrow" x1="280" y1="134" x2="280" y2="146"/><polygon class="head" points="272,144 288,144 280,154"/>
+  <rect class="box" x="20" y="158" width="520" height="114" rx="10"/>
+  <rect class="c" x="20" y="158" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="190">編集は隠された</text>
+  <text class="ex" x="48" y="218">全編を2つの連続したショットに見せる</text>
+  <text class="ex" x="48" y="240">実際は長回しをつないでいる</text>
+  <text class="who" x="48" y="262">つなぎ目に気づかせない設計も、高度な編集</text>
+  <line class="arrow" x1="280" y1="276" x2="280" y2="288"/><polygon class="head" points="272,286 288,286 280,296"/>
+  <rect class="box" x="20" y="300" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="300" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="332">フレームが編集の代わり</text>
+  <text class="ex" x="48" y="360">カメラが前に回り込み、横に並び、背中を追う</text>
+  <text class="ex" x="48" y="382">カットで行う「見せる対象の切り替え」をする</text>
+  <line class="arrow" x1="280" y1="396" x2="280" y2="408"/><polygon class="head" points="272,406 288,406 280,416"/>
+  <rect class="box" x="20" y="420" width="520" height="92" rx="10"/>
+  <rect class="d" x="20" y="420" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="452">時間を飛ばすには理由がいる</text>
+  <text class="ex" x="48" y="480">一度だけ時間が飛ぶのは、主人公が気を失う場面</text>
+  <text class="who" x="48" y="502">編集点には、それを正当化する理由が必要</text>
+
+</svg>

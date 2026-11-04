@@ -1,0 +1,58 @@
+<svg class="fig-g04d" viewBox="0 0 560 556" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="g04d-t g04d-d">
+  <title id="g04d-t">15秒の国と30秒の国</title>
+  <desc id="g04d-d">広告は依頼主の課題を解くための映像。日本は15秒が中心でタレントの顔で信頼を作り、代理店は媒体の側から育った。海外は30秒以上が中心でアイデアや物語で引きつけ、代理店は依頼主の代理人として育った。Webの時代には境界が溶けつつある。</desc>
+  <style>
+    .fig-g04d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-g04d .bar{fill:var(--c00,#B0347E)}
+    .fig-g04d .bk{fill:var(--ink,#1A1D24)}
+    .fig-g04d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g04d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g04d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g04d .lab{fill:var(--sub,#5B616E);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g04d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-g04d .head{fill:var(--sub,#5B616E)}
+    .fig-g04d .c{text-anchor:middle}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="72" rx="10"/>
+  <rect class="bk" x="20" y="16" width="10" height="72" rx="4"/>
+  <text class="step" x="48" y="50">広告は、依頼主の課題を解くための映像</text>
+  <text class="who" x="48" y="74">知ってもらう・好きになってもらう・動いてもらう</text>
+  <rect class="box" x="20" y="100" width="254" height="44" rx="10"/>
+  <rect class="bar" x="20" y="100" width="10" height="44" rx="4"/>
+  <text class="step" x="48" y="130">日本　15秒の国</text>
+  <rect class="box" x="286" y="100" width="254" height="44" rx="10"/>
+  <rect class="bk" x="286" y="100" width="10" height="44" rx="4"/>
+  <text class="step" x="314" y="130">海外　30秒の国</text>
+  <text class="lab" x="20" y="168">CMの長さ</text>
+  <rect class="box" x="20" y="176" width="254" height="72" rx="10"/>
+  <rect class="bar" x="20" y="176" width="10" height="72" rx="4"/>
+  <text class="ex" x="48" y="206">15秒が中心</text>
+  <text class="who" x="48" y="230">1961年に15秒の枠が生まれた</text>
+  <rect class="box" x="286" y="176" width="254" height="72" rx="10"/>
+  <rect class="bk" x="286" y="176" width="10" height="72" rx="4"/>
+  <text class="ex" x="314" y="206">30秒が中心</text>
+  <text class="who" x="314" y="230">60秒以上の長いものも多い</text>
+  <text class="lab" x="20" y="272">作り方</text>
+  <rect class="box" x="20" y="280" width="254" height="72" rx="10"/>
+  <rect class="bar" x="20" y="280" width="10" height="72" rx="4"/>
+  <text class="ex" x="48" y="310">タレントの顔で</text>
+  <text class="who" x="48" y="334">一瞬にして信頼を作る</text>
+  <rect class="box" x="286" y="280" width="254" height="72" rx="10"/>
+  <rect class="bk" x="286" y="280" width="10" height="72" rx="4"/>
+  <text class="ex" x="314" y="310">アイデアや物語で</text>
+  <text class="who" x="314" y="334">引きつける</text>
+  <text class="lab" x="20" y="376">広告代理店の立ち位置</text>
+  <rect class="box" x="20" y="384" width="254" height="72" rx="10"/>
+  <rect class="bar" x="20" y="384" width="10" height="72" rx="4"/>
+  <text class="ex" x="48" y="414">媒体の側に立って</text>
+  <text class="who" x="48" y="438">枠を売る立場から育った</text>
+  <rect class="box" x="286" y="384" width="254" height="72" rx="10"/>
+  <rect class="bk" x="286" y="384" width="10" height="72" rx="4"/>
+  <text class="ex" x="314" y="414">依頼主の代理人として</text>
+  <text class="who" x="314" y="438">枠を買う立場から育った</text>
+  <rect class="box" x="20" y="456" width="520" height="84" rx="10"/>
+  <rect class="bar" x="20" y="456" width="10" height="84" rx="4"/>
+  <text class="step" x="48" y="490">境界は、溶けつつある</text>
+  <text class="ex" x="48" y="518">15秒の技術と、長い尺で物語を語る技術の両方</text>
+
+</svg>

@@ -1,0 +1,18 @@
+<svg class="fig-l55i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l55i-t l55i-d">
+  <title id="l55i-t">同じ映像、違う目の図案</title>
+  <desc id="l55i-d">3枚の面が重なり、その継ぎ目を、右の大きな目が見ている。同じ映像でも、見る目が変わると継ぎ目が見えることを抽象的に表す。</desc>
+  <style>
+    .fig-l55i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l55i .gl{stroke:var(--rule,#D3D7DE);stroke-width:1;fill:none}
+    .fig-l55i .a{fill:var(--c90,#C26A1B)}
+    .fig-l55i .as{stroke:var(--c90,#C26A1B);stroke-width:2.5;fill:none}
+    .fig-l55i .k{fill:var(--ink,#1A1D24)}
+    .fig-l55i .ks{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l55i .ss{stroke:var(--sub,#5B616E);stroke-width:1.5;fill:none}
+    .fig-l55i .p{fill:var(--paper,#F4F5F7)}
+    .fig-l55i .pn{fill:var(--panel,#FFFFFF)}
+    .fig-l55i .d{stroke-dasharray:6 5}
+  </style>
+  <rect class="bg" width="560" height="315"/>
+  <line class="gl" x1="0" y1="242.3" x2="560" y2="242.3"/><line class="gl" x1="0" y1="249.2" x2="560" y2="249.2"/><line class="gl" x1="0" y1="260.7" x2="560" y2="260.7"/><line class="gl" x1="0" y1="276.8" x2="560" y2="276.8"/><line class="gl" x1="0" y1="297.5" x2="560" y2="297.5"/><line class="gl" x1="0" y1="322.8" x2="560" y2="322.8"/><line class="gl" x1="0" y1="352.7" x2="560" y2="352.7"/><line class="gl" x1="280" y1="240" x2="0" y2="315"/><line class="gl" x1="280" y1="240" x2="0" y2="315"/><line class="gl" x1="280" y1="240" x2="20" y2="315"/><line class="gl" x1="280" y1="240" x2="90" y2="315"/><line class="gl" x1="280" y1="240" x2="160" y2="315"/><line class="gl" x1="280" y1="240" x2="230" y2="315"/><line class="gl" x1="280" y1="240" x2="300" y2="315"/><line class="gl" x1="280" y1="240" x2="370" y2="315"/><line class="gl" x1="280" y1="240" x2="440" y2="315"/><line class="gl" x1="280" y1="240" x2="510" y2="315"/><line class="gl" x1="280" y1="240" x2="560" y2="315"/><line class="gl" x1="280" y1="240" x2="560" y2="315"/><polygon class="a" fill-opacity="0.35" points="80,220 250,184 420,220 250,256"/><polygon class="a" fill-opacity="0.6" points="80,170 250,134 420,170 250,206"/><polygon class="a" fill-opacity="1" points="80,120 250,84 420,120 250,156"/><polygon class="as" points="80,220 250,184 420,220 250,256"/><polygon class="as" points="80,170 250,134 420,170 250,206"/><polygon class="as" points="80,120 250,84 420,120 250,156"/><line class="ks d" x1="250" y1="120" x2="478" y2="150"/><line class="ks d" x1="335" y1="170" x2="478" y2="162"/><path class="ks" d="M452 156 Q 495 118 538 156 Q 495 194 452 156 Z"/><circle class="a" cx="495" cy="156" r="14"/><circle class="k" cx="495" cy="156" r="6"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg class="fig-g02d" viewBox="0 0 560 408" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="g02d-t g02d-d">
+  <title id="g02d-t">バウハウスから今のモーショングラフィックスへ</title>
+  <desc id="g02d-d">ドイツの第一次バウハウスが閉鎖したあと、先生たちが渡ったシカゴのニュー・バウハウスとドイツのウルム造形大学が第二次。人を通した線は、モホリ＝ナジ、ケペッシュ、ソール・バス、今のモーショングラフィックスとつながる。</desc>
+  <style>
+    .fig-g02d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-g02d .bar{fill:var(--c00,#B0347E)}
+    .fig-g02d .bk{fill:var(--ink,#1A1D24)}
+    .fig-g02d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g02d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g02d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g02d .lab{fill:var(--sub,#5B616E);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-g02d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-g02d .head{fill:var(--sub,#5B616E)}
+    .fig-g02d .c{text-anchor:middle}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="96" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="96" rx="4"/>
+  <text class="step" x="48" y="50">第一次バウハウス</text>
+  <text class="who" x="48" y="74">ドイツ　1919〜1933年</text>
+  <text class="ex" x="48" y="102">芸術と技術を一つにする。形・色・構成の基礎教育</text>
+  <line class="arrow" x1="145" y1="116" x2="145" y2="132"/><polygon class="head" points="137,130 153,130 145,140"/>
+  <line class="arrow" x1="415" y1="116" x2="415" y2="132"/><polygon class="head" points="407,130 423,130 415,140"/>
+  <text class="who c" x="280" y="132">閉鎖のあと、先生たちが国外へ</text>
+  <rect class="box" x="20" y="144" width="254" height="124" rx="10"/>
+  <rect class="bar" x="20" y="144" width="10" height="124" rx="4"/>
+  <text class="step" x="48" y="178">ニュー・バウハウス</text>
+  <text class="who" x="48" y="202">アメリカ・シカゴ　1937年に開校</text>
+  <text class="ex" x="48" y="234">光と色の部門を</text>
+  <text class="ex" x="48" y="256">ケペッシュが担当</text>
+  <rect class="box" x="286" y="144" width="254" height="124" rx="10"/>
+  <rect class="bk" x="286" y="144" width="10" height="124" rx="4"/>
+  <text class="step" x="314" y="178">ウルム造形大学</text>
+  <text class="who" x="314" y="202">ドイツ・ウルム　1953〜1968年</text>
+  <text class="ex" x="314" y="234">デザインを科学的・</text>
+  <text class="ex" x="314" y="256">体系的に考える</text>
+  <text class="lab" x="20" y="304">学んだことは、人を通して受け継がれる</text>
+  <rect class="box" x="20" y="316" width="104" height="72" rx="10"/>
+  <rect class="bar" x="20" y="316" width="104" height="6" rx="3"/>
+  <text class="ex" x="28" y="358">モホリ＝ナジ</text>
+  <line class="arrow" x1="126" y1="352" x2="138" y2="352"/><polygon class="head" points="136,345 136,359 150,352"/>
+  <rect class="box" x="152" y="316" width="100" height="72" rx="10"/>
+  <rect class="bar" x="152" y="316" width="100" height="6" rx="3"/>
+  <text class="ex" x="160" y="358">ケペッシュ</text>
+  <line class="arrow" x1="254" y1="352" x2="266" y2="352"/><polygon class="head" points="264,345 264,359 278,352"/>
+  <rect class="box" x="280" y="316" width="104" height="72" rx="10"/>
+  <rect class="bar" x="280" y="316" width="104" height="6" rx="3"/>
+  <text class="ex" x="288" y="358">ソール・バス</text>
+  <line class="arrow" x1="386" y1="352" x2="398" y2="352"/><polygon class="head" points="396,345 396,359 410,352"/>
+  <rect class="box" x="412" y="316" width="128" height="72" rx="10"/>
+  <rect class="bk" x="412" y="316" width="128" height="6" rx="3"/>
+  <text class="ex" x="422" y="351">今のモーション</text>
+  <text class="ex" x="422" y="372">グラフィックス</text>
+
+</svg>

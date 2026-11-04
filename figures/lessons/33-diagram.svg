@@ -1,0 +1,35 @@
+<svg class="fig-l33d" viewBox="0 0 560 482" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l33d-t l33d-d">
+  <title id="l33d-t">自分の企画の芯を一言にする演習の考察</title>
+  <desc id="l33d-d">「誰に・何を・なぜ」の3行を書き、「かっこいい」は芯ではないと見分け、3つ出して1つ選ぶ。</desc>
+  <style>
+    .fig-l33d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l33d .k{fill:var(--ink,#1A1D24)}
+    .fig-l33d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l33d .s{fill:var(--sub,#5B616E)}
+    .fig-l33d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l33d .m{fill:var(--c00,#B0347E)}
+    .fig-l33d .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l33d .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l33d .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l33d .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l33d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l33d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l33d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l33d .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l33d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l33d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l33d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l33d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l33d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l33d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l33d .head{fill:var(--sub,#5B616E)}
+    .fig-l33d .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l33d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">一言にできないアイデアは、まだ企画ではない</text><rect class="box" x="20" y="76" width="520" height="72" rx="10"/><rect class="m" x="20" y="76" width="10" height="72" rx="4"/><text class="step" x="48" y="106">1　企画書の最初の3行</text><text class="ex" x="48" y="130">この3行が書ければ、企画書の背骨はできている</text><rect class="box" x="20" y="154" width="154.66666666666666" height="56" rx="10"/><rect class="m" x="20" y="154" width="154.66666666666666" height="6" rx="3"/><text class="fl" text-anchor="middle" x="97.33333333333333" y="182">誰に向けて</text><text class="who" text-anchor="middle" x="97.33333333333333" y="200">対象</text><line class="arrow" x1="178.66666666666666" y1="182" x2="188.66666666666666" y2="182"/><polygon class="head" points="186.66666666666666,174 186.66666666666666,190 197.66666666666666,182"/><rect class="box" x="202.66666666666666" y="154" width="154.66666666666666" height="56" rx="10"/><rect class="m" x="202.66666666666666" y="154" width="154.66666666666666" height="6" rx="3"/><text class="fl" text-anchor="middle" x="280" y="182">何を伝えるのか</text><text class="who" text-anchor="middle" x="280" y="200">芯</text><line class="arrow" x1="361.3333333333333" y1="182" x2="371.3333333333333" y2="182"/><polygon class="head" points="369.3333333333333,174 369.3333333333333,190 380.3333333333333,182"/><rect class="box" x="385.3333333333333" y="154" width="154.66666666666666" height="56" rx="10"/><rect class="m" x="385.3333333333333" y="154" width="154.66666666666666" height="6" rx="3"/><text class="fl" text-anchor="middle" x="462.66666666666663" y="182">なぜ自分が作る</text><text class="who" text-anchor="middle" x="462.66666666666663" y="200">理由</text><rect class="box" x="20" y="222" width="520" height="94" rx="10"/><rect class="m" x="20" y="222" width="10" height="94" rx="4"/><text class="step" x="48" y="252">2　「かっこいい」は芯ではない</text><text class="ex" x="48" y="276">かっこいい、かわいい、エモい：手段であって芯ではない</text><text class="ex" x="48" y="298">コンセプトとは、「なぜ作るのか」</text><rect class="box" x="20" y="328" width="520" height="72" rx="10"/><rect class="m" x="20" y="328" width="10" height="72" rx="4"/><text class="step" x="48" y="358">3　3つ出して、1つ選ぶ</text><text class="ex" x="48" y="382">最初から1つに絞らず、3つ出して比べる</text><rect class="box" x="20" y="406" width="154.66666666666666" height="56" rx="10"/><rect class="m" x="20" y="406" width="154.66666666666666" height="6" rx="3"/><text class="fl" text-anchor="middle" x="97.33333333333333" y="434">3つ出す</text><line class="arrow" x1="178.66666666666666" y1="434" x2="188.66666666666666" y2="434"/><polygon class="head" points="186.66666666666666,426 186.66666666666666,442 197.66666666666666,434"/><rect class="box" x="202.66666666666666" y="406" width="154.66666666666666" height="56" rx="10"/><rect class="m" x="202.66666666666666" y="406" width="154.66666666666666" height="6" rx="3"/><text class="fl" text-anchor="middle" x="280" y="434">比べる</text><line class="arrow" x1="361.3333333333333" y1="434" x2="371.3333333333333" y2="434"/><polygon class="head" points="369.3333333333333,426 369.3333333333333,442 380.3333333333333,434"/><rect class="box" x="385.3333333333333" y="406" width="154.66666666666666" height="56" rx="10"/><rect class="m" x="385.3333333333333" y="406" width="154.66666666666666" height="6" rx="3"/><text class="fl" text-anchor="middle" x="462.66666666666663" y="434">1つ選ぶ</text><text class="who" text-anchor="middle" x="462.66666666666663" y="452">他を捨てる</text>
+</svg>

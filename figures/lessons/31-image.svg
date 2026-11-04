@@ -1,0 +1,35 @@
+<svg class="fig-l31i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l31i-t l31i-d">
+  <title id="l31i-t">企画の芯に戻る抽象図案</title>
+  <desc id="l31i-d">何重もの枠の外側から中心の一点へ向かう矢印で、芯に戻ることを表す抽象的な図案。</desc>
+  <style>
+    .fig-l31i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l31i .k{fill:var(--ink,#1A1D24)}
+    .fig-l31i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l31i .s{fill:var(--sub,#5B616E)}
+    .fig-l31i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l31i .m{fill:var(--c00,#B0347E)}
+    .fig-l31i .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l31i .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l31i .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l31i .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l31i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l31i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l31i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l31i .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l31i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l31i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l31i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l31i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l31i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l31i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l31i .head{fill:var(--sub,#5B616E)}
+    .fig-l31i .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l31i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l31i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><rect class="ks2" x="60" y="33" width="440" height="248"/><rect class="rs" x="115" y="64" width="330" height="186"/><rect class="ks2" x="170" y="95" width="220" height="124"/><rect class="mo" x="225" y="126" width="110" height="62"/><circle class="m" cx="280" cy="157" r="14"/><line class="ms" x1="490" y1="157" x2="352" y2="157"/><polygon class="m" points="338,157 356,147 356,167"/><text class="t" x="24" y="304">芯に戻す</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg class="fig-l28d" viewBox="0 0 560 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l28d-t l28d-d">
+  <title id="l28d-t">色の源流をたどる『ラ・ラ・ランド』と『シェルブールの雨傘』の考察</title>
+  <desc id="l28d-d">源流から「色と歌の一体感」を引き継ぎ、舞台を「現実の街」に置き換えた。</desc>
+  <style>
+    .fig-l28d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l28d .k{fill:var(--ink,#1A1D24)}
+    .fig-l28d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l28d .s{fill:var(--sub,#5B616E)}
+    .fig-l28d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l28d .m{fill:var(--c10,#5C6BC0)}
+    .fig-l28d .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l28d .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l28d .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l28d .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l28d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l28d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l28d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l28d .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l28d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l28d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l28d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l28d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l28d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l28d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l28d .head{fill:var(--sub,#5B616E)}
+    .fig-l28d .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l28d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="box" x="20" y="16" width="520" height="94" rx="10"/><rect class="m" x="20" y="16" width="10" height="94" rx="4"/><text class="step" x="48" y="46">源流　『シェルブールの雨傘』</text><text class="ex" x="48" y="70">1960年代のフランスのミュージカル</text><text class="ex" x="48" y="92">新しく見える作品も、過去への敬意から作られる</text><line class="arrow" x1="280" y1="112" x2="280" y2="126"/><polygon class="head" points="272,124 288,124 280,134"/><rect class="box" x="20" y="138" width="254" height="116" rx="10"/><rect class="m" x="20" y="138" width="10" height="116" rx="4"/><text class="step" x="48" y="168">引き継いだもの</text><text class="ex" x="48" y="192">色と歌の一体感</text><text class="ex" x="48" y="214">原色の壁や衣装</text><text class="ex" x="48" y="236">歌で気持ちを語る演出</text><rect class="box" x="286" y="138" width="254" height="116" rx="10"/><rect class="m" x="286" y="138" width="10" height="116" rx="4"/><text class="step" x="314" y="168">変えたもの</text><text class="ex" x="314" y="192">現実の街</text><text class="ex" x="314" y="214">フランスの港町から</text><text class="ex" x="314" y="236">ロサンゼルスへ</text><rect class="box" x="20" y="266" width="520" height="94" rx="10"/><rect class="m" x="20" y="266" width="10" height="94" rx="4"/><text class="step" x="48" y="296">源流は、古いほど自由に引用できる</text><text class="ex" x="48" y="320">古い作品を知っていることは、大きな武器</text><text class="ex" x="48" y="342">2年間で90年代まで遡るのは、そのため</text>
+</svg>

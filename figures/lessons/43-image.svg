@@ -1,0 +1,35 @@
+<svg class="fig-l43i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l43i-t l43i-d">
+  <title id="l43i-t">絞った色の世界</title>
+  <desc id="l43i-d">数種類の色だけで塗り分けた面が、画面全体を埋める。中央に白い円。使う色を絞った世界観。</desc>
+  <style>
+    .fig-l43i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l43i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l43i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l43i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l43i .mid{text-anchor:middle}
+    .fig-l43i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l43i .head{fill:var(--sub,#5B616E)}
+    .fig-l43i .bar{fill:var(--c00,#B0347E)}
+    .fig-l43i .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l43i .accfill{fill:var(--c00,#B0347E)}
+    .fig-l43i .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l43i .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l43i .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l43i .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l43i .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l43i .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l43i .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="panel" x="0" y="0" width="560" height="315"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:.9" x="0" y="0" width="200" height="150"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:.35" x="200" y="0" width="160" height="90"/>
+  <rect style="fill:var(--c90,#C26A1B);fill-opacity:.8" x="360" y="0" width="200" height="150"/>
+  <rect class="inkfill" x="200" y="90" width="160" height="60"/>
+  <rect style="fill:var(--c20,#127F91);fill-opacity:.75" x="0" y="150" width="120" height="165"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:.9" x="120" y="150" width="280" height="90"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:.35" x="400" y="150" width="160" height="165"/>
+  <rect style="fill:var(--c90,#C26A1B);fill-opacity:.8" x="120" y="240" width="280" height="75"/>
+  <circle class="panel" cx="280" cy="158" r="54"/>
+  <circle style="fill:none;stroke:var(--c00,#B0347E);stroke-width:4" cx="280" cy="158" r="54"/>
+
+</svg>

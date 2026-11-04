@@ -1,0 +1,51 @@
+<svg class="fig-l38d" viewBox="0 0 560 334" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l38d-t l38d-d">
+  <title id="l38d-t">繰り返しと違いはセット：コンテで決める</title>
+  <desc id="l38d-d">同じ構図の繰り返しは観客の記憶を呼び出し、時間が戻ったと分かる。繰り返しの中の違いが物語を進める。この二つはセットで、コンテの段階で構図を決めておく必要がある。</desc>
+  <style>
+    .fig-l38d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l38d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l38d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l38d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l38d .mid{text-anchor:middle}
+    .fig-l38d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l38d .head{fill:var(--sub,#5B616E)}
+    .fig-l38d .bar{fill:var(--c00,#B0347E)}
+    .fig-l38d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l38d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l38d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l38d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l38d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l38d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l38d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l38d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l38d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="box" x="20" y="16" width="250" height="184" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="184" rx="4"/>
+  <text class="step" x="48" y="46">繰り返し</text>
+  <rect class="box" x="44" y="62" width="210" height="32" rx="6"/>
+  <text class="ex" x="56" y="83">同じ構図が出てくる</text>
+  <line class="arrow" x1="149" y1="96" x2="149" y2="102"/><polygon class="head" points="143,100 155,100 149,106"/>
+  <rect class="box" x="44" y="106" width="210" height="32" rx="6"/>
+  <text class="ex" x="56" y="127">前の場面を思い出す</text>
+  <line class="arrow" x1="149" y1="140" x2="149" y2="146"/><polygon class="head" points="143,144 155,144 149,150"/>
+  <rect class="box" x="44" y="150" width="210" height="32" rx="6"/>
+  <text class="ex" x="56" y="171">時間が戻ったと分かる</text>
+  <rect class="box" x="290" y="16" width="250" height="184" rx="10"/>
+  <rect class="bar" x="290" y="16" width="10" height="184" rx="4"/>
+  <text class="step" x="318" y="46">違い</text>
+  <rect class="box" x="314" y="62" width="210" height="32" rx="6"/>
+  <text class="ex" x="326" y="83">少しずつ何かが違う</text>
+  <line class="arrow" x1="419" y1="96" x2="419" y2="102"/><polygon class="head" points="413,100 425,100 419,106"/>
+  <rect class="box" x="314" y="106" width="210" height="32" rx="6"/>
+  <text class="ex" x="326" y="127">違いに気づく</text>
+  <line class="arrow" x1="419" y1="140" x2="419" y2="146"/><polygon class="head" points="413,144 425,144 419,150"/>
+  <rect class="box" x="314" y="150" width="210" height="32" rx="6"/>
+  <text class="ex" x="326" y="171">物語が前に進んだと知る</text>
+  <line class="arrow" x1="145" y1="204" x2="145" y2="216"/><polygon class="head" points="137,214 153,214 145,224"/>
+  <line class="arrow" x1="415" y1="204" x2="415" y2="216"/><polygon class="head" points="407,214 423,214 415,224"/>
+  <rect class="accbox" x="20" y="228" width="520" height="90" rx="10"/>
+  <text class="step" x="48" y="260">セットで設計する</text>
+  <text class="ex" x="48" y="286">正確に繰り返すには、コンテの段階で構図を決める</text>
+  <text class="who" x="48" y="306">描きながら決めていては、繰り返しになりません</text>
+</svg>

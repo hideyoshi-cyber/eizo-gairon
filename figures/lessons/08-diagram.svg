@@ -1,0 +1,46 @@
+<svg class="fig-l08d" viewBox="0 0 560 638" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l08d-t l08d-d">
+  <title id="l08d-t">色は場所と勢力の記号</title>
+  <desc id="l08d-d">3つの世界はそれぞれ別のパレットを持ち、観客は色で今どこにいるかを判断する。カラコレの設計は撮影前に終わっている。</desc>
+  <style>
+    .fig-l08d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l08d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l08d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l08d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l08d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l08d .head{fill:var(--sub,#5B616E)}
+    .fig-l08d .a{fill:var(--c20,#127F91)} .fig-l08d .b{fill:var(--c10,#5C6BC0)} .fig-l08d .c{fill:var(--c00,#B0347E)} .fig-l08d .d{fill:var(--c90,#C26A1B)}
+    .fig-l08d .mid{text-anchor:middle}
+    .fig-l08d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="92" rx="10"/>
+  <rect class="d" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="48">アラキス（砂漠の惑星）</text>
+  <text class="ex" x="48" y="76">砂の暖色、強い日差し</text>
+  <text class="who" x="48" y="98">過酷さ、主人公が生きる現実</text>
+  <rect class="box" x="20" y="120" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="120" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="152">ジェディ・プライム</text>
+  <text class="ex" x="48" y="180">赤外線の白黒</text>
+  <text class="who" x="48" y="202">異質さ、敵の世界</text>
+  <rect class="box" x="20" y="224" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="224" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="256">帝国の宮廷</text>
+  <text class="ex" x="48" y="284">アラキスとは異なる人工的な色</text>
+  <text class="who" x="48" y="306">権力の中心、遠い世界</text>
+  <line class="arrow" x1="280" y1="320" x2="280" y2="332"/><polygon class="head" points="272,330 288,330 280,340"/>
+  <rect class="box" x="20" y="344" width="520" height="70" rx="10"/>
+  <rect class="c" x="20" y="344" width="10" height="70" rx="4"/>
+  <text class="step" x="48" y="376">色で今どこにいるかが分かる</text>
+  <text class="ex" x="48" y="404">色は雰囲気づくりだけでなく、物語の地図</text>
+  <rect class="box" x="20" y="426" width="520" height="92" rx="10"/>
+  <rect class="c" x="20" y="426" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="458">設計は撮影前に終わっている</text>
+  <text class="ex" x="48" y="486">白黒は撮影で決まり、美術と衣装も合わせる</text>
+  <text class="who" x="48" y="508">仕上げのカラコレは、決まった設計を整える工程</text>
+  <rect class="box" x="20" y="530" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="530" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="562">白黒をどの段階で決めるか</text>
+  <text class="ex" x="48" y="590">黒澤モード：後から変換する白黒</text>
+  <text class="ex" x="48" y="612">ジェディ・プライム：撮影で決める白黒</text>
+
+</svg>

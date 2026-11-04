@@ -1,0 +1,72 @@
+<svg class="fig-l06i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l06i-t l06i-d">
+  <title id="l06i-t">同じ構図を引き継ぎ、一点を更新する</title>
+  <desc id="l06i-d">夕景を思わせる同じ構図の2枚の面。右の面にだけ、別の色の小さな四角が加わる抽象的な図案。</desc>
+  <style>
+    .fig-l06i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l06i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l06i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l06i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l06i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l06i .head{fill:var(--sub,#5B616E)}
+    .fig-l06i .a{fill:var(--c20,#127F91)} .fig-l06i .b{fill:var(--c10,#5C6BC0)} .fig-l06i .c{fill:var(--c00,#B0347E)} .fig-l06i .d{fill:var(--c90,#C26A1B)}
+    .fig-l06i .mid{text-anchor:middle}
+    .fig-l06i .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect width="560" height="315" fill="var(--paper,#F5F3EE)"/>
+  <defs><linearGradient id="l06i-g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="var(--c20,#127F91)" stop-opacity=".15"/><stop offset="1" stop-color="var(--c20,#127F91)" stop-opacity=".75"/></linearGradient></defs>
+  <rect x="20" y="40" width="250" height="220" fill="url(#l06i-g)" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <circle cx="145" cy="168" r="34" fill="var(--paper,#F5F3EE)" opacity=".9"/>
+  <rect x="20" y="178" width="250" height="82" fill="var(--ink,#1A1D24)"/>
+  <line x1="22" y1="44" x2="268" y2="44" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="50" x2="268" y2="50" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="56" x2="268" y2="56" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="62" x2="268" y2="62" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="68" x2="268" y2="68" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="74" x2="268" y2="74" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="80" x2="268" y2="80" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="86" x2="268" y2="86" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="92" x2="268" y2="92" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="98" x2="268" y2="98" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="104" x2="268" y2="104" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="110" x2="268" y2="110" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="116" x2="268" y2="116" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="122" x2="268" y2="122" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="128" x2="268" y2="128" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="134" x2="268" y2="134" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="140" x2="268" y2="140" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="146" x2="268" y2="146" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="152" x2="268" y2="152" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="158" x2="268" y2="158" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="164" x2="268" y2="164" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="22" y1="170" x2="268" y2="170" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <rect x="50" y="200" width="60" height="6" fill="var(--paper,#F5F3EE)" opacity=".5"/>
+  <rect x="290" y="40" width="250" height="220" fill="url(#l06i-g)" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <circle cx="415" cy="168" r="34" fill="var(--paper,#F5F3EE)" opacity=".9"/>
+  <rect x="290" y="178" width="250" height="82" fill="var(--ink,#1A1D24)"/>
+  <line x1="292" y1="44" x2="538" y2="44" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="50" x2="538" y2="50" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="56" x2="538" y2="56" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="62" x2="538" y2="62" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="68" x2="538" y2="68" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="74" x2="538" y2="74" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="80" x2="538" y2="80" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="86" x2="538" y2="86" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="92" x2="538" y2="92" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="98" x2="538" y2="98" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="104" x2="538" y2="104" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="110" x2="538" y2="110" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="116" x2="538" y2="116" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="122" x2="538" y2="122" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="128" x2="538" y2="128" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="134" x2="538" y2="134" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="140" x2="538" y2="140" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="146" x2="538" y2="146" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="152" x2="538" y2="152" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="158" x2="538" y2="158" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="164" x2="538" y2="164" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <line x1="292" y1="170" x2="538" y2="170" stroke="var(--ink,#1A1D24)" stroke-width="1" opacity=".12"/>
+  <rect x="320" y="200" width="60" height="6" fill="var(--paper,#F5F3EE)" opacity=".5"/>
+  <rect x="450" y="214" width="46" height="26" fill="var(--c00,#B0347E)"/>
+  <rect x="20" y="276" width="520" height="4" fill="var(--c20,#127F91)" opacity=".5"/>
+
+</svg>

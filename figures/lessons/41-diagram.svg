@@ -1,0 +1,48 @@
+<svg class="fig-l41d" viewBox="0 0 560 392" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l41d-t l41d-d">
+  <title id="l41d-t">演技の層：CGの心は俳優から来る</title>
+  <desc id="l41d-d">合成カットには背景、主役、エフェクトの層に加えて、俳優の芝居を記録した演技の層がある。この層が弱いと心が動かない。シン・ゴジラ、The Last of Us、アバターは、怪獣、ゲームの人物、異星の人々に人の演技を入れた。</desc>
+  <style>
+    .fig-l41d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l41d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l41d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l41d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l41d .mid{text-anchor:middle}
+    .fig-l41d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l41d .head{fill:var(--sub,#5B616E)}
+    .fig-l41d .bar{fill:var(--c00,#B0347E)}
+    .fig-l41d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l41d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l41d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l41d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l41d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l41d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l41d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l41d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l41d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <text class="ex" x="20" y="26">俳優の顔の動きを記録して、CGの顔に移す</text>
+  <rect class="box" x="20" y="42" width="250" height="40" rx="8"/>
+  <text class="ex" x="38" y="68">背景の層</text>
+  <rect class="box" x="20" y="90" width="250" height="40" rx="8"/>
+  <text class="ex" x="38" y="116">主役の層</text>
+  <rect class="box" x="20" y="138" width="250" height="40" rx="8"/>
+  <text class="ex" x="38" y="164">エフェクトの層</text>
+  <rect class="accbox" x="20" y="186" width="250" height="40" rx="8"/>
+  <text class="step" x="38" y="212">演技の層</text>
+  <line class="accline" x1="270" y1="206" x2="296" y2="206"/>
+  <rect class="box" x="300" y="138" width="240" height="88" rx="10"/>
+  <text class="ex" x="314" y="166">俳優の芝居を記録した層</text>
+  <text class="ex" x="314" y="188">弱いと、画がきれいでも</text>
+  <text class="ex" x="314" y="210">心が動きません</text>
+  <text class="step" x="20" y="262">同じ発想が、媒体を越える</text>
+  <rect class="box" x="20" y="276" width="164" height="68" rx="8"/>
+  <text class="ex" x="34" y="304">『シン・ゴジラ』</text>
+  <text class="who" x="34" y="328">怪獣に</text>
+  <rect class="box" x="198" y="276" width="164" height="68" rx="8"/>
+  <text class="ex" x="212" y="304">『The Last of Us』</text>
+  <text class="who" x="212" y="328">ゲームの人物に</text>
+  <rect class="box" x="376" y="276" width="164" height="68" rx="8"/>
+  <text class="ex" x="390" y="304">『アバター』</text>
+  <text class="who" x="390" y="328">異星の人々に</text>
+  <text class="who" x="20" y="372">どれも、人の演技を入れた</text>
+</svg>

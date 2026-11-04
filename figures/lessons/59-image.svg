@@ -1,0 +1,18 @@
+<svg class="fig-l59i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l59i-t l59i-d">
+  <title id="l59i-t">波紋を読んで次の石を選ぶ図案</title>
+  <desc id="l59i-d">同心の楕円の波紋が広がり、中心に石の点がある。右上には、次に投げる石の位置が点線の輪で示される。講評で波紋を読み、次の石を選ぶことを抽象的に表す。</desc>
+  <style>
+    .fig-l59i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l59i .gl{stroke:var(--rule,#D3D7DE);stroke-width:1;fill:none}
+    .fig-l59i .a{fill:var(--c90,#C26A1B)}
+    .fig-l59i .as{stroke:var(--c90,#C26A1B);stroke-width:2.5;fill:none}
+    .fig-l59i .k{fill:var(--ink,#1A1D24)}
+    .fig-l59i .ks{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l59i .ss{stroke:var(--sub,#5B616E);stroke-width:1.5;fill:none}
+    .fig-l59i .p{fill:var(--paper,#F4F5F7)}
+    .fig-l59i .pn{fill:var(--panel,#FFFFFF)}
+    .fig-l59i .d{stroke-dasharray:6 5}
+  </style>
+  <rect class="bg" width="560" height="315"/>
+  <line class="gl" x1="0" y1="222.3" x2="560" y2="222.3"/><line class="gl" x1="0" y1="229.2" x2="560" y2="229.2"/><line class="gl" x1="0" y1="240.7" x2="560" y2="240.7"/><line class="gl" x1="0" y1="256.8" x2="560" y2="256.8"/><line class="gl" x1="0" y1="277.5" x2="560" y2="277.5"/><line class="gl" x1="0" y1="302.8" x2="560" y2="302.8"/><line class="gl" x1="0" y1="332.7" x2="560" y2="332.7"/><line class="gl" x1="280" y1="220" x2="0" y2="315"/><line class="gl" x1="280" y1="220" x2="0" y2="315"/><line class="gl" x1="280" y1="220" x2="20" y2="315"/><line class="gl" x1="280" y1="220" x2="90" y2="315"/><line class="gl" x1="280" y1="220" x2="160" y2="315"/><line class="gl" x1="280" y1="220" x2="230" y2="315"/><line class="gl" x1="280" y1="220" x2="300" y2="315"/><line class="gl" x1="280" y1="220" x2="370" y2="315"/><line class="gl" x1="280" y1="220" x2="440" y2="315"/><line class="gl" x1="280" y1="220" x2="510" y2="315"/><line class="gl" x1="280" y1="220" x2="560" y2="315"/><line class="gl" x1="280" y1="220" x2="560" y2="315"/><ellipse class="as" stroke-opacity="0.87" cx="230" cy="180" rx="38" ry="15"/><ellipse class="as" stroke-opacity="0.74" cx="230" cy="180" rx="76" ry="30"/><ellipse class="as" stroke-opacity="0.61" cx="230" cy="180" rx="114" ry="45"/><ellipse class="as" stroke-opacity="0.48" cx="230" cy="180" rx="152" ry="60"/><ellipse class="as" stroke-opacity="0.35" cx="230" cy="180" rx="190" ry="75"/><ellipse class="as" stroke-opacity="0.22" cx="230" cy="180" rx="228" ry="90"/><circle class="k" cx="230" cy="180" r="9"/><path class="ss d" d="M240 172 Q 360 60 462 78"/><circle class="as d" cx="470" cy="80" r="16"/><circle class="a" cx="470" cy="80" r="6"/>
+</svg>

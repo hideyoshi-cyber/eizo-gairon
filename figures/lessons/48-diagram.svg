@@ -1,0 +1,45 @@
+<svg class="fig-l48d" viewBox="0 0 560 482" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l48d-t l48d-d">
+  <title id="l48d-t">仕上げは最初に決める流れ</title>
+  <desc id="l48d-d">仕上げの形容詞を3つ決め、色温度や彩度、粒子などのパラメータに降ろし、仕上げから逆算して撮影や素材を決める。ポスプロの判断はプリプロで決まる。</desc>
+  <style>
+    .fig-l48d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l48d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l48d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l48d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l48d .mid{text-anchor:middle}
+    .fig-l48d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l48d .head{fill:var(--sub,#5B616E)}
+    .fig-l48d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l48d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c90,#C26A1B);stroke-width:2.5}
+    .fig-l48d .accfill{fill:var(--c90,#C26A1B)}
+    .fig-l48d .accline{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l48d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l48d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l48d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l48d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l48d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l48d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="48">1　仕上げの形容詞を決める</text>
+  <text class="ex" x="48" y="74">自分の作品の仕上げを、形容詞3つで言う</text>
+  <text class="who" x="48" y="96">例：『マトリックス』なら「冷たい・人工的」</text>
+  <line class="arrow" x1="280" y1="118" x2="280" y2="126"/><polygon class="head" points="272,124 288,124 280,134"/>
+  <rect class="box" x="20" y="138" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="138" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="170">2　形容詞をパラメータに降ろす</text>
+  <text class="ex" x="48" y="196">色温度、彩度、粒子、コントラストなど</text>
+  <text class="who" x="48" y="218">引き出しノートが役に立つ</text>
+  <line class="arrow" x1="280" y1="240" x2="280" y2="248"/><polygon class="head" points="272,246 288,246 280,256"/>
+  <rect class="box" x="20" y="260" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="260" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="292">3　仕上げから逆算する</text>
+  <text class="ex" x="48" y="318">撮影で何をしておくかが分かる</text>
+  <text class="ex" x="48" y="340">作っておく素材が分かる</text>
+  <line class="arrow" x1="280" y1="362" x2="280" y2="370"/><polygon class="head" points="272,368 288,368 280,378"/>
+  <rect class="accbox" x="20" y="382" width="520" height="84" rx="10"/>
+  <text class="step" x="40" y="416">最後にやるが、最初に決める</text>
+  <text class="ex" x="40" y="444">ポスプロの判断は、プリプロで決まっています</text>
+
+</svg>

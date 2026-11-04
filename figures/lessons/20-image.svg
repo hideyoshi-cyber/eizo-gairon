@@ -1,0 +1,51 @@
+<svg class="fig-l20i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l20i-t l20i-d">
+  <title id="l20i-t">15秒を分けるタイムラインの図案</title>
+  <desc id="l20i-d">15個の目盛りのタイムラインの上に、4つの絵コンテの枠が並ぶ。最初の枠は薄く、最後の枠は濃い。</desc>
+  <style>
+    .fig-l20i .bg{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l20i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l20i .ms{fill:none;stroke:var(--c10,#5C6BC0)}
+    .fig-l20i .k{fill:var(--ink,#1A1D24)}
+    .fig-l20i .ks{fill:none;stroke:var(--ink,#1A1D24)}
+    .fig-l20i .r{fill:var(--rule,#D3D7DE)}
+    .fig-l20i .rs{fill:none;stroke:var(--rule,#D3D7DE)}
+    .fig-l20i .a{fill:var(--c00,#B0347E)}
+    .fig-l20i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+  <rect class="bg" x="1" y="1" width="558" height="313" rx="10"/>
+  <line class="ks" x1="40" y1="214" x2="40" y2="232" stroke-width="2"/>
+  <line class="ks" x1="72" y1="222" x2="72" y2="232" stroke-width="2"/>
+  <line class="ks" x1="104" y1="222" x2="104" y2="232" stroke-width="2"/>
+  <line class="ks" x1="136" y1="222" x2="136" y2="232" stroke-width="2"/>
+  <line class="ks" x1="168" y1="222" x2="168" y2="232" stroke-width="2"/>
+  <line class="ks" x1="200" y1="214" x2="200" y2="232" stroke-width="2"/>
+  <line class="ks" x1="232" y1="222" x2="232" y2="232" stroke-width="2"/>
+  <line class="ks" x1="264" y1="222" x2="264" y2="232" stroke-width="2"/>
+  <line class="ks" x1="296" y1="222" x2="296" y2="232" stroke-width="2"/>
+  <line class="ks" x1="328" y1="222" x2="328" y2="232" stroke-width="2"/>
+  <line class="ks" x1="360" y1="214" x2="360" y2="232" stroke-width="2"/>
+  <line class="ks" x1="392" y1="222" x2="392" y2="232" stroke-width="2"/>
+  <line class="ks" x1="424" y1="222" x2="424" y2="232" stroke-width="2"/>
+  <line class="ks" x1="456" y1="222" x2="456" y2="232" stroke-width="2"/>
+  <line class="ks" x1="488" y1="222" x2="488" y2="232" stroke-width="2"/>
+  <line class="ks" x1="520" y1="214" x2="520" y2="232" stroke-width="2"/>
+  <line class="ks" x1="40" y1="232" x2="520" y2="232" stroke-width="3"/>
+  <rect class="m" x="40" y="52" width="112" height="86" rx="5" fill-opacity="0.15"/>
+  <rect class="ms" x="40" y="52" width="112" height="86" rx="5" stroke-width="2"/>
+  <circle class="k" cx="68" cy="112" r="9" fill-opacity=".7"/>
+  <line class="rs" x1="96" y1="138" x2="96" y2="214" stroke-width="2" stroke-dasharray="3 5"/>
+  <rect class="m" x="160" y="52" width="112" height="86" rx="5" fill-opacity="0.4"/>
+  <rect class="ms" x="160" y="52" width="112" height="86" rx="5" stroke-width="2"/>
+  <circle class="k" cx="206" cy="100" r="12" fill-opacity=".7"/>
+  <line class="rs" x1="216" y1="138" x2="216" y2="214" stroke-width="2" stroke-dasharray="3 5"/>
+  <rect class="m" x="280" y="52" width="112" height="86" rx="5" fill-opacity="0.65"/>
+  <rect class="ms" x="280" y="52" width="112" height="86" rx="5" stroke-width="2"/>
+  <circle class="k" cx="344" cy="88" r="15" fill-opacity=".7"/>
+  <line class="rs" x1="336" y1="138" x2="336" y2="214" stroke-width="2" stroke-dasharray="3 5"/>
+  <rect class="m" x="400" y="52" width="112" height="86" rx="5" fill-opacity="0.9"/>
+  <rect class="ms" x="400" y="52" width="112" height="86" rx="5" stroke-width="2"/>
+  <circle class="k" cx="482" cy="76" r="18" fill-opacity=".7"/>
+  <line class="rs" x1="456" y1="138" x2="456" y2="214" stroke-width="2" stroke-dasharray="3 5"/>
+  <polygon class="k" points="40,200 30,184 50,184"/>
+  <text class="t" x="40" y="278">15秒</text>
+</svg>

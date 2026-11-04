@@ -1,0 +1,35 @@
+<svg class="fig-l27d" viewBox="0 0 560 446" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l27d-t l27d-d">
+  <title id="l27d-t">色と長回しで夢を見せる『ラ・ラ・ランド』の考察</title>
+  <desc id="l27d-d">色が気持ちを表し、長回しが夢を守り、監督と作曲家のつながりが編集のリズムを揃える。</desc>
+  <style>
+    .fig-l27d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l27d .k{fill:var(--ink,#1A1D24)}
+    .fig-l27d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l27d .s{fill:var(--sub,#5B616E)}
+    .fig-l27d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l27d .m{fill:var(--c10,#5C6BC0)}
+    .fig-l27d .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l27d .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l27d .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l27d .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l27d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l27d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l27d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l27d .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l27d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l27d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l27d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l27d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l27d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l27d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l27d .head{fill:var(--sub,#5B616E)}
+    .fig-l27d .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l27d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l27d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">色と長回しと音楽が、一緒に設計されている</text><rect class="box" x="20" y="76" width="520" height="116" rx="10"/><rect class="m" x="20" y="76" width="10" height="116" rx="4"/><text class="step" x="48" y="106">1　色が感情を先回りする</text><text class="ex" x="48" y="130">衣装の原色が、場面の感情に合わせて選ばれる</text><text class="who" x="48" y="152">第8回『DUNE』：色は「場所」を表した</text><text class="who" x="48" y="174">ここでは、色が「気持ち」を表している</text><rect class="box" x="20" y="204" width="520" height="116" rx="10"/><rect class="m" x="20" y="204" width="10" height="116" rx="4"/><text class="step" x="48" y="234">2　切らないカメラが、夢を守る</text><text class="ex" x="48" y="258">カットを割ると、作り物だと気づかれてしまう</text><text class="ex" x="48" y="280">長回しが、夢の時間を途切れさせない道具になる</text><text class="who" x="48" y="302">第4回、第19回の長回しの話とつながる</text><rect class="box" x="20" y="332" width="520" height="94" rx="10"/><rect class="m" x="20" y="332" width="10" height="94" rx="4"/><text class="step" x="48" y="362">3　監督と作曲家が、長くつながる</text><text class="ex" x="48" y="386">編集のリズムと曲のリズムが一致している</text><text class="ex" x="48" y="408">チームの組み方も、作品の質を決める</text>
+</svg>

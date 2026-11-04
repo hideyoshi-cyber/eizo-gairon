@@ -1,0 +1,35 @@
+<svg class="fig-l35i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l35i-t l35i-d">
+  <title id="l35i-t">山が何度も来るカーブの抽象図案</title>
+  <desc id="l35i-d">ギザギザの折れ線と、点線の滑らかなカーブを重ねた抽象的な図案。</desc>
+  <style>
+    .fig-l35i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l35i .k{fill:var(--ink,#1A1D24)}
+    .fig-l35i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l35i .s{fill:var(--sub,#5B616E)}
+    .fig-l35i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l35i .m{fill:var(--c00,#B0347E)}
+    .fig-l35i .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l35i .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l35i .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l35i .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l35i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l35i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l35i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l35i .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l35i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l35i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l35i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l35i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l35i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l35i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l35i .head{fill:var(--sub,#5B616E)}
+    .fig-l35i .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l35i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><polygon class="mo" points="40,262 90,120 135,215 185,62 230,205 285,46 330,190 385,72 430,215 485,52 535,238 535,270 40,270"/><path class="dash" d="M40,262 C220,266 330,262 400,150 C440,80 470,50 500,60 C520,64 530,150 535,255"/><polyline class="ms" points="40,262 90,120 135,215 185,62 230,205 285,46 330,190 385,72 430,215 485,52 535,238"/><circle class="m" cx="90" cy="120" r="6"/><circle class="m" cx="185" cy="62" r="6"/><circle class="m" cx="285" cy="46" r="6"/><circle class="m" cx="385" cy="72" r="6"/><circle class="m" cx="485" cy="52" r="6"/><line class="ks" x1="30" y1="270" x2="545" y2="270"/><line class="ks" x1="30" y1="270" x2="30" y2="28"/><text class="t" x="44" y="40">山が何度も</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg class="fig-l25i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l25i-t l25i-d">
+  <title id="l25i-t">光と背景を表す抽象図案</title>
+  <desc id="l25i-d">空の色の帯、大きな光の円、街並みのシルエットで、背景が主役になることを表した抽象的な図案。</desc>
+  <style>
+    .fig-l25i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l25i .k{fill:var(--ink,#1A1D24)}
+    .fig-l25i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l25i .s{fill:var(--sub,#5B616E)}
+    .fig-l25i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l25i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l25i .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l25i .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l25i .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l25i .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l25i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l25i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l25i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l25i .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l25i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l25i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l25i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l25i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l25i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l25i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l25i .head{fill:var(--sub,#5B616E)}
+    .fig-l25i .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l25i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><rect class="mo" x="0" y="64" width="560" height="11"/><rect class="mo" x="0" y="86" width="560" height="11"/><rect class="mo" x="0" y="108" width="560" height="11"/><rect class="mo" x="0" y="130" width="560" height="11"/><rect class="mo" x="0" y="152" width="560" height="11"/><rect class="mo" x="0" y="174" width="560" height="11"/><circle class="mo" cx="390" cy="150" r="96"/><circle class="mm" cx="390" cy="150" r="66"/><circle class="m" cx="390" cy="150" r="40"/><rect class="k" x="0" y="255" width="38" height="60"/><rect class="m" x="8" y="265" width="8" height="10"/><rect class="m" x="22" y="265" width="8" height="10"/><rect class="k" x="40" y="225" width="38" height="90"/><rect class="k" x="80" y="265" width="38" height="50"/><rect class="k" x="120" y="195" width="38" height="120"/><rect class="k" x="160" y="235" width="38" height="80"/><rect class="m" x="168" y="245" width="8" height="10"/><rect class="m" x="182" y="245" width="8" height="10"/><rect class="m" x="168" y="285" width="8" height="10"/><rect class="m" x="182" y="285" width="8" height="10"/><rect class="k" x="200" y="165" width="38" height="150"/><rect class="k" x="240" y="245" width="38" height="70"/><rect class="m" x="248" y="275" width="8" height="10"/><rect class="m" x="262" y="275" width="8" height="10"/><rect class="k" x="280" y="215" width="38" height="100"/><rect class="k" x="320" y="185" width="38" height="130"/><rect class="m" x="328" y="195" width="8" height="10"/><rect class="m" x="342" y="195" width="8" height="10"/><rect class="m" x="328" y="235" width="8" height="10"/><rect class="m" x="342" y="235" width="8" height="10"/><rect class="m" x="328" y="275" width="8" height="10"/><rect class="m" x="342" y="275" width="8" height="10"/><rect class="k" x="360" y="255" width="38" height="60"/><rect class="k" x="400" y="225" width="38" height="90"/><rect class="m" x="408" y="255" width="8" height="10"/><rect class="m" x="422" y="255" width="8" height="10"/><rect class="k" x="440" y="205" width="38" height="110"/><rect class="k" x="480" y="245" width="38" height="70"/><rect class="m" x="488" y="255" width="8" height="10"/><rect class="m" x="502" y="255" width="8" height="10"/><rect class="k" x="520" y="265" width="38" height="50"/><text class="t" x="24" y="40">光と背景</text>
+</svg>

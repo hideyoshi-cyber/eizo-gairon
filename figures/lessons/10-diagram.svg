@@ -1,0 +1,56 @@
+<svg class="fig-l10d" viewBox="0 0 560 534" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l10d-t l10d-d">
+  <title id="l10d-t">音楽は作品の外の記憶を連れてくる</title>
+  <desc id="l10d-d">新しいスコアは感情を運び、古いテーマは要所でだけ鳴り、70年分の記憶を呼ぶ。映画音楽の4つの役割。</desc>
+  <style>
+    .fig-l10d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l10d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l10d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l10d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l10d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l10d .head{fill:var(--sub,#5B616E)}
+    .fig-l10d .a{fill:var(--c20,#127F91)} .fig-l10d .b{fill:var(--c10,#5C6BC0)} .fig-l10d .c{fill:var(--c00,#B0347E)} .fig-l10d .d{fill:var(--c90,#C26A1B)}
+    .fig-l10d .mid{text-anchor:middle}
+    .fig-l10d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="255" height="92" rx="10"/>
+  <rect class="b" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="48">1954年</text>
+  <text class="ex" x="48" y="76">伊福部昭のテーマ曲</text>
+  <text class="ex" x="48" y="98">白黒の第1作</text>
+  <rect class="box" x="285" y="16" width="255" height="92" rx="10"/>
+  <rect class="a" x="285" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="313" y="48">2023年</text>
+  <text class="ex" x="313" y="76">新しく書かれたスコア</text>
+  <text class="ex" x="313" y="98">物語の感情を運ぶ</text>
+  <rect class="box" x="20" y="120" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="120" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="152">テーマは要所でだけ鳴る</text>
+  <text class="ex" x="48" y="180">鳴る場面が限られるから、意味が大きい</text>
+  <text class="ex" x="48" y="202">音楽も「どこで使わないか」で決まる</text>
+  <line class="arrow" x1="280" y1="216" x2="280" y2="228"/><polygon class="head" points="272,226 288,226 280,236"/>
+  <rect class="box" x="20" y="240" width="520" height="70" rx="10"/>
+  <rect class="c" x="20" y="240" width="10" height="70" rx="4"/>
+  <text class="step" x="48" y="272">作品の外の記憶を連れてくる</text>
+  <text class="ex" x="48" y="300">知っている観客は70年分のゴジラ映画を思い出す</text>
+  <rect class="box" x="20" y="322" width="255" height="92" rx="10"/>
+  <rect class="d" x="20" y="322" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="354">感情の方向づけ</text>
+  <text class="ex" x="48" y="382">同じ画でも</text>
+  <text class="ex" x="48" y="404">怖さにも悲しさにも</text>
+  <rect class="box" x="285" y="322" width="255" height="92" rx="10"/>
+  <rect class="d" x="285" y="322" width="10" height="92" rx="4"/>
+  <text class="step" x="313" y="354">テンションの制御</text>
+  <text class="ex" x="313" y="382">盛り上げる、</text>
+  <text class="ex" x="313" y="404">止める、引く</text>
+  <rect class="box" x="20" y="426" width="255" height="92" rx="10"/>
+  <rect class="d" x="20" y="426" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="458">記憶の呼び出し</text>
+  <text class="ex" x="48" y="486">聞き覚えのある曲で</text>
+  <text class="ex" x="48" y="508">別の時代を思い出させる</text>
+  <rect class="box" x="285" y="426" width="255" height="92" rx="10"/>
+  <rect class="d" x="285" y="426" width="10" height="92" rx="4"/>
+  <text class="step" x="313" y="458">場面の接着</text>
+  <text class="ex" x="313" y="486">カットをまたいで鳴り</text>
+  <text class="ex" x="313" y="508">場面を一つにまとめる</text>
+
+</svg>

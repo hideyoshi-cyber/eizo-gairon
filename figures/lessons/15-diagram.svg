@@ -1,0 +1,53 @@
+<svg class="fig-l15d" viewBox="0 0 560 492" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l15d-t l15d-d">
+  <title id="l15d-t">前期は「見る」から「読む」へ</title>
+  <desc id="l15d-d">前期の目標は見るから読むへ移ること。判断が見えるようになり、源流は古く、センスは選び抜く力だと分かった。</desc>
+  <style>
+    .fig-l15d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l15d .dash{fill:none;stroke:var(--c20,#127F91);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l15d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l15d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l15d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l15d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l15d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l15d .head{fill:var(--sub,#5B616E)}
+    .fig-l15d .b1{fill:var(--c20,#127F91)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l15d .chip{fill:var(--c20,#127F91);fill-opacity:.12;stroke:var(--c20,#127F91);stroke-width:1.5}
+    .fig-l15d .chiph{fill:var(--c20,#127F91)}
+    .fig-l15d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l15d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l15d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l15d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l15d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l15d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l15d .soft{fill:var(--c20,#127F91);fill-opacity:.14;stroke:var(--c20,#127F91);stroke-width:1.5}
+    .fig-l15d .softh{fill:var(--c20,#127F91);fill-opacity:.3;stroke:var(--c20,#127F91);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="228" height="92" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="46">見る</text>
+  <text class="ex" x="48" y="70">第1回は半分も</text>
+  <text class="ex" x="48" y="92">埋まらなかったシート</text>
+  <rect class="box" x="312" y="16" width="228" height="92" rx="10"/>
+  <rect class="b2" x="312" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="340" y="46">読む</text>
+  <text class="ex" x="340" y="70">分析シートの6項目で</text>
+  <text class="ex" x="340" y="92">自分の1本を発表する</text>
+  <line class="arrow" x1="252" y1="62" x2="296" y2="62"/><polygon class="head" points="294,54 294,70 308,62"/>
+  <rect class="box" x="20" y="128" width="520" height="92" rx="10"/>
+  <rect class="b1" x="20" y="128" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="158">1　裏にある「判断」が見える</text>
+  <text class="ex" x="48" y="182">作り手の判断を見つけることが</text>
+  <text class="ex" x="48" y="204">映像を読むということ</text>
+  <rect class="box" x="20" y="234" width="520" height="114" rx="10"/>
+  <rect class="b2" x="20" y="234" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="264">2　源流は思ったより古い</text>
+  <text class="ex" x="48" y="288">前期だけで黒澤明、1954年の</text>
+  <text class="ex" x="48" y="310">『ゴジラ』まで広がった</text>
+  <text class="who" x="48" y="332">後期は2010年代に入る</text>
+  <rect class="box" x="20" y="362" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="362" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="392">3　センスは「選び抜く力」</text>
+  <text class="ex" x="48" y="416">生まれつきの才能ではない</text>
+  <text class="ex" x="48" y="438">なぜ選んだかを問い続けて育つ</text>
+  <text class="who" x="48" y="460">分析シートは、その問いの習慣の道具</text>
+</svg>

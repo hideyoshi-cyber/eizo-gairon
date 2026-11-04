@@ -1,0 +1,42 @@
+<svg class="fig-l42d" viewBox="0 0 560 396" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l42d-t l42d-d">
+  <title id="l42d-t">1カットを素材に分解する流れ</title>
+  <desc id="l42d-d">層ごとに素材を書き、素材ごとにパラメータを書く。この素材リストを持ってAEの授業に行く。概論で設計し、AEで作る。</desc>
+  <style>
+    .fig-l42d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l42d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l42d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l42d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l42d .mid{text-anchor:middle}
+    .fig-l42d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l42d .head{fill:var(--sub,#5B616E)}
+    .fig-l42d .bar{fill:var(--c00,#B0347E)}
+    .fig-l42d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l42d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l42d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l42d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l42d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l42d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l42d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l42d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l42d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="48">1　層ごとに素材を書く</text>
+  <text class="ex" x="48" y="74">遠景、中景、主役、エフェクト、仕上げ</text>
+  <text class="ex" x="48" y="96">撮影するのか、描くのか、CGで作るのか</text>
+  <line class="arrow" x1="280" y1="118" x2="280" y2="126"/><polygon class="head" points="272,124 288,124 280,134"/>
+  <rect class="box" x="20" y="138" width="520" height="120" rx="10"/>
+  <rect class="bar" x="20" y="138" width="10" height="120" rx="4"/>
+  <text class="step" x="48" y="170">2　素材ごとにパラメータを書く</text>
+  <text class="ex" x="48" y="196">主役の色温度、エフェクトの量、</text>
+  <text class="ex" x="48" y="218">仕上げの粒子の強さ</text>
+  <text class="who" x="48" y="240">ここで初めて、パラメータまで降ろす</text>
+  <line class="arrow" x1="280" y1="262" x2="280" y2="270"/><polygon class="head" points="272,268 288,268 280,278"/>
+  <rect class="box" x="20" y="282" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="282" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="314">3　素材リストは、AEの授業の入口</text>
+  <text class="ex" x="48" y="340">概論で設計し、AEで作る</text>
+  <text class="who" x="48" y="362">2年間の分担が、ここで合流する</text>
+
+</svg>

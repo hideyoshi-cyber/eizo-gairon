@@ -1,0 +1,43 @@
+<svg class="fig-l09d" viewBox="0 0 560 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l09d-t l09d-d">
+  <title id="l09d-t">巨大さは画と音の掛け算</title>
+  <desc id="l09d-d">画と音の掛け算で巨大さが生まれ、音を止めると観客が身構える。少人数のVFXは、何を見せないかの判断に支えられる。</desc>
+  <style>
+    .fig-l09d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l09d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l09d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l09d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l09d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l09d .head{fill:var(--sub,#5B616E)}
+    .fig-l09d .a{fill:var(--c20,#127F91)} .fig-l09d .b{fill:var(--c10,#5C6BC0)} .fig-l09d .c{fill:var(--c00,#B0347E)} .fig-l09d .d{fill:var(--c90,#C26A1B)}
+    .fig-l09d .mid{text-anchor:middle}
+    .fig-l09d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="255" height="92" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="48">画</text>
+  <text class="ex" x="48" y="76">カメラとの距離</text>
+  <text class="ex" x="48" y="98">周囲の建物との比較</text>
+  <rect class="box" x="285" y="16" width="255" height="92" rx="10"/>
+  <rect class="c" x="285" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="313" y="48">音</text>
+  <text class="ex" x="313" y="76">足音、地面の振動</text>
+  <text class="ex" x="313" y="98">水の音</text>
+  <rect class="box" x="20" y="120" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="120" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="152">巨大さ・重さ・近さ</text>
+  <text class="ex" x="48" y="180">画と音の掛け算で生まれる</text>
+  <text class="ex" x="48" y="202">音を消すと、迫力が大きく落ちた</text>
+  <line class="arrow" x1="280" y1="216" x2="280" y2="228"/><polygon class="head" points="272,226 288,226 280,236"/>
+  <rect class="box" x="20" y="240" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="240" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="272">音を止めると身構える</text>
+  <text class="ex" x="48" y="300">大きな出来事の直前に、音が引く</text>
+  <text class="who" x="48" y="322">静寂は、テンションカーブを作る演出</text>
+  <line class="arrow" x1="280" y1="336" x2="280" y2="348"/><polygon class="head" points="272,346 288,346 280,356"/>
+  <rect class="box" x="20" y="360" width="520" height="92" rx="10"/>
+  <rect class="d" x="20" y="360" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="392">何を見せないかの判断</text>
+  <text class="ex" x="48" y="420">35人で610カットは、すべてを画で見せられない</text>
+  <text class="ex" x="48" y="442">音や画面外の気配で想像させる</text>
+
+</svg>

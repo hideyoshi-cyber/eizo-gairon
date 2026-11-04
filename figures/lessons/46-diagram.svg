@@ -1,0 +1,44 @@
+<svg class="fig-l46d" viewBox="0 0 560 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l46d-t l46d-d">
+  <title id="l46d-t">色が世界を分ける：3つの考察</title>
+  <desc id="l46d-d">仮想世界は緑がかった色、現実は青みがかった色で、観客は色だけで世界を見分ける。バレットタイムはたくさんのカメラを並べて撮る技術。アメリカの大作の源流に日本のアニメと香港のアクションがある。</desc>
+  <style>
+    .fig-l46d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l46d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l46d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l46d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l46d .mid{text-anchor:middle}
+    .fig-l46d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l46d .head{fill:var(--sub,#5B616E)}
+    .fig-l46d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l46d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c90,#C26A1B);stroke-width:2.5}
+    .fig-l46d .accfill{fill:var(--c90,#C26A1B)}
+    .fig-l46d .accline{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l46d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l46d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l46d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l46d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l46d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l46d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect style="fill:var(--c20,#127F91);fill-opacity:.16;stroke:var(--c20,#127F91);stroke-width:2.5" x="20" y="16" width="250" height="100" rx="10"/>
+  <text class="step" x="40" y="52">仮想世界</text>
+  <text class="ex" x="40" y="82">緑がかった色</text>
+  <rect style="fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:2.5" x="290" y="16" width="250" height="100" rx="10"/>
+  <text class="step" x="310" y="52">現実の世界</text>
+  <text class="ex" x="310" y="82">青みがかった色</text>
+  <line class="arrow" x1="145" y1="120" x2="145" y2="132"/><polygon class="head" points="137,130 153,130 145,140"/>
+  <line class="arrow" x1="415" y1="120" x2="415" y2="132"/><polygon class="head" points="407,130 423,130 415,140"/>
+  <rect class="accbox" x="20" y="144" width="520" height="56" rx="10"/>
+  <text class="step" x="40" y="180">観客は、色だけで世界を見分ける</text>
+  <rect class="box" x="20" y="224" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="224" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="256">バレットタイム</text>
+  <text class="ex" x="48" y="282">たくさんのカメラを並べて撮る</text>
+  <text class="ex" x="48" y="304">止まった時間の中を、カメラが回り込む</text>
+  <rect class="box" x="20" y="336" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="336" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="368">源流は日本と香港にある</text>
+  <text class="ex" x="48" y="394">アメリカの大作の源流に、</text>
+  <text class="ex" x="48" y="416">日本のアニメと香港のアクション</text>
+
+</svg>

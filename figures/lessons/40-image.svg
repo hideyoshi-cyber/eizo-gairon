@@ -1,0 +1,44 @@
+<svg class="fig-l40i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l40i-t l40i-d">
+  <title id="l40i-t">手で動かすカメラの軌跡</title>
+  <desc id="l40i-d">遠近の床のグリッドの上に、なめらかな破線と、揺れのある実線の二本の軌跡。実線の先にカメラの印。</desc>
+  <style>
+    .fig-l40i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l40i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l40i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l40i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l40i .mid{text-anchor:middle}
+    .fig-l40i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l40i .head{fill:var(--sub,#5B616E)}
+    .fig-l40i .bar{fill:var(--c00,#B0347E)}
+    .fig-l40i .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l40i .accfill{fill:var(--c00,#B0347E)}
+    .fig-l40i .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l40i .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l40i .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l40i .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l40i .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l40i .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l40i .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="panel" x="0" y="0" width="560" height="315"/>
+  <line class="rule" x1="168" y1="140" x2="-280" y2="315"/>
+  <line class="rule" x1="196" y1="140" x2="-140" y2="315"/>
+  <line class="rule" x1="224" y1="140" x2="0" y2="315"/>
+  <line class="rule" x1="252" y1="140" x2="140" y2="315"/>
+  <line class="rule" x1="280" y1="140" x2="280" y2="315"/>
+  <line class="rule" x1="308" y1="140" x2="420" y2="315"/>
+  <line class="rule" x1="336" y1="140" x2="560" y2="315"/>
+  <line class="rule" x1="364" y1="140" x2="700" y2="315"/>
+  <line class="rule" x1="392" y1="140" x2="840" y2="315"/>
+  <line class="rule" x1="0" y1="140" x2="560" y2="140"/>
+  <line class="rule" x1="0" y1="149.6581076302285" x2="560" y2="149.6581076302285"/>
+  <line class="rule" x1="0" y1="173.63148415148007" x2="560" y2="173.63148415148007"/>
+  <line class="rule" x1="0" y1="209.77667962464227" x2="560" y2="209.77667962464227"/>
+  <line class="rule" x1="0" y1="257.1116298902226" x2="560" y2="257.1116298902226"/>
+  <line class="rule" x1="0" y1="315" x2="560" y2="315"/>
+  <line class="sub" x1="30" y1="90" x2="530" y2="90" style="stroke-dasharray:6 6"/>
+  <path style="fill:none;stroke:var(--c00,#B0347E);stroke-width:3" d="M30 90 L40 98.13405934062676 L50 84.95341930763838 L60 74.3378711768115 L70 81.48360239373298 L80 86.41470557032957 L90 86.95831928078123 L100 99.183378853888 L110 106.72303491667799 L120 96.01447252828828 L130 88.82188645382385 L140 88.26518606944961 L150 78.33387044724654 L160 74.39962715419841 L170 88.1321948516076 L180 96.24390537048419 L190 95.32401653431901 L200 102.05149015323643 L210 102.49561382578037 L220 86.82418308093435 L230 79.31644002395248 L240 82.92940136818277 L250 79.72230229888612 L260 82.02923682829321 L270 98.20537455260498 L280 103.68242751434565 L290 96.65453661004065 L300 96.67580486031801 L310 92.84611394353813 L320 77.68764015259404 L330 75.31205940883096 L340 85.85066565838758 L350 88.09054977240152 L360 91.94899013729233 L370 104.75606197313407 L380 103.51014439334237 L390 90.0086506834033 L400 86.85412071567949 L410 84.45476846005037 L420 74.9016745750538 L430 79.64374391267282 L440 95.01623528238932 L450 97.56212799236687 L460 97.29147510196256 L470 103.28326386693126 L480 95.79296603872173 L490 79.98689442617912 L500 79.47248508470379 L510 83.12677009322249 L520 80.35257290885322 L530 89.3566605433022"/>
+  <rect class="box" x="480" y="40" width="54" height="36" rx="4" style="stroke:var(--c00,#B0347E);stroke-width:2.5"/>
+  <polygon style="fill:var(--c00,#B0347E);fill-opacity:1" points="480,58 460,46 460,70"/>
+
+</svg>

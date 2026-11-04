@@ -1,0 +1,18 @@
+<svg class="fig-l51i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l51i-t l51i-d">
+  <title id="l51i-t">企画書と波紋を表す図案</title>
+  <desc id="l51i-d">重なった3枚の紙が左にあり、そこから右の同心円の波紋へ点線の弧がのびる。企画書を渡すことと、返ってくる意見を抽象的に表す。</desc>
+  <style>
+    .fig-l51i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l51i .gl{stroke:var(--rule,#D3D7DE);stroke-width:1;fill:none}
+    .fig-l51i .a{fill:var(--c90,#C26A1B)}
+    .fig-l51i .as{stroke:var(--c90,#C26A1B);stroke-width:2.5;fill:none}
+    .fig-l51i .k{fill:var(--ink,#1A1D24)}
+    .fig-l51i .ks{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l51i .ss{stroke:var(--sub,#5B616E);stroke-width:1.5;fill:none}
+    .fig-l51i .p{fill:var(--paper,#F4F5F7)}
+    .fig-l51i .pn{fill:var(--panel,#FFFFFF)}
+    .fig-l51i .d{stroke-dasharray:6 5}
+  </style>
+  <rect class="bg" width="560" height="315"/>
+  <line class="gl" x1="0" y1="232.3" x2="560" y2="232.3"/><line class="gl" x1="0" y1="239.2" x2="560" y2="239.2"/><line class="gl" x1="0" y1="250.7" x2="560" y2="250.7"/><line class="gl" x1="0" y1="266.8" x2="560" y2="266.8"/><line class="gl" x1="0" y1="287.5" x2="560" y2="287.5"/><line class="gl" x1="0" y1="312.8" x2="560" y2="312.8"/><line class="gl" x1="0" y1="342.7" x2="560" y2="342.7"/><line class="gl" x1="280" y1="230" x2="0" y2="315"/><line class="gl" x1="280" y1="230" x2="0" y2="315"/><line class="gl" x1="280" y1="230" x2="20" y2="315"/><line class="gl" x1="280" y1="230" x2="90" y2="315"/><line class="gl" x1="280" y1="230" x2="160" y2="315"/><line class="gl" x1="280" y1="230" x2="230" y2="315"/><line class="gl" x1="280" y1="230" x2="300" y2="315"/><line class="gl" x1="280" y1="230" x2="370" y2="315"/><line class="gl" x1="280" y1="230" x2="440" y2="315"/><line class="gl" x1="280" y1="230" x2="510" y2="315"/><line class="gl" x1="280" y1="230" x2="560" y2="315"/><line class="gl" x1="280" y1="230" x2="560" y2="315"/><g transform="rotate(-9 120 160)"><rect class="p" x="70" y="55" width="100" height="125" stroke="var(--rule,#D3D7DE)" stroke-width="1.5"/><rect class="a" x="70" y="55" width="100" height="12" fill-opacity="0.5"/><rect class="k" fill-opacity=".25" x="82" y="80" width="60" height="5"/><rect class="k" fill-opacity=".25" x="82" y="94" width="76" height="5"/><rect class="k" fill-opacity=".25" x="82" y="108" width="48" height="5"/></g><g transform="rotate(0 120 160)"><rect class="p" x="70" y="55" width="100" height="125" stroke="var(--rule,#D3D7DE)" stroke-width="1.5"/><rect class="a" x="70" y="55" width="100" height="12" fill-opacity="0.75"/><rect class="k" fill-opacity=".25" x="82" y="80" width="60" height="5"/><rect class="k" fill-opacity=".25" x="82" y="94" width="76" height="5"/><rect class="k" fill-opacity=".25" x="82" y="108" width="48" height="5"/></g><g transform="rotate(9 120 160)"><rect class="p" x="70" y="55" width="100" height="125" stroke="var(--rule,#D3D7DE)" stroke-width="1.5"/><rect class="a" x="70" y="55" width="100" height="12" fill-opacity="1"/><rect class="k" fill-opacity=".25" x="82" y="80" width="60" height="5"/><rect class="k" fill-opacity=".25" x="82" y="94" width="76" height="5"/><rect class="k" fill-opacity=".25" x="82" y="108" width="48" height="5"/></g><ellipse class="as" stroke-opacity="0.85" cx="430" cy="170" rx="24" ry="11"/><ellipse class="as" stroke-opacity="0.7" cx="430" cy="170" rx="48" ry="22"/><ellipse class="as" stroke-opacity="0.55" cx="430" cy="170" rx="72" ry="33"/><ellipse class="as" stroke-opacity="0.4" cx="430" cy="170" rx="96" ry="44"/><ellipse class="as" stroke-opacity="0.25" cx="430" cy="170" rx="120" ry="55"/><circle class="a" cx="430" cy="170" r="7"/><path class="ss d" d="M180 110 Q 300 20 424 164"/><polygon class="k" points="426,164 415,156 414,168"/>
+</svg>

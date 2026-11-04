@@ -1,0 +1,51 @@
+<svg class="fig-l14d" viewBox="0 0 560 442" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l14d-t l14d-d">
+  <title id="l14d-t">ルールを画に翻訳する流れ</title>
+  <desc id="l14d-d">ルールから導かれるビジュアルは、キャラクターと街の2方向に翻訳され、設計書にまとまる。</desc>
+  <style>
+    .fig-l14d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l14d .dash{fill:none;stroke:var(--c20,#127F91);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l14d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l14d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l14d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l14d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l14d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l14d .head{fill:var(--sub,#5B616E)}
+    .fig-l14d .b1{fill:var(--c20,#127F91)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l14d .chip{fill:var(--c20,#127F91);fill-opacity:.12;stroke:var(--c20,#127F91);stroke-width:1.5}
+    .fig-l14d .chiph{fill:var(--c20,#127F91)}
+    .fig-l14d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l14d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l14d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l14d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l14d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l14d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l14d .soft{fill:var(--c20,#127F91);fill-opacity:.14;stroke:var(--c20,#127F91);stroke-width:1.5}
+    .fig-l14d .softh{fill:var(--c20,#127F91);fill-opacity:.3;stroke:var(--c20,#127F91);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="92" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="46">1　ルール（前回）</text>
+  <text class="ex" x="48" y="70">元素の性質から決めた世界</text>
+  <text class="who" x="48" y="92">ビジュアルはそこから導かれる</text>
+  <line class="arrow" x1="280" y1="112" x2="280" y2="124"/><polygon class="head" points="272,122 288,122 280,132"/>
+  <text class="step" x="20" y="156">2　画に翻訳する</text>
+  <rect class="box" x="20" y="170" width="252" height="114" rx="10"/>
+  <rect class="b1" x="20" y="170" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="200">キャラクター</text>
+  <text class="ex" x="48" y="224">炎や水の揺らぎが</text>
+  <text class="ex" x="48" y="246">感情表現になる</text>
+  <text class="who" x="48" y="268">エフェクト＝演技</text>
+  <rect class="box" x="288" y="170" width="252" height="114" rx="10"/>
+  <rect class="b2" x="288" y="170" width="10" height="114" rx="4"/>
+  <text class="step" x="316" y="200">街</text>
+  <text class="ex" x="316" y="224">運河の都市を参考に</text>
+  <text class="ex" x="316" y="246">元素のルールで組み替え</text>
+  <text class="who" x="316" y="268">見たことのない信じられる街</text>
+  <line class="arrow" x1="280" y1="288" x2="280" y2="300"/><polygon class="head" points="272,298 288,298 280,308"/>
+  <rect class="box" x="20" y="312" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="312" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="342">3　設計書</text>
+  <text class="ex" x="48" y="366">ルック、カラースクリプト、ルール</text>
+  <text class="ex" x="48" y="388">誰が描いても同じ世界になる</text>
+  <text class="who" x="48" y="410">2年前期に、自分の企画で作る</text>
+</svg>

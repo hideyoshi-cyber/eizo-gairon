@@ -1,0 +1,35 @@
+<svg class="fig-l36d" viewBox="0 0 560 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l36d-t l36d-d">
+  <title id="l36d-t">自分の企画のテンションカーブを先に描く演習の考察</title>
+  <desc id="l36d-d">4つの段階に分け、山は一つ、はっきりと作り、カーブは直してよい。</desc>
+  <style>
+    .fig-l36d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l36d .k{fill:var(--ink,#1A1D24)}
+    .fig-l36d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l36d .s{fill:var(--sub,#5B616E)}
+    .fig-l36d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l36d .m{fill:var(--c00,#B0347E)}
+    .fig-l36d .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l36d .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l36d .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l36d .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l36d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l36d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l36d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l36d .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l36d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l36d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l36d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l36d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l36d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l36d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l36d .head{fill:var(--sub,#5B616E)}
+    .fig-l36d .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l36d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">撮る前、描く前に決める。それがプリプロダクション</text><rect class="box" x="20" y="76" width="109" height="56" rx="10"/><rect class="m" x="20" y="76" width="109" height="6" rx="3"/><text class="fl" text-anchor="middle" x="74.5" y="104">出会い</text><line class="arrow" x1="133" y1="104" x2="143" y2="104"/><polygon class="head" points="141,96 141,112 152,104"/><rect class="box" x="157" y="76" width="109" height="56" rx="10"/><rect class="m" x="157" y="76" width="109" height="6" rx="3"/><text class="fl" text-anchor="middle" x="211.5" y="104">展開</text><line class="arrow" x1="270" y1="104" x2="280" y2="104"/><polygon class="head" points="278,96 278,112 289,104"/><rect class="box" x="294" y="76" width="109" height="56" rx="10"/><rect class="m" x="294" y="76" width="109" height="6" rx="3"/><text class="fl" text-anchor="middle" x="348.5" y="104">転換</text><line class="arrow" x1="407" y1="104" x2="417" y2="104"/><polygon class="head" points="415,96 415,112 426,104"/><rect class="box" x="431" y="76" width="109" height="56" rx="10"/><rect class="m" x="431" y="76" width="109" height="6" rx="3"/><text class="fl" text-anchor="middle" x="485.5" y="104">着地</text><rect class="box" x="20" y="144" width="520" height="94" rx="10"/><rect class="m" x="20" y="144" width="10" height="94" rx="4"/><text class="step" x="48" y="174">1　4段階に分ける</text><text class="who" x="48" y="198">第11回『ルックバック』で使った4つの段階</text><text class="ex" x="48" y="220">短い作品でも、4つあると構成が締まる</text><rect class="box" x="20" y="250" width="520" height="94" rx="10"/><rect class="m" x="20" y="250" width="10" height="94" rx="4"/><text class="step" x="48" y="280">2　山は一つ、はっきりと</text><text class="ex" x="48" y="304">自主制作の短い作品では、山を一つ作る</text><text class="ex" x="48" y="326">その手前の谷を、どれだけ丁寧に作れるか</text><rect class="box" x="20" y="356" width="520" height="94" rx="10"/><rect class="m" x="20" y="356" width="10" height="94" rx="4"/><text class="step" x="48" y="386">3　カーブは修正していい</text><text class="ex" x="48" y="410">コンテを描きながら、何度でも直してよい</text><text class="ex" x="48" y="432">最初に描くと、直すための基準ができる</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg class="fig-l21d" viewBox="0 0 560 444" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l21d-t l21d-d">
+  <title id="l21d-t">文字を「読ませる」か「感じさせる」か</title>
+  <desc id="l21d-d">読み切れない量が速さを伝え、明朝体が行政の映画の空気を作る。YouTubeのテロップとは設計の目的が正反対。</desc>
+  <style>
+    .fig-l21d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l21d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l21d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l21d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l21d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l21d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l21d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l21d .head{fill:var(--sub,#5B616E)}
+    .fig-l21d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l21d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l21d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l21d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l21d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l21d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l21d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l21d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l21d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l21d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l21d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="46">1　読み切れない量が速さを伝える</text>
+  <text class="ex" x="48" y="70">全部読もうとすると置いていかれる</text>
+  <text class="ex" x="48" y="92">会議室で情報に追われる感覚と重なる</text>
+  <text class="who" x="48" y="114">読ませないことも、演出</text>
+  <rect class="box" x="20" y="144" width="520" height="114" rx="10"/>
+  <rect class="b2" x="20" y="144" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="174">2　書体が世界観を作る</text>
+  <text class="ex" x="48" y="198">明朝体は硬く、公的で、緊張感がある</text>
+  <text class="ex" x="48" y="220">役所の文書のような書体</text>
+  <text class="who" x="48" y="242">「行政の映画」であることを文字でも伝える</text>
+  <text class="step" x="20" y="292">3　第2回のYouTubeと比べる</text>
+  <rect class="box" x="20" y="306" width="252" height="92" rx="10"/>
+  <rect class="b1" x="20" y="306" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="336">YouTube</text>
+  <text class="ex" x="48" y="360">確実に読ませるため</text>
+  <rect class="box" x="288" y="306" width="252" height="92" rx="10"/>
+  <rect class="b2" x="288" y="306" width="10" height="92" rx="4"/>
+  <text class="step" x="316" y="336">シン・ゴジラ</text>
+  <text class="ex" x="316" y="360">読み切れないことに</text>
+  <text class="ex" x="316" y="382">意味がある</text>
+  <text class="who" x="20" y="418">同じ文字でも、設計の目的が正反対</text>
+</svg>

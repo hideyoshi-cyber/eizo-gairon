@@ -1,0 +1,43 @@
+<svg class="fig-l49d" viewBox="0 0 560 516" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l49d-t l49d-d">
+  <title id="l49d-t">CGと実物の使い分けの要点</title>
+  <desc id="l49d-d">考察の3点。観客との距離で、遠くはCG、近くは実物大の作り物を使い分ける。どの場面をCGにするかは企画で決める。技術が変わっても動きを見る目は残る。</desc>
+  <style>
+    .fig-l49d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l49d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l49d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l49d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l49d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l49d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l49d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l49d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l49d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l49d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l49d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="178" rx="10"/><rect class="bar" x="20" y="16" width="10" height="178" rx="4"/><text class="step" x="48" y="48">1　遠くはCG、近くは本物</text>
+  <rect class="chip" x="36" y="64" width="228" height="76" rx="8"/>
+  <text class="ex2" x="150" y="87" text-anchor="middle">遠く：CG</text>
+  <text class="ex" x="150" y="107" text-anchor="middle">全身が走る場面</text>
+  <text class="ex" x="150" y="127" text-anchor="middle">群れで動く場面</text>
+  <rect class="chip" x="296" y="64" width="228" height="76" rx="8"/>
+  <text class="ex2" x="410" y="87" text-anchor="middle">近く：実物大の作り物</text>
+  <text class="ex" x="410" y="107" text-anchor="middle">俳優が触れる場面</text>
+  <text class="ex" x="410" y="127" text-anchor="middle">息がかかる距離の場面</text>
+  <text class="who" x="48" y="166">観客との距離で、使う技術を変えている</text>
+  <rect class="box" x="20" y="206" width="520" height="150" rx="10"/><rect class="bar" x="20" y="206" width="10" height="150" rx="4"/><text class="step" x="48" y="238">2　技術の選択は企画で決まる</text>
+  <text class="ex" x="48" y="260">どの場面をCGにするかは、撮影の前に決まる</text>
+  <rect class="chip" x="36" y="276" width="152" height="40" rx="8"/>
+  <text class="ex" x="112" y="301" text-anchor="middle">何をCGで</text>
+  <rect class="chip" x="204" y="276" width="152" height="40" rx="8"/>
+  <text class="ex" x="280" y="301" text-anchor="middle">何を撮影で</text>
+  <rect class="chip" x="372" y="276" width="152" height="40" rx="8"/>
+  <text class="ex" x="448" y="301" text-anchor="middle">何を手描きで</text>
+  <text class="who" x="48" y="340">自主制作でも、企画書の段階で決める</text>
+  <rect class="box" x="20" y="368" width="520" height="132" rx="10"/><rect class="bar" x="20" y="368" width="10" height="132" rx="4"/><text class="step" x="48" y="400">3　動きを見る目は残る</text>
+  <rect class="chip" x="36" y="416" width="228" height="44" rx="8"/>
+  <text class="ex" x="150" y="443" text-anchor="middle">ティペットのコマ撮りの知識</text>
+  <rect class="chip" x="296" y="416" width="228" height="44" rx="8"/>
+  <text class="ex" x="410" y="443" text-anchor="middle">CGの恐竜の動き</text>
+  <line class="arrow" x1="268" y1="438" x2="286" y2="438"/><polygon class="head" points="294,438 284,432 284,444"/>
+  <text class="who" x="48" y="484">技術が変わっても、動きを見る目は残る</text>
+</svg>

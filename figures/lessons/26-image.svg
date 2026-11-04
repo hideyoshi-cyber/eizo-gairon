@@ -1,0 +1,35 @@
+<svg class="fig-l26i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l26i-t l26i-d">
+  <title id="l26i-t">歌で場面をつなぐ抽象図案</title>
+  <desc id="l26i-d">長さの違う短いカットの帯を、一本の波の線がつなぐ抽象的な図案。</desc>
+  <style>
+    .fig-l26i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l26i .k{fill:var(--ink,#1A1D24)}
+    .fig-l26i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l26i .s{fill:var(--sub,#5B616E)}
+    .fig-l26i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l26i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l26i .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l26i .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l26i .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l26i .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l26i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l26i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l26i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l26i .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l26i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l26i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l26i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l26i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l26i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l26i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l26i .head{fill:var(--sub,#5B616E)}
+    .fig-l26i .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l26i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><rect class="m" x="21" y="214" width="40" height="64"/><circle class="k" cx="21" cy="204" r="3.5"/><rect class="mo" x="67" y="214" width="70" height="64"/><circle class="k" cx="67" cy="204" r="3.5"/><rect class="m" x="143" y="214" width="28" height="64"/><circle class="k" cx="143" cy="204" r="3.5"/><rect class="mo" x="177" y="214" width="56" height="64"/><circle class="k" cx="177" cy="204" r="3.5"/><rect class="m" x="239" y="214" width="34" height="64"/><circle class="k" cx="239" cy="204" r="3.5"/><rect class="mo" x="279" y="214" width="76" height="64"/><circle class="k" cx="279" cy="204" r="3.5"/><rect class="m" x="361" y="214" width="30" height="64"/><circle class="k" cx="361" cy="204" r="3.5"/><rect class="mo" x="397" y="214" width="50" height="64"/><circle class="k" cx="397" cy="204" r="3.5"/><rect class="m" x="453" y="214" width="44" height="64"/><circle class="k" cx="453" cy="204" r="3.5"/><rect class="mo" x="503" y="214" width="36" height="64"/><circle class="k" cx="503" cy="204" r="3.5"/><line class="rs" x1="21" y1="125" x2="539" y2="125"/><path class="ms" d="M21,125.0 L25,132.0 L29,138.9 L33,145.5 L37,151.6 L41,157.0 L45,161.7 L49,165.5 L53,168.4 L57,170.2 L61,171.0 L65,170.7 L69,169.3 L73,166.8 L77,163.4 L81,159.1 L85,153.9 L89,148.1 L93,141.7 L97,135.0 L101,128.0 L105,120.9 L109,113.9 L113,107.2 L117,100.9 L121,95.2 L125,90.2 L129,86.0 L133,82.7 L137,80.4 L141,79.2 L145,79.1 L149,80.0 L153,82.0 L157,85.0 L161,89.0 L165,93.8 L169,99.4 L173,105.5 L177,112.1 L181,119.1 L185,126.1 L189,133.2 L193,140.0 L197,146.5 L201,152.5 L205,157.8 L209,162.4 L213,166.0 L217,168.7 L221,170.4 L225,171.0 L229,170.5 L233,168.9 L237,166.3 L241,162.8 L245,158.3 L249,153.0 L253,147.1 L257,140.7 L261,133.9 L265,126.8 L269,119.8 L273,112.8 L277,106.2 L281,100.0 L285,94.4 L289,89.5 L293,85.4 L297,82.3 L301,80.2 L305,79.1 L309,79.2 L313,80.3 L317,82.4 L321,85.6 L325,89.7 L329,94.7 L333,100.3 L337,106.6 L341,113.2 L345,120.2 L349,127.3 L353,134.3 L357,141.1 L361,147.5 L365,153.4 L369,158.6 L373,163.0 L377,166.5 L381,169.1 L385,170.6 L389,171.0 L393,170.3 L397,168.6 L401,165.8 L405,162.1 L409,157.5 L413,152.1 L417,146.1 L421,139.6 L425,132.8 L429,125.7 L433,118.7 L437,111.8 L441,105.2 L445,99.0 L449,93.5 L453,88.8 L457,84.8 L461,81.9 L465,79.9 L469,79.1 L473,79.3 L477,80.5 L481,82.9 L485,86.2 L489,90.5 L493,95.5 L497,101.3 L501,107.6 L505,114.3 L509,121.3 L513,128.4 L517,135.4 L521,142.1 L525,148.5 L529,154.2 L533,159.3 L537,163.6"/><text class="t" x="24" y="40">歌でつなぐ</text>
+</svg>

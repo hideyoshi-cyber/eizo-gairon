@@ -1,0 +1,35 @@
+<svg class="fig-l26d" viewBox="0 0 560 526" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l26d-t l26d-d">
+  <title id="l26d-t">歌が時間を飛び越えさせる『君の名は。』の考察</title>
+  <desc id="l26d-d">歌が説明の代わりになり、MVの手法が物語に入り、音楽の使い方は作品が選ぶ。</desc>
+  <style>
+    .fig-l26d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l26d .k{fill:var(--ink,#1A1D24)}
+    .fig-l26d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l26d .s{fill:var(--sub,#5B616E)}
+    .fig-l26d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l26d .m{fill:var(--c10,#5C6BC0)}
+    .fig-l26d .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l26d .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l26d .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l26d .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l26d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l26d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l26d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l26d .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l26d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l26d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l26d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l26d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l26d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l26d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l26d .head{fill:var(--sub,#5B616E)}
+    .fig-l26d .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l26d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l26d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">音楽は感情を運び、編集の接着剤にもなる</text><rect class="box" x="20" y="76" width="520" height="116" rx="10"/><rect class="m" x="20" y="76" width="10" height="116" rx="4"/><text class="step" x="48" y="106">1　歌が流れている間は、説明がいらない</text><text class="ex" x="48" y="130">短いカットが次々につながり、時間と場所が飛ぶ</text><text class="ex" x="48" y="152">歌が鳴り続けるので、観客は混乱せずついていける</text><text class="who" x="48" y="174">第10回「場面の接着」の典型</text><rect class="box" x="20" y="204" width="520" height="116" rx="10"/><rect class="m" x="20" y="204" width="10" height="116" rx="4"/><text class="step" x="48" y="234">2　MVの手法が、物語に入ってきた</text><text class="ex" x="48" y="258">歌に合わせて短いカットを重ねる手法</text><text class="ex" x="48" y="280">ミュージックビデオで磨かれたもの</text><text class="who" x="48" y="302">第2回『夜に駆ける』のMVとつながる</text><rect class="box" x="20" y="332" width="254" height="94" rx="10"/><rect class="m" x="20" y="332" width="10" height="94" rx="4"/><text class="step" x="48" y="362">『ルックバック』</text><text class="ex" x="48" y="386">音楽を控えめに</text><text class="ex" x="48" y="408">静けさで感情を動かす</text><rect class="box" x="286" y="332" width="254" height="94" rx="10"/><rect class="m" x="286" y="332" width="10" height="94" rx="4"/><text class="step" x="314" y="362">『君の名は。』</text><text class="ex" x="314" y="386">音楽を前に出して</text><text class="ex" x="314" y="408">勢いで感情を動かす</text><rect class="box" x="20" y="434" width="520" height="72" rx="10"/><rect class="m" x="20" y="434" width="10" height="72" rx="4"/><text class="step" x="48" y="464">3　どちらが正しいのではない</text><text class="ex" x="48" y="488">作品が何を伝えたいかで選んでいる</text>
+</svg>

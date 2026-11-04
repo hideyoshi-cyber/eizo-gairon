@@ -1,0 +1,58 @@
+<svg class="fig-l45d" viewBox="0 0 560 432" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l45d-t l45d-d">
+  <title id="l45d-t">カラースクリプトをカーブの下に並べる</title>
+  <desc id="l45d-d">4段階の構成ごとに代表の色を決め、テンションカーブの下に並べて、感情の高さと色の変化が合っているかを確かめる。企画の芯、構成とカーブ、コンテ、素材リスト、カラースクリプトが自主制作の設計書になる。</desc>
+  <style>
+    .fig-l45d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l45d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l45d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l45d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l45d .mid{text-anchor:middle}
+    .fig-l45d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l45d .head{fill:var(--sub,#5B616E)}
+    .fig-l45d .bar{fill:var(--c00,#B0347E)}
+    .fig-l45d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l45d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l45d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l45d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l45d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l45d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l45d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l45d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l45d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <text class="ex" x="20" y="24">テンションカーブ：感情の高さ</text>
+  <path class="sub" d="M40 118 C90 118 100 52 160 52 S 230 104 280 104 S 340 40 400 40 S 470 116 520 116"/>
+  <line class="rule" x1="40" y1="128" x2="520" y2="128"/>
+  <text class="ex" x="20" y="158">カラースクリプト：感情の色</text>
+  <rect style="fill:var(--c20,#127F91)" x="44" y="170" width="112" height="46" rx="6"/>
+  <text class="who" text-anchor="middle" x="100" y="238">1段階目の色</text>
+  <line class="rule" x1="100" y1="132" x2="100" y2="166"/>
+  <rect style="fill:var(--c10,#5C6BC0)" x="164" y="170" width="112" height="46" rx="6"/>
+  <text class="who" text-anchor="middle" x="220" y="238">2段階目の色</text>
+  <line class="rule" x1="220" y1="132" x2="220" y2="166"/>
+  <rect style="fill:var(--c00,#B0347E)" x="284" y="170" width="112" height="46" rx="6"/>
+  <text class="who" text-anchor="middle" x="340" y="238">3段階目の色</text>
+  <line class="rule" x1="340" y1="132" x2="340" y2="166"/>
+  <rect style="fill:var(--c90,#C26A1B)" x="404" y="170" width="112" height="46" rx="6"/>
+  <text class="who" text-anchor="middle" x="460" y="238">4段階目の色</text>
+  <line class="rule" x1="460" y1="132" x2="460" y2="166"/>
+  <text class="ex" x="20" y="268">感情の高さと色の変化が合っているかを確かめる</text>
+  <text class="step" x="20" y="316">ここまでが設計書</text>
+  <rect class="box" x="20" y="332" width="96" height="56" rx="8"/>
+  <text class="ex" text-anchor="middle" x="68" y="365">企画の芯</text>
+  <polygon class="head" points="118,355 118,365 126,360"/>
+  <rect class="box" x="128" y="332" width="96" height="56" rx="8"/>
+  <text class="ex" text-anchor="middle" x="176" y="355">構成と</text>
+  <text class="ex" text-anchor="middle" x="176" y="375">カーブ</text>
+  <polygon class="head" points="226,355 226,365 234,360"/>
+  <rect class="box" x="236" y="332" width="96" height="56" rx="8"/>
+  <text class="ex" text-anchor="middle" x="284" y="365">コンテ</text>
+  <polygon class="head" points="334,355 334,365 342,360"/>
+  <rect class="box" x="344" y="332" width="96" height="56" rx="8"/>
+  <text class="ex" text-anchor="middle" x="392" y="365">素材リスト</text>
+  <polygon class="head" points="442,355 442,365 450,360"/>
+  <rect class="accbox" x="452" y="332" width="96" height="56" rx="8"/>
+  <text class="ex" text-anchor="middle" x="500" y="355">カラー</text>
+  <text class="ex" text-anchor="middle" x="500" y="375">スクリプト</text>
+  <text class="who" x="20" y="414">2年後期は、これを持って制作に入ります</text>
+</svg>

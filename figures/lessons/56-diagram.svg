@@ -1,0 +1,32 @@
+<svg class="fig-l56d" viewBox="0 0 560 496" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l56d-t l56d-d">
+  <title id="l56d-t">生成AIとはしごの要点</title>
+  <desc id="l56d-d">考察の要点。生成AIは、はしごの一番下のパラメータの段を一瞬で埋める。形容詞と具体の段はプロンプトとして受け取る。一番上の抽象は人が決める。</desc>
+  <style>
+    .fig-l56d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l56d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l56d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l56d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l56d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l56d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l56d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l56d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l56d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l56d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l56d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="88" rx="10"/><rect class="bar" x="20" y="16" width="10" height="88" rx="4"/><text class="step" x="48" y="48">1　抽象</text>
+  <text class="ex" x="48" y="72">人：なぜ作るのか、誰に何を届けたいのかを決める</text>
+  <text class="ex2" x="48" y="92">AI：できない。ここを決めるのは作り手</text>
+  <rect class="box" x="20" y="116" width="520" height="88" rx="10"/><rect class="bar" x="20" y="116" width="10" height="88" rx="4"/><text class="step" x="48" y="148">2　形容詞</text>
+  <text class="ex" x="48" y="172">人：作品の空気を言葉にする</text>
+  <text class="ex" x="48" y="192">AI：プロンプトとして受け取る</text>
+  <rect class="box" x="20" y="216" width="520" height="88" rx="10"/><rect class="bar" x="20" y="216" width="10" height="88" rx="4"/><text class="step" x="48" y="248">3　具体</text>
+  <text class="ex" x="48" y="272">人：場面、構図、光、時間帯を決める</text>
+  <text class="ex" x="48" y="292">AI：プロンプトとして受け取る</text>
+  <rect class="box" x="20" y="316" width="520" height="108" rx="10"/><rect class="bar" x="20" y="316" width="10" height="108" rx="4"/><text class="step" x="48" y="348">4　パラメータ</text>
+  <text class="ex" x="48" y="372">人：色、質感、動き、秒数を調整する</text>
+  <text class="ex" x="48" y="392">AI：一瞬で画を出す。細かい調整や一貫性は</text>
+  <text class="ex" x="48" y="412">　　苦手なことが多い</text>
+  <rect class="chip" x="20" y="436" width="520" height="44" rx="8"/>
+  <text class="ex2" x="280" y="463" text-anchor="middle">石を投げる腕は速くなる。どこに投げるかは、人が決める</text>
+</svg>

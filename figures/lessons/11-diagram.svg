@@ -1,0 +1,49 @@
+<svg class="fig-l11d" viewBox="0 0 560 692" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l11d-t l11d-d">
+  <title id="l11d-t">58分を4つの段階で構成する</title>
+  <desc id="l11d-d">尺は物語の大きさで決める。出会い、共作、分岐、再起の4段階と、同じ構図の繰り返しが時間を語る。</desc>
+  <style>
+    .fig-l11d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l11d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l11d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l11d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l11d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l11d .head{fill:var(--sub,#5B616E)}
+    .fig-l11d .a{fill:var(--c20,#127F91)} .fig-l11d .b{fill:var(--c10,#5C6BC0)} .fig-l11d .c{fill:var(--c00,#B0347E)} .fig-l11d .d{fill:var(--c90,#C26A1B)}
+    .fig-l11d .mid{text-anchor:middle}
+    .fig-l11d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="48">尺は物語の大きさに合わせる</text>
+  <text class="ex" x="48" y="76">多くの劇場映画は2時間前後、本作は58分</text>
+  <text class="ex" x="48" y="98">引き伸ばすと、描かなくてよい場面が増える</text>
+  <rect class="box" x="20" y="120" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="120" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="152">1　出会い</text>
+  <text class="ex" x="48" y="180">藤野が京本の存在を知る</text>
+  <text class="who" x="48" y="202">主人公の自負と、それが揺らぐきっかけ</text>
+  <line class="arrow" x1="280" y1="216" x2="280" y2="228"/><polygon class="head" points="272,226 288,226 280,236"/>
+  <rect class="box" x="20" y="240" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="240" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="272">2　共作</text>
+  <text class="ex" x="48" y="300">二人で漫画を描く日々</text>
+  <text class="who" x="48" y="322">関係が深まる時間。季節と年月が流れる</text>
+  <line class="arrow" x1="280" y1="336" x2="280" y2="348"/><polygon class="head" points="272,346 288,346 280,356"/>
+  <rect class="box" x="20" y="360" width="520" height="92" rx="10"/>
+  <rect class="c" x="20" y="360" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="392">3　分岐</text>
+  <text class="ex" x="48" y="420">進路が分かれ、ある出来事が起きる</text>
+  <text class="who" x="48" y="442">物語の転換点</text>
+  <line class="arrow" x1="280" y1="456" x2="280" y2="468"/><polygon class="head" points="272,466 288,466 280,476"/>
+  <rect class="box" x="20" y="480" width="520" height="92" rx="10"/>
+  <rect class="a" x="20" y="480" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="512">4　再起</text>
+  <text class="ex" x="48" y="540">藤野が再び机に向かう</text>
+  <text class="who" x="48" y="562">主題に着地する終盤</text>
+  <rect class="box" x="20" y="584" width="520" height="92" rx="10"/>
+  <rect class="d" x="20" y="584" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="616">同じ構図の繰り返しが時間を語る</text>
+  <text class="ex" x="48" y="644">机に向かう背中の画が、何度も繰り返される</text>
+  <text class="ex" x="48" y="666">季節や部屋の様子、体の大きさが変わる</text>
+
+</svg>

@@ -1,0 +1,65 @@
+<svg class="fig-l51d" viewBox="0 0 560 534" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l51d-t l51d-d">
+  <title id="l51d-t">企画書の書き方と講評の要点</title>
+  <desc id="l51d-d">考察の3点。企画書は、芯、構成、コンテの山場、カラースクリプト、素材リストの順に並べる。はしごを抽象から具体へ降ろす順で書く。講評は石の波紋で、取り入れるものは自分で選ぶ。</desc>
+  <style>
+    .fig-l51d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l51d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l51d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l51d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l51d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l51d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l51d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l51d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l51d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l51d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l51d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="178" rx="10"/><rect class="bar" x="20" y="16" width="10" height="178" rx="4"/><text class="step" x="48" y="48">1　企画書の構成</text>
+  <rect class="chip" x="36" y="64" width="90" height="70" rx="8"/>
+  <text class="ex" x="81" y="84" text-anchor="middle">芯</text>
+  <text class="ex" x="81" y="104" text-anchor="middle">誰に、</text>
+  <text class="ex" x="81" y="124" text-anchor="middle">何を、なぜ</text>
+  <rect class="chip" x="134" y="64" width="90" height="70" rx="8"/>
+  <text class="ex" x="179" y="84" text-anchor="middle">構成と</text>
+  <text class="ex" x="179" y="104" text-anchor="middle">テンション</text>
+  <text class="ex" x="179" y="124" text-anchor="middle">カーブ</text>
+  <rect class="chip" x="232" y="64" width="90" height="70" rx="8"/>
+  <text class="ex" x="277" y="94" text-anchor="middle">コンテの</text>
+  <text class="ex" x="277" y="114" text-anchor="middle">山場</text>
+  <rect class="chip" x="330" y="64" width="90" height="70" rx="8"/>
+  <text class="ex" x="375" y="94" text-anchor="middle">カラー</text>
+  <text class="ex" x="375" y="114" text-anchor="middle">スクリプト</text>
+  <rect class="chip" x="428" y="64" width="90" height="70" rx="8"/>
+  <text class="ex" x="473" y="84" text-anchor="middle">素材リスト</text>
+  <text class="ex" x="473" y="104" text-anchor="middle">と仕上げの</text>
+  <text class="ex" x="473" y="124" text-anchor="middle">方針</text>
+  <line class="arrow" x1="36" y1="152" x2="516" y2="152"/><polygon class="head" points="524,152 514,146 514,158"/>
+  <text class="who" x="48" y="176">この順番で並べると、読む人が迷わない</text>
+  <rect class="box" x="20" y="206" width="520" height="150" rx="10"/><rect class="bar" x="20" y="206" width="10" height="150" rx="4"/><text class="step" x="48" y="238">2　抽象から具体へ</text>
+  <rect class="chip" x="36" y="254" width="100" height="44" rx="8"/>
+  <text class="ex" x="86" y="281" text-anchor="middle">抽象</text>
+  <rect class="chip" x="165" y="254" width="100" height="44" rx="8"/>
+  <text class="ex" x="215" y="281" text-anchor="middle">形容詞</text>
+  <rect class="chip" x="294" y="254" width="100" height="44" rx="8"/>
+  <text class="ex" x="344" y="281" text-anchor="middle">具体</text>
+  <rect class="chip" x="423" y="254" width="100" height="44" rx="8"/>
+  <text class="ex" x="473" y="281" text-anchor="middle">パラメータ</text>
+  <line class="arrow" x1="138" y1="276" x2="155" y2="276"/><polygon class="head" points="163,276 153,270 153,282"/>
+  <line class="arrow" x1="267" y1="276" x2="284" y2="276"/><polygon class="head" points="292,276 282,270 282,282"/>
+  <line class="arrow" x1="396" y1="276" x2="413" y2="276"/><polygon class="head" points="421,276 411,270 411,282"/>
+  <text class="who" x="48" y="326">はしごを上から下へ降ろす順番で書く</text>
+  <text class="who" x="48" y="344">読む人が、自分の作業まで見えるようにする</text>
+  <rect class="box" x="20" y="368" width="520" height="150" rx="10"/><rect class="bar" x="20" y="368" width="10" height="150" rx="4"/><text class="step" x="48" y="400">3　講評は石の波紋</text>
+  <rect class="chip" x="36" y="416" width="140" height="60" rx="8"/>
+  <text class="ex" x="106" y="441" text-anchor="middle">企画書を見せる</text>
+  <text class="ex" x="106" y="461" text-anchor="middle">＝石を投げる</text>
+  <rect class="chip" x="210" y="416" width="140" height="60" rx="8"/>
+  <text class="ex" x="280" y="441" text-anchor="middle">返ってきた意見</text>
+  <text class="ex" x="280" y="461" text-anchor="middle">＝波紋</text>
+  <rect class="chip" x="384" y="416" width="140" height="60" rx="8"/>
+  <text class="ex" x="454" y="441" text-anchor="middle">取り入れるものを</text>
+  <text class="ex" x="454" y="461" text-anchor="middle">自分で選ぶ</text>
+  <line class="arrow" x1="178" y1="446" x2="200" y2="446"/><polygon class="head" points="208,446 198,440 198,452"/>
+  <line class="arrow" x1="352" y1="446" x2="374" y2="446"/><polygon class="head" points="382,446 372,440 372,452"/>
+  <text class="who" x="48" y="498">全部を取り入れる必要はありません</text>
+</svg>

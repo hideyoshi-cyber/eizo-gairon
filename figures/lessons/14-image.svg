@@ -1,0 +1,56 @@
+<svg class="fig-l14i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l14i-t l14i-d">
+  <title id="l14i-t">炎と水が一つになる図案</title>
+  <desc id="l14i-d">炎の形の中だけ波が濃くなり、外では薄く広がる。キャラクターとエフェクトの境界がなくなることを、波と形で表した。下に運河の格子を敷いた。</desc>
+  <style>
+    .fig-l14i .bg{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l14i .m{fill:var(--c20,#127F91)}
+    .fig-l14i .ms{fill:none;stroke:var(--c20,#127F91)}
+    .fig-l14i .k{fill:var(--ink,#1A1D24)}
+    .fig-l14i .ks{fill:none;stroke:var(--ink,#1A1D24)}
+    .fig-l14i .r{fill:var(--rule,#D3D7DE)}
+    .fig-l14i .rs{fill:none;stroke:var(--rule,#D3D7DE)}
+    .fig-l14i .a{fill:var(--c00,#B0347E)}
+    .fig-l14i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+  <rect class="bg" x="1" y="1" width="558" height="313" rx="10"/>
+  <defs><clipPath id="l14i-c"><path d="M280 34 C335 96 352 150 318 196 C298 224 262 224 242 196 C208 150 225 96 280 34 Z"/></clipPath></defs>
+  <path class="ms" d="M0 60 Q35 48 70 60 T140 60 T210 60 T280 60 T350 60 T420 60 T490 60 T560 60" stroke-width="2" stroke-opacity=".3"/>
+  <path class="ms" d="M0 90 Q35 78 70 90 T140 90 T210 90 T280 90 T350 90 T420 90 T490 90 T560 90" stroke-width="2" stroke-opacity=".3"/>
+  <path class="ms" d="M0 120 Q35 108 70 120 T140 120 T210 120 T280 120 T350 120 T420 120 T490 120 T560 120" stroke-width="2" stroke-opacity=".3"/>
+  <path class="ms" d="M0 150 Q35 138 70 150 T140 150 T210 150 T280 150 T350 150 T420 150 T490 150 T560 150" stroke-width="2" stroke-opacity=".3"/>
+  <path class="ms" d="M0 180 Q35 168 70 180 T140 180 T210 180 T280 180 T350 180 T420 180 T490 180 T560 180" stroke-width="2" stroke-opacity=".3"/>
+  <path class="ms" d="M0 210 Q35 198 70 210 T140 210 T210 210 T280 210 T350 210 T420 210 T490 210 T560 210" stroke-width="2" stroke-opacity=".3"/>
+  <path class="ms" d="M0 240 Q35 228 70 240 T140 240 T210 240 T280 240 T350 240 T420 240 T490 240 T560 240" stroke-width="2" stroke-opacity=".3"/>
+  <path class="m" d="M280 34 C335 96 352 150 318 196 C298 224 262 224 242 196 C208 150 225 96 280 34 Z" fill-opacity=".14"/>
+  <g clip-path="url(#l14i-c)">
+  <path class="ms" d="M-10 46 Q18 37 46 46 T102 46 T158 46 T214 46 T270 46 T326 46 T382 46 T438 46 T494 46 T550 46" stroke-width="4"/>
+  <path class="ms" d="M-10 61 Q18 52 46 61 T102 61 T158 61 T214 61 T270 61 T326 61 T382 61 T438 61 T494 61 T550 61" stroke-width="4"/>
+  <path class="ms" d="M-10 76 Q18 67 46 76 T102 76 T158 76 T214 76 T270 76 T326 76 T382 76 T438 76 T494 76 T550 76" stroke-width="4"/>
+  <path class="ms" d="M-10 91 Q18 82 46 91 T102 91 T158 91 T214 91 T270 91 T326 91 T382 91 T438 91 T494 91 T550 91" stroke-width="4"/>
+  <path class="ms" d="M-10 106 Q18 97 46 106 T102 106 T158 106 T214 106 T270 106 T326 106 T382 106 T438 106 T494 106 T550 106" stroke-width="4"/>
+  <path class="ms" d="M-10 121 Q18 112 46 121 T102 121 T158 121 T214 121 T270 121 T326 121 T382 121 T438 121 T494 121 T550 121" stroke-width="4"/>
+  <path class="ms" d="M-10 136 Q18 127 46 136 T102 136 T158 136 T214 136 T270 136 T326 136 T382 136 T438 136 T494 136 T550 136" stroke-width="4"/>
+  <path class="ms" d="M-10 151 Q18 142 46 151 T102 151 T158 151 T214 151 T270 151 T326 151 T382 151 T438 151 T494 151 T550 151" stroke-width="4"/>
+  <path class="ms" d="M-10 166 Q18 157 46 166 T102 166 T158 166 T214 166 T270 166 T326 166 T382 166 T438 166 T494 166 T550 166" stroke-width="4"/>
+  <path class="ms" d="M-10 181 Q18 172 46 181 T102 181 T158 181 T214 181 T270 181 T326 181 T382 181 T438 181 T494 181 T550 181" stroke-width="4"/>
+  <path class="ms" d="M-10 196 Q18 187 46 196 T102 196 T158 196 T214 196 T270 196 T326 196 T382 196 T438 196 T494 196 T550 196" stroke-width="4"/>
+  <path class="ms" d="M-10 211 Q18 202 46 211 T102 211 T158 211 T214 211 T270 211 T326 211 T382 211 T438 211 T494 211 T550 211" stroke-width="4"/>
+  </g>
+  <path class="ms" d="M280 34 C335 96 352 150 318 196 C298 224 262 224 242 196 C208 150 225 96 280 34 Z" stroke-width="2.5"/>
+  <line class="rs" x1="40" y1="250" x2="40" y2="296" stroke-width="2"/>
+  <line class="rs" x1="84" y1="250" x2="84" y2="296" stroke-width="2"/>
+  <line class="rs" x1="128" y1="250" x2="128" y2="296" stroke-width="2"/>
+  <line class="rs" x1="172" y1="250" x2="172" y2="296" stroke-width="2"/>
+  <line class="rs" x1="216" y1="250" x2="216" y2="296" stroke-width="2"/>
+  <line class="rs" x1="260" y1="250" x2="260" y2="296" stroke-width="2"/>
+  <line class="rs" x1="304" y1="250" x2="304" y2="296" stroke-width="2"/>
+  <line class="rs" x1="348" y1="250" x2="348" y2="296" stroke-width="2"/>
+  <line class="rs" x1="392" y1="250" x2="392" y2="296" stroke-width="2"/>
+  <line class="rs" x1="436" y1="250" x2="436" y2="296" stroke-width="2"/>
+  <line class="rs" x1="480" y1="250" x2="480" y2="296" stroke-width="2"/>
+  <line class="rs" x1="524" y1="250" x2="524" y2="296" stroke-width="2"/>
+  <line class="rs" x1="40" y1="250" x2="524" y2="250" stroke-width="2"/>
+  <line class="rs" x1="40" y1="266" x2="524" y2="266" stroke-width="2"/>
+  <line class="rs" x1="40" y1="282" x2="524" y2="282" stroke-width="2"/>
+  <line class="rs" x1="40" y1="296" x2="524" y2="296" stroke-width="2"/>
+</svg>

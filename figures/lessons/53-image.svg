@@ -1,0 +1,18 @@
+<svg class="fig-l53i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l53i-t l53i-d">
+  <title id="l53i-t">画面いっぱいの極太文字の図案</title>
+  <desc id="l53i-d">黒い面に、白い極太の横棒と縦棒、細い棒がリズムよく並ぶ。文字の形は描かず、文字が画面の主役になる構図だけを抽象的に表す。</desc>
+  <style>
+    .fig-l53i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l53i .gl{stroke:var(--rule,#D3D7DE);stroke-width:1;fill:none}
+    .fig-l53i .a{fill:var(--c90,#C26A1B)}
+    .fig-l53i .as{stroke:var(--c90,#C26A1B);stroke-width:2.5;fill:none}
+    .fig-l53i .k{fill:var(--ink,#1A1D24)}
+    .fig-l53i .ks{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l53i .ss{stroke:var(--sub,#5B616E);stroke-width:1.5;fill:none}
+    .fig-l53i .p{fill:var(--paper,#F4F5F7)}
+    .fig-l53i .pn{fill:var(--panel,#FFFFFF)}
+    .fig-l53i .d{stroke-dasharray:6 5}
+  </style>
+  <rect class="bg" width="560" height="315"/>
+  <rect class="k" x="30" y="24" width="500" height="267"/><rect class="pn" x="62" y="62" width="290" height="46"/><rect class="pn" x="62" y="124" width="210" height="46"/><rect class="pn" x="290" y="124" width="62" height="46"/><rect class="pn" x="392" y="52" width="40" height="186"/><rect class="pn" x="448" y="52" width="40" height="120"/><rect class="a" x="62" y="200" width="210" height="22"/><rect class="pn" fill-opacity=".6" x="62" y="236" width="150" height="8"/><rect class="pn" fill-opacity=".6" x="62" y="252" width="110" height="8"/><rect class="a" x="448" y="190" width="40" height="48"/>
+</svg>

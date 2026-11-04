@@ -1,0 +1,45 @@
+<svg class="fig-l53d" viewBox="0 0 560 524" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l53d-t l53d-d">
+  <title id="l53d-t">明朝体が画面を変えた要点</title>
+  <desc id="l53d-d">考察の3点。文字そのものが画面の主役になる文字の演出。21年後の『シン・ゴジラ』の明朝体のテロップにつながる。庵野秀明の線と貞本義行の線が集まる作品。</desc>
+  <style>
+    .fig-l53d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l53d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l53d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l53d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l53d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l53d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l53d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l53d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l53d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l53d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l53d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="150" rx="10"/><rect class="bar" x="20" y="16" width="10" height="150" rx="4"/><text class="step" x="48" y="48">1　文字が画面の主役になる</text>
+  <rect class="chip" x="36" y="64" width="228" height="60" rx="8"/>
+  <text class="ex2" x="150" y="89" text-anchor="middle">テロップ</text>
+  <text class="ex" x="150" y="109" text-anchor="middle">第2回の情報デザイン</text>
+  <rect class="chip" x="296" y="64" width="228" height="60" rx="8"/>
+  <text class="ex2" x="410" y="89" text-anchor="middle">エヴァの文字演出</text>
+  <text class="ex" x="410" y="109" text-anchor="middle">黒い画面に大きな白い明朝体</text>
+  <text class="ex2" x="280" y="99" text-anchor="middle">≠</text>
+  <text class="who" x="48" y="144">文字そのものが、画面の主役になった</text>
+  <rect class="box" x="20" y="178" width="520" height="150" rx="10"/><rect class="bar" x="20" y="178" width="10" height="150" rx="4"/><text class="step" x="48" y="210">2　21年後につながる</text>
+  <rect class="chip" x="36" y="226" width="228" height="60" rx="8"/>
+  <text class="ex2" x="150" y="251" text-anchor="middle">1995年</text>
+  <text class="ex" x="150" y="271" text-anchor="middle">『エヴァ』の明朝体</text>
+  <rect class="chip" x="296" y="226" width="228" height="60" rx="8"/>
+  <text class="ex2" x="410" y="251" text-anchor="middle">21年後</text>
+  <text class="ex" x="410" y="271" text-anchor="middle">『シン・ゴジラ』のテロップ</text>
+  <line class="arrow" x1="268" y1="256" x2="286" y2="256"/><polygon class="head" points="294,256 284,250 284,262"/>
+  <text class="who" x="48" y="306">同じ作り手が、20年以上かけて様式を育てている</text>
+  <rect class="box" x="20" y="340" width="520" height="168" rx="10"/><rect class="bar" x="20" y="340" width="10" height="168" rx="4"/><text class="step" x="48" y="372">3　線が集まる作品</text>
+  <rect class="chip" x="36" y="388" width="120" height="84" rx="8"/>
+  <text class="ex2" x="96" y="435" text-anchor="middle">『エヴァ』</text>
+  <rect class="chip" x="206" y="388" width="318" height="36" rx="8"/>
+  <text class="ex" x="365" y="411" text-anchor="middle">庵野秀明の線　→　『シン・ゴジラ』</text>
+  <rect class="chip" x="206" y="436" width="318" height="36" rx="8"/>
+  <text class="ex" x="365" y="459" text-anchor="middle">貞本義行の線　→　『時をかける少女』</text>
+  <line class="arrow" x1="158" y1="406" x2="196" y2="406"/><polygon class="head" points="204,406 194,400 194,412"/>
+  <line class="arrow" x1="158" y1="454" x2="196" y2="454"/><polygon class="head" points="204,454 194,448 194,460"/>
+  <text class="who" x="48" y="494">第30回の系譜マップに書き込む</text>
+</svg>

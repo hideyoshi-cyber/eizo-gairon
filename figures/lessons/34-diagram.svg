@@ -1,0 +1,35 @@
+<svg class="fig-l34d" viewBox="0 0 560 526" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l34d-t l34d-d">
+  <title id="l34d-t">悪役が物語の構造を壊す『ダークナイト』の構成の考察</title>
+  <desc id="l34d-d">正反対の欲しいものが物語を進め、終わりそうで終わらない構成が観客の予想を裏切る。</desc>
+  <style>
+    .fig-l34d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l34d .k{fill:var(--ink,#1A1D24)}
+    .fig-l34d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l34d .s{fill:var(--sub,#5B616E)}
+    .fig-l34d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l34d .m{fill:var(--c00,#B0347E)}
+    .fig-l34d .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l34d .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l34d .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l34d .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l34d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l34d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l34d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l34d .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l34d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l34d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l34d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l34d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l34d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l34d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l34d .head{fill:var(--sub,#5B616E)}
+    .fig-l34d .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l34d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">型を知っているからこそ、型を裏切る構成が作れる</text><rect class="box" x="20" y="76" width="254" height="94" rx="10"/><rect class="m" x="20" y="76" width="10" height="94" rx="4"/><text class="step" x="48" y="106">主人公</text><text class="ex" x="48" y="130">街の秩序を</text><text class="ex" x="48" y="152">欲しがる</text><rect class="box" x="286" y="76" width="254" height="94" rx="10"/><rect class="m" x="286" y="76" width="10" height="94" rx="4"/><text class="step" x="314" y="106">悪役</text><text class="ex" x="314" y="130">秩序が壊れる</text><text class="ex" x="314" y="152">瞬間を欲しがる</text><rect class="box" x="20" y="178" width="520" height="72" rx="10"/><rect class="m" x="20" y="178" width="10" height="72" rx="4"/><text class="step" x="48" y="208">1　正反対だから、前に進み続ける</text><text class="ex" x="48" y="232">構成の土台は、登場人物が何を欲しがっているか</text><rect class="box" x="20" y="262" width="520" height="116" rx="10"/><rect class="m" x="20" y="262" width="10" height="116" rx="4"/><text class="step" x="48" y="292">2　終わりそうで終わらない</text><text class="ex" x="48" y="316">普通の映画：悪役を捕まえたところで山場</text><text class="ex" x="48" y="338">この映画：捕まえたところから、さらに悪くなる</text><text class="ex" x="48" y="360">観客の「ここで終わるだろう」を構成で裏切る</text><rect class="box" x="20" y="390" width="520" height="116" rx="10"/><rect class="m" x="20" y="390" width="10" height="116" rx="4"/><text class="step" x="48" y="420">3　152分を2回に分ける理由</text><text class="ex" x="48" y="444">通し鑑賞は2時間前後が上限</text><text class="ex" x="48" y="466">構成の区切りで分けて観る</text><text class="ex" x="48" y="488">どこで分けるかを考えるのも、構成を読む練習</text>
+</svg>

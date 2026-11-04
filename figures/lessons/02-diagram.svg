@@ -1,0 +1,46 @@
+<svg class="fig-l02d" viewBox="0 0 560 644" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l02d-t l02d-d">
+  <title id="l02d-t">YouTube動画と映像作品の4つの違い</title>
+  <desc id="l02d-d">区別するのは公開場所ではなく設計の前提。前提、掴み、伝え方、単位の4つで違う。</desc>
+  <style>
+    .fig-l02d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l02d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l02d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l02d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l02d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l02d .head{fill:var(--sub,#5B616E)}
+    .fig-l02d .a{fill:var(--c20,#127F91)} .fig-l02d .b{fill:var(--c10,#5C6BC0)} .fig-l02d .c{fill:var(--c00,#B0347E)} .fig-l02d .d{fill:var(--c90,#C26A1B)}
+    .fig-l02d .mid{text-anchor:middle}
+    .fig-l02d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="114" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="48">公開場所ではなく、作り方</text>
+  <text class="ex" x="48" y="76">『夜に駆ける』のMVはYouTubeにあっても</text>
+  <text class="ex" x="48" y="98">映像作品として設計されている</text>
+  <text class="who" x="48" y="120">どちらの前提で設計されているかで区別する</text>
+  <rect class="box" x="20" y="142" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="142" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="174">前提</text>
+  <text class="ex" x="48" y="202">YouTube動画：いつでも離脱される</text>
+  <text class="ex" x="48" y="224">映像作品：観客が時間を預けてくれる</text>
+  <rect class="box" x="20" y="246" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="246" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="278">掴み</text>
+  <text class="ex" x="48" y="306">YouTube動画：冒頭数秒で引き止める</text>
+  <text class="ex" x="48" y="328">映像作品：全体のテンションカーブで引っ張る</text>
+  <rect class="box" x="20" y="350" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="350" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="382">伝え方</text>
+  <text class="ex" x="48" y="410">YouTube動画：話者・テロップ中心</text>
+  <text class="ex" x="48" y="432">映像作品：画と構成で語る</text>
+  <rect class="box" x="20" y="454" width="520" height="92" rx="10"/>
+  <rect class="b" x="20" y="454" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="486">単位</text>
+  <text class="ex" x="48" y="514">YouTube動画：チャンネルで継続視聴</text>
+  <text class="ex" x="48" y="536">映像作品：1本で完結</text>
+  <rect class="box" x="20" y="558" width="520" height="70" rx="10"/>
+  <rect class="d" x="20" y="558" width="10" height="70" rx="4"/>
+  <text class="step" x="48" y="590">見る環境が変われば作り方も変わる</text>
+  <text class="ex" x="48" y="618">設計の違いは、視聴環境への適応</text>
+
+</svg>

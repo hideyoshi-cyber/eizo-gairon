@@ -1,0 +1,63 @@
+<svg class="fig-l60d" viewBox="0 0 560 636" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l60d-t l60d-d">
+  <title id="l60d-t">遡って自分の原点にたどり着く要点</title>
+  <desc id="l60d-d">考察の3点。FF7から始まり、様々な作品を経て、再びFF7に戻った遡ってきた道。手に入れた目と設計する力。自分の石を投げ続ける。</desc>
+  <style>
+    .fig-l60d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l60d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l60d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l60d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l60d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l60d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l60d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l60d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l60d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l60d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l60d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="236" rx="10"/><rect class="bar" x="20" y="16" width="10" height="236" rx="4"/><text class="step" x="48" y="48">1　遡ってきた道</text>
+  <rect class="chip" x="36" y="64" width="112" height="36" rx="8"/>
+  <text class="sm" x="92" y="87" text-anchor="middle">FF7</text>
+  <rect class="chip" x="160" y="64" width="112" height="36" rx="8"/>
+  <text class="sm" x="216" y="87" text-anchor="middle">夜に駆ける</text>
+  <rect class="chip" x="284" y="64" width="112" height="36" rx="8"/>
+  <text class="sm" x="340" y="87" text-anchor="middle">ゴジラ</text>
+  <rect class="chip" x="408" y="64" width="112" height="36" rx="8"/>
+  <text class="sm" x="464" y="87" text-anchor="middle">ルックバック</text>
+  <rect class="chip" x="36" y="110" width="112" height="36" rx="8"/>
+  <text class="sm" x="92" y="133" text-anchor="middle">スパイダーバース</text>
+  <rect class="chip" x="160" y="110" width="112" height="36" rx="8"/>
+  <text class="sm" x="216" y="133" text-anchor="middle">君の名は。</text>
+  <rect class="chip" x="284" y="110" width="112" height="36" rx="8"/>
+  <text class="sm" x="340" y="133" text-anchor="middle">千と千尋</text>
+  <rect class="chip" x="408" y="110" width="112" height="36" rx="8"/>
+  <text class="sm" x="464" y="133" text-anchor="middle">アバター</text>
+  <rect class="chip" x="36" y="156" width="112" height="36" rx="8"/>
+  <text class="sm" x="92" y="179" text-anchor="middle">マトリックス</text>
+  <rect class="chip" x="160" y="156" width="112" height="36" rx="8"/>
+  <text class="sm" x="216" y="179" text-anchor="middle">攻殻機動隊</text>
+  <rect class="chip" x="284" y="156" width="112" height="36" rx="8"/>
+  <text class="sm" x="340" y="179" text-anchor="middle">エヴァ</text>
+  <rect class="chip" x="408" y="156" width="112" height="36" rx="8"/>
+  <text class="sm" x="464" y="179" text-anchor="middle">FF7に戻る</text>
+  <line class="arrow" x1="36" y1="212" x2="516" y2="212"/><polygon class="head" points="524,212 514,206 514,218"/>
+  <text class="who" x="48" y="234">線をたどると、黒澤明や1954年のゴジラまで伸びていた</text>
+  <rect class="box" x="20" y="264" width="520" height="184" rx="10"/><rect class="bar" x="20" y="264" width="10" height="184" rx="4"/><text class="step" x="48" y="296">2　手に入れたもの</text>
+  <rect class="chip" x="36" y="312" width="488" height="34" rx="8"/>
+  <text class="ex" x="280" y="334" text-anchor="middle">シークバーを、ただ通り過ぎない目</text>
+  <rect class="chip" x="36" y="354" width="488" height="34" rx="8"/>
+  <text class="ex" x="280" y="376" text-anchor="middle">作品の裏の判断と時代とお金の流れを見る目</text>
+  <rect class="chip" x="36" y="396" width="488" height="34" rx="8"/>
+  <text class="ex" x="280" y="418" text-anchor="middle">抽象からパラメータまで降ろして、設計する力</text>
+  <rect class="box" x="20" y="460" width="520" height="160" rx="10"/><rect class="bar" x="20" y="460" width="10" height="160" rx="4"/><text class="step" x="48" y="492">3　自分の石を投げ続ける</text>
+  <rect class="chip" x="36" y="508" width="140" height="50" rx="8"/>
+  <text class="ex" x="106" y="528" text-anchor="middle">自分の石を</text>
+  <text class="ex" x="106" y="548" text-anchor="middle">手に取って投げる</text>
+  <rect class="chip" x="210" y="508" width="140" height="50" rx="8"/>
+  <text class="ex" x="280" y="538" text-anchor="middle">波紋を見る</text>
+  <rect class="chip" x="384" y="508" width="140" height="50" rx="8"/>
+  <text class="ex" x="454" y="538" text-anchor="middle">次の石を選ぶ</text>
+  <line class="arrow" x1="178" y1="533" x2="200" y2="533"/><polygon class="head" points="208,533 198,527 198,539"/>
+  <line class="arrow" x1="352" y1="533" x2="374" y2="533"/><polygon class="head" points="382,533 372,527 372,539"/>
+  <path class="arrow" d="M454 560 V 576 H 106 V 568"/><polygon class="head" points="106,560 100,570 112,570"/>
+  <text class="who" x="48" y="602">あるのは、自分が下した判断と、届き方だけ</text>
+</svg>

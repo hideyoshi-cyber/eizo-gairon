@@ -1,0 +1,75 @@
+<svg class="fig-l13i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l13i-t l13i-d">
+  <title id="l13i-t">周期表がアパートに見える図案</title>
+  <desc id="l13i-d">周期表のマス目を並べると、窓の灯るアパートの建物に見える。元素の性質で決まる4つの帯が右に並ぶ。</desc>
+  <style>
+    .fig-l13i .bg{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l13i .m{fill:var(--c20,#127F91)}
+    .fig-l13i .ms{fill:none;stroke:var(--c20,#127F91)}
+    .fig-l13i .k{fill:var(--ink,#1A1D24)}
+    .fig-l13i .ks{fill:none;stroke:var(--ink,#1A1D24)}
+    .fig-l13i .r{fill:var(--rule,#D3D7DE)}
+    .fig-l13i .rs{fill:none;stroke:var(--rule,#D3D7DE)}
+    .fig-l13i .a{fill:var(--c00,#B0347E)}
+    .fig-l13i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+  <rect class="bg" x="1" y="1" width="558" height="313" rx="10"/>
+  <rect class="m" x="44" y="40" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="404" y="40" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="44" y="76" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="80" y="76" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="188" y="76" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="224" y="76" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="260" y="76" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="296" y="76" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="332" y="76" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="368" y="76" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="404" y="76" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="44" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="80" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="188" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="224" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="260" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="296" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="332" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="368" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="404" y="112" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="44" y="148" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="80" y="148" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="116" y="148" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="152" y="148" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="188" y="148" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="224" y="148" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="260" y="148" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="296" y="148" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="332" y="148" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="368" y="148" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="404" y="148" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="44" y="184" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="80" y="184" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="116" y="184" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="152" y="184" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="188" y="184" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="224" y="184" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="260" y="184" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="296" y="184" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="332" y="184" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="368" y="184" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="404" y="184" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="44" y="220" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="80" y="220" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="116" y="220" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="152" y="220" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="188" y="220" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="224" y="220" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <rect class="m" x="260" y="220" width="28" height="28" rx="3" fill-opacity="0.75"/>
+  <rect class="m" x="296" y="220" width="28" height="28" rx="3" fill-opacity="0.3"/>
+  <rect class="m" x="332" y="220" width="28" height="28" rx="3" fill-opacity="1"/>
+  <rect class="m" x="368" y="220" width="28" height="28" rx="3" fill-opacity="0.5"/>
+  <rect class="m" x="404" y="220" width="28" height="28" rx="3" fill-opacity="0.15"/>
+  <line class="ks" x1="36" y1="256" x2="440" y2="256" stroke-width="3"/>
+  <rect class="m" x="470" y="56" width="12" height="200" fill-opacity="0.35"/>
+  <rect class="m" x="490" y="106" width="12" height="150" fill-opacity="0.55"/>
+  <rect class="m" x="510" y="146" width="12" height="110" fill-opacity="0.75"/>
+  <rect class="m" x="530" y="186" width="12" height="70" fill-opacity="0.9500000000000001"/>
+  <line class="ks" x1="462" y1="256" x2="540" y2="256" stroke-width="3"/>
+</svg>

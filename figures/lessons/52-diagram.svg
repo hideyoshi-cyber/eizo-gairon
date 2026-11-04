@@ -1,0 +1,46 @@
+<svg class="fig-l52d" viewBox="0 0 560 568" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l52d-t l52d-d">
+  <title id="l52d-t">アニメにカメラを持ち込む要点</title>
+  <desc id="l52d-d">考察の3点。手描きのアニメに、レンズの歪み、ピントのぼけ、映り込みを描き込んだ。その源流は海を越えて『マトリックス』に影響を与えた。制作会社は皆さんが入っていく場所である。</desc>
+  <style>
+    .fig-l52d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l52d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l52d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l52d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l52d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l52d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l52d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l52d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l52d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l52d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l52d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="214" rx="10"/><rect class="bar" x="20" y="16" width="10" height="214" rx="4"/><text class="step" x="48" y="48">1　アニメに、カメラを持ち込む</text>
+  <rect class="chip" x="36" y="64" width="228" height="44" rx="8"/>
+  <text class="ex" x="150" y="91" text-anchor="middle">手描きのアニメ</text>
+  <rect class="chip" x="296" y="64" width="228" height="44" rx="8"/>
+  <text class="ex" x="410" y="91" text-anchor="middle">実写のカメラの効果</text>
+  <line class="arrow" x1="268" y1="86" x2="286" y2="86"/><polygon class="head" points="294,86 284,80 284,92"/>
+  <rect class="chip" x="36" y="128" width="148" height="50" rx="8"/>
+  <text class="ex" x="110" y="158" text-anchor="middle">レンズの歪み</text>
+  <rect class="chip" x="206" y="128" width="148" height="50" rx="8"/>
+  <text class="ex" x="280" y="158" text-anchor="middle">ピントのぼけ</text>
+  <rect class="chip" x="376" y="128" width="148" height="50" rx="8"/>
+  <text class="ex" x="450" y="148" text-anchor="middle">ガラス越しの</text>
+  <text class="ex" x="450" y="168" text-anchor="middle">映り込み</text>
+  <text class="who" x="48" y="200">第40回『アバター』はCGに、</text>
+  <text class="who" x="48" y="218">この作品は手描きにカメラを持ち込んだ</text>
+  <rect class="box" x="20" y="242" width="520" height="132" rx="10"/><rect class="bar" x="20" y="242" width="10" height="132" rx="4"/><text class="step" x="48" y="274">2　源流は、海を越える</text>
+  <rect class="chip" x="36" y="290" width="228" height="44" rx="8"/>
+  <text class="ex" x="150" y="317" text-anchor="middle">『攻殻機動隊』</text>
+  <rect class="chip" x="296" y="290" width="228" height="44" rx="8"/>
+  <text class="ex" x="410" y="317" text-anchor="middle">『マトリックス』の監督たち</text>
+  <line class="arrow" x1="268" y1="312" x2="286" y2="312"/><polygon class="head" points="294,312 284,306 284,318"/>
+  <text class="who" x="48" y="358">日本のアニメが、アメリカの大作映画の源流になった</text>
+  <rect class="box" x="20" y="386" width="520" height="166" rx="10"/><rect class="bar" x="20" y="386" width="10" height="166" rx="4"/><text class="step" x="48" y="418">3　皆さんが入っていく場所</text>
+  <rect class="chip" x="36" y="434" width="488" height="46" rx="8"/>
+  <text class="ex" x="280" y="452" text-anchor="middle">Production I.Gのような制作会社が、</text>
+  <text class="ex" x="280" y="472" text-anchor="middle">こうした作品を作っている</text>
+  <line class="arrow" x1="280" y1="482" x2="280" y2="490"/><polygon class="head" points="280,498 274,488 286,488"/>
+  <rect class="chip" x="36" y="500" width="488" height="34" rx="8"/>
+  <text class="ex" x="280" y="522" text-anchor="middle">お金の流れの中での位置を考える（第0回）</text>
+</svg>

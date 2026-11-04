@@ -1,0 +1,44 @@
+<svg class="fig-l45i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l45i-t l45i-d">
+  <title id="l45i-t">感情の高さと色の流れ</title>
+  <desc id="l45i-d">山と谷のある曲線の下に、色が4つのまとまりで横に並ぶ。感情の高さと色を重ねて見る図案。</desc>
+  <style>
+    .fig-l45i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l45i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l45i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l45i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l45i .mid{text-anchor:middle}
+    .fig-l45i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l45i .head{fill:var(--sub,#5B616E)}
+    .fig-l45i .bar{fill:var(--c00,#B0347E)}
+    .fig-l45i .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l45i .accfill{fill:var(--c00,#B0347E)}
+    .fig-l45i .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l45i .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l45i .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l45i .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l45i .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l45i .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l45i .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="panel" x="0" y="0" width="560" height="315"/>
+  <rect style="fill:var(--c20,#127F91);fill-opacity:0.5" x="20" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c20,#127F91);fill-opacity:0.62" x="63.3" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c20,#127F91);fill-opacity:0.74" x="106.6" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c10,#5C6BC0);fill-opacity:0.5" x="149.89999999999998" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c10,#5C6BC0);fill-opacity:0.62" x="193.2" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c10,#5C6BC0);fill-opacity:0.74" x="236.5" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:0.5" x="279.79999999999995" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:0.62" x="323.09999999999997" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c00,#B0347E);fill-opacity:0.74" x="366.4" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c90,#C26A1B);fill-opacity:0.5" x="409.7" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c90,#C26A1B);fill-opacity:0.62" x="453" y="190" width="43.3" height="100"/>
+  <rect style="fill:var(--c90,#C26A1B);fill-opacity:0.74" x="496.29999999999995" y="190" width="43.3" height="100"/>
+  <path style="fill:none;stroke:var(--c00,#B0347E);stroke-width:4" d="M20 160 C80 160 100 70 170 70 S 240 150 300 140 S 360 40 420 40 S 500 150 540 150"/>
+  <line class="rule" x1="20" y1="30" x2="20" y2="190" style="stroke-dasharray:3 5"/>
+  <line class="rule" x1="150" y1="30" x2="150" y2="190" style="stroke-dasharray:3 5"/>
+  <line class="rule" x1="280" y1="30" x2="280" y2="190" style="stroke-dasharray:3 5"/>
+  <line class="rule" x1="410" y1="30" x2="410" y2="190" style="stroke-dasharray:3 5"/>
+  <line class="rule" x1="540" y1="30" x2="540" y2="190" style="stroke-dasharray:3 5"/>
+  <line class="ink" x1="20" y1="180" x2="540" y2="180"/>
+
+</svg>

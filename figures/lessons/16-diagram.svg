@@ -1,0 +1,46 @@
+<svg class="fig-l16d" viewBox="0 0 560 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l16d-t l16d-d">
+  <title id="l16d-t">VFXの使いどころを決める3つの判断</title>
+  <desc id="l16d-d">現実の側にVFXを置く、CGに人間の演技を入れる、同じゴジラでも作り手で見せ方が変わる、の3点。</desc>
+  <style>
+    .fig-l16d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l16d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l16d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l16d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l16d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l16d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l16d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l16d .head{fill:var(--sub,#5B616E)}
+    .fig-l16d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l16d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l16d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l16d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l16d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l16d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l16d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l16d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l16d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l16d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l16d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="114" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="46">1　VFXは「現実の側」に置く</text>
+  <text class="ex" x="48" y="70">会議室で人が話す時間が長い</text>
+  <text class="ex" x="48" y="92">怪獣が出る時間は短い</text>
+  <text class="who" x="48" y="114">だから現れたときの異物感が際立つ</text>
+  <rect class="box" x="20" y="144" width="520" height="92" rx="10"/>
+  <rect class="b2" x="20" y="144" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="174">2　CGに人間の演技を入れる</text>
+  <text class="ex" x="48" y="198">動きは野村萬斎の身体から</text>
+  <text class="ex" x="48" y="220">生き物の重さと様式が生まれる</text>
+  <text class="step" x="20" y="270">3　『ゴジラ-1.0』と比べる</text>
+  <rect class="box" x="20" y="284" width="252" height="70" rx="10"/>
+  <rect class="b1" x="20" y="284" width="10" height="70" rx="4"/>
+  <text class="step" x="48" y="314">『-1.0』</text>
+  <text class="ex" x="48" y="338">人間ドラマの感情</text>
+  <rect class="box" x="288" y="284" width="252" height="70" rx="10"/>
+  <rect class="b2" x="288" y="284" width="10" height="70" rx="4"/>
+  <text class="step" x="316" y="314">シン・ゴジラ</text>
+  <text class="ex" x="316" y="338">組織と情報の速度</text>
+  <text class="who" x="20" y="374">同じIPでも、作り手の判断で作品は変わる</text>
+</svg>

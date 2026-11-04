@@ -1,0 +1,40 @@
+<svg class="fig-l40d" viewBox="0 0 560 376" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l40d-t l40d-d">
+  <title id="l40d-t">CGにカメラを持ち込む：3つの考察</title>
+  <desc id="l40d-d">CGのカメラは数値で動かすと機械的なので、監督が手で持って動かし、人が撮った感じを入れた。技術ができるまで企画を待った。立体上映を前提に設計し、構図の作り方も変わる。</desc>
+  <style>
+    .fig-l40d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l40d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l40d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l40d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l40d .mid{text-anchor:middle}
+    .fig-l40d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l40d .head{fill:var(--sub,#5B616E)}
+    .fig-l40d .bar{fill:var(--c00,#B0347E)}
+    .fig-l40d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l40d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l40d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l40d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l40d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l40d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l40d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l40d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l40d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="120" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="120" rx="4"/>
+  <text class="step" x="48" y="48">1　CGにカメラマンの呼吸を入れる</text>
+  <text class="ex" x="48" y="74">数値で動かすと、なめらかすぎて機械的</text>
+  <text class="ex" x="48" y="96">監督が手で持つと、揺れや迷いが生まれる</text>
+  <text class="who" x="48" y="118">CGに「人が撮った感じ」を入れる工夫</text>
+  <rect class="box" x="20" y="150" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="150" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="182">2　技術ができるまで待つ</text>
+  <text class="ex" x="48" y="208">作りたい映像に、技術が追いつくまで待った</text>
+  <text class="who" x="48" y="230">企画と技術の順番の、一つの答え</text>
+  <rect class="box" x="20" y="262" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="262" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="294">3　立体上映という体験</text>
+  <text class="ex" x="48" y="320">立体映像で観ることを前提に設計</text>
+  <text class="who" x="48" y="342">見せ方の前提が変わると、構図の作り方も変わる</text>
+
+</svg>

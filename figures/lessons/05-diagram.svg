@@ -1,0 +1,39 @@
+<svg class="fig-l05d" viewBox="0 0 560 496" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l05d-t l05d-d">
+  <title id="l05d-t">カメラをどこに置くか</title>
+  <desc id="l05d-d">機内、空対空、地上からの3つの置き場所。ショットの説得力は位置で決まり、6台同時撮影は編集で選ぶ戦略で、実写主義は企画段階の決断。</desc>
+  <style>
+    .fig-l05d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l05d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l05d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l05d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l05d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l05d .head{fill:var(--sub,#5B616E)}
+    .fig-l05d .a{fill:var(--c20,#127F91)} .fig-l05d .b{fill:var(--c10,#5C6BC0)} .fig-l05d .c{fill:var(--c00,#B0347E)} .fig-l05d .d{fill:var(--c90,#C26A1B)}
+    .fig-l05d .mid{text-anchor:middle}
+    .fig-l05d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="114" rx="10"/>
+  <rect class="a" x="20" y="16" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="48">カメラの置き場所</text>
+  <text class="ex" x="48" y="76">機内：俳優の顔の前→本物の表情</text>
+  <text class="ex" x="48" y="98">空対空：並走する撮影機→機体の動きと速度</text>
+  <text class="ex" x="48" y="120">地上から：地上のカメラ→スケール感、空母や基地の空気</text>
+  <line class="arrow" x1="280" y1="134" x2="280" y2="146"/><polygon class="head" points="272,144 288,144 280,154"/>
+  <rect class="box" x="20" y="158" width="520" height="92" rx="10"/>
+  <rect class="c" x="20" y="158" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="190">ショットの説得力が決まる</text>
+  <text class="ex" x="48" y="218">何を撮るかより先に、どこから撮るかを決める</text>
+  <text class="ex" x="48" y="240">俳優の顔にかかる重力は再現できない</text>
+  <rect class="box" x="20" y="262" width="520" height="114" rx="10"/>
+  <rect class="b" x="20" y="262" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="294">6台同時撮影</text>
+  <text class="ex" x="48" y="322">『1917』：撮影段階で構図を決め切った</text>
+  <text class="ex" x="48" y="344">本作：選べるように撮り、編集で選ぶ</text>
+  <text class="who" x="48" y="366">正反対の戦略</text>
+  <rect class="box" x="20" y="388" width="520" height="92" rx="10"/>
+  <rect class="d" x="20" y="388" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="420">実写主義は企画段階の決断</text>
+  <text class="ex" x="48" y="448">主演を口説く条件、海軍との1年以上の調整</text>
+  <text class="ex" x="48" y="470">俳優の訓練を前提にしている</text>
+
+</svg>

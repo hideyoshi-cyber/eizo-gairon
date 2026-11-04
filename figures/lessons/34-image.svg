@@ -1,0 +1,35 @@
+<svg class="fig-l34i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l34i-t l34i-d">
+  <title id="l34i-t">構造を壊す悪役を表す抽象図案</title>
+  <desc id="l34i-d">整った柱の列を、一本のひび割れが断ち切る抽象的な図案。</desc>
+  <style>
+    .fig-l34i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l34i .k{fill:var(--ink,#1A1D24)}
+    .fig-l34i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l34i .s{fill:var(--sub,#5B616E)}
+    .fig-l34i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l34i .m{fill:var(--c00,#B0347E)}
+    .fig-l34i .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l34i .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l34i .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l34i .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l34i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l34i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l34i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l34i .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l34i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l34i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l34i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l34i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l34i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l34i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l34i .head{fill:var(--sub,#5B616E)}
+    .fig-l34i .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l34i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l34i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><rect class="mo" x="24" y="220" width="50" height="70"/><rect class="mo" x="90" y="180" width="50" height="110"/><rect class="mo" x="156" y="140" width="50" height="150"/><rect class="mo" x="222" y="100" width="50" height="190"/><rect class="mm" x="288" y="114" width="50" height="190"/><rect class="mm" x="354" y="154" width="50" height="150"/><rect class="mm" x="420" y="194" width="50" height="110"/><rect class="mm" x="486" y="234" width="50" height="70"/><path class="ms" style="stroke-width:7" d="M300,10 L270,70 L312,120 L262,180 L306,240 L276,305"/><path class="ms" d="M262,180 L205,208"/><text class="t" x="24" y="40">構造を壊す</text>
+</svg>

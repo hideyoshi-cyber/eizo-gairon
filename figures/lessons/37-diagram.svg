@@ -1,0 +1,42 @@
+<svg class="fig-l37d" viewBox="0 0 560 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l37d-t l37d-d">
+  <title id="l37d-t">絵コンテは時間の設計図：3つの考察</title>
+  <desc id="l37d-d">コンテは絵と一緒に秒数を書く時間の道具。原作は1967年の小説で、2006年の高校生の話として作り直した。公開は小さな規模だったが、口コミで上映が長く続き、観客が増えた。</desc>
+  <style>
+    .fig-l37d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l37d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l37d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l37d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l37d .mid{text-anchor:middle}
+    .fig-l37d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l37d .head{fill:var(--sub,#5B616E)}
+    .fig-l37d .bar{fill:var(--c00,#B0347E)}
+    .fig-l37d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l37d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l37d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l37d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l37d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l37d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l37d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l37d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l37d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="120" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="120" rx="4"/>
+  <text class="step" x="48" y="48">1　コンテは秒数を決めるもの</text>
+  <text class="ex" x="48" y="74">絵と一緒に秒数が書かれている</text>
+  <text class="ex" x="48" y="96">同じ構図でも、3秒と10秒で意味が変わる</text>
+  <text class="who" x="48" y="118">コンテは、時間を描く道具</text>
+  <rect class="box" x="20" y="150" width="520" height="120" rx="10"/>
+  <rect class="bar" x="20" y="150" width="10" height="120" rx="4"/>
+  <text class="step" x="48" y="182">2　原作は1967年</text>
+  <text class="ex" x="48" y="208">筒井康隆の1967年の小説が原作</text>
+  <text class="ex" x="48" y="230">2006年の高校生の話として作り直した</text>
+  <text class="who" x="48" y="252">長く続く物語の、受け継ぎ方の例</text>
+  <rect class="box" x="20" y="284" width="520" height="120" rx="10"/>
+  <rect class="bar" x="20" y="284" width="10" height="120" rx="4"/>
+  <text class="step" x="48" y="316">3　小さく始まった作品</text>
+  <text class="ex" x="48" y="342">公開の規模は大きくなかった</text>
+  <text class="ex" x="48" y="364">口コミで、上映が長く続いた</text>
+  <text class="who" x="48" y="386">大きな宣伝がなくても、観客は増えていく</text>
+
+</svg>

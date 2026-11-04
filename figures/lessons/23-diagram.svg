@@ -1,0 +1,52 @@
+<svg class="fig-l23d" viewBox="0 0 560 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l23d-t l23d-d">
+  <title id="l23d-t">ルックは作り手の選択</title>
+  <desc id="l23d-d">失敗に見える色ズレを表現に変え、網点や集中線など紙の漫画を源流に持ち、写真のようにも手描きのようにもできるCGからルックを選ぶ。</desc>
+  <style>
+    .fig-l23d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l23d .dash{fill:none;stroke:var(--c10,#5C6BC0);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l23d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l23d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l23d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l23d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l23d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l23d .head{fill:var(--sub,#5B616E)}
+    .fig-l23d .b1{fill:var(--c10,#5C6BC0)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l23d .chip{fill:var(--c10,#5C6BC0);fill-opacity:.12;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l23d .chiph{fill:var(--c10,#5C6BC0)}
+    .fig-l23d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l23d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l23d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l23d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l23d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l23d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l23d .soft{fill:var(--c10,#5C6BC0);fill-opacity:.14;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l23d .softh{fill:var(--c10,#5C6BC0);fill-opacity:.3;stroke:var(--c10,#5C6BC0);stroke-width:2}
+  </style>
+  <text class="step" x="20" y="36">1　失敗に見えるものを、表現に</text>
+  <rect class="box" x="20" y="50" width="228" height="92" rx="10"/>
+  <rect class="b1" x="20" y="50" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="80">印刷の色ズレ</text>
+  <text class="ex" x="48" y="104">本来は失敗</text>
+  <rect class="box" x="312" y="50" width="228" height="92" rx="10"/>
+  <rect class="b2" x="312" y="50" width="10" height="92" rx="4"/>
+  <text class="step" x="340" y="80">表現にする</text>
+  <text class="ex" x="340" y="104">ピントの外れた背景</text>
+  <text class="ex" x="340" y="126">画面の奥行き</text>
+  <line class="arrow" x1="252" y1="96" x2="296" y2="96"/><polygon class="head" points="294,88 294,104 308,96"/>
+  <text class="who" x="20" y="162">欠点をルールに変えると、新しいルックが生まれる</text>
+  <rect class="box" x="20" y="180" width="520" height="114" rx="10"/>
+  <rect class="b2" x="20" y="180" width="10" height="114" rx="4"/>
+  <text class="step" x="48" y="210">2　漫画という源流</text>
+  <text class="ex" x="48" y="234">網点、集中線、吹き出しの文字</text>
+  <text class="ex" x="48" y="256">どれも紙の漫画から来ている</text>
+  <text class="who" x="48" y="278">CGの源流が、紙の印刷物にある例</text>
+  <rect class="box" x="20" y="308" width="520" height="144" rx="10"/>
+  <rect class="b1" x="20" y="308" width="10" height="144" rx="4"/>
+  <text class="step" x="48" y="338">3　ルックは選択</text>
+  <text class="endl" x="48" y="366">写真のようにリアル</text>
+  <text class="endr" text-anchor="end" x="524" y="366">手描きのよう</text>
+  <line class="axis" x1="60" y1="384" x2="512" y2="384"/>
+  <polygon class="axh" points="48,384 62,377 62,391"/><polygon class="axh" points="524,384 510,377 510,391"/>
+  <text class="ex" x="48" y="414">決めるのは技術ではなく、</text>
+  <text class="ex" x="48" y="436">作品が何を伝えたいか</text>
+</svg>

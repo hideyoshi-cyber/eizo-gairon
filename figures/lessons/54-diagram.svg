@@ -1,0 +1,51 @@
+<svg class="fig-l54d" viewBox="0 0 560 516" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l54d-t l54d-d">
+  <title id="l54d-t">設計書のずれを人の目で確かめる要点</title>
+  <desc id="l54d-d">考察の3点。講評は設計書と見比べる。ずれを見つけたら、作品を直すか設計書を変えるかを選ぶ。なぜそうしたかを、はしごの段を飛ばさずに言葉で説明する。</desc>
+  <style>
+    .fig-l54d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l54d .bar{fill:var(--c90,#C26A1B)}
+    .fig-l54d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l54d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l54d .ex2{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l54d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l54d .sm{fill:var(--ink,#1A1D24);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l54d .chip{fill:var(--paper,#F4F5F7);stroke:var(--c90,#C26A1B);stroke-width:1.5}
+    .fig-l54d .chipd{fill:none;stroke:var(--sub,#5B616E);stroke-width:1.5;stroke-dasharray:5 4}
+    .fig-l54d .arrow{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l54d .head{fill:var(--c90,#C26A1B)}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="150" rx="10"/><rect class="bar" x="20" y="16" width="10" height="150" rx="4"/><text class="step" x="48" y="48">1　設計書と見比べる</text>
+  <rect class="chip" x="36" y="64" width="228" height="60" rx="8"/>
+  <text class="ex2" x="150" y="89" text-anchor="middle">設計書</text>
+  <text class="ex" x="150" y="109" text-anchor="middle">最初に決めた芯</text>
+  <rect class="chip" x="296" y="64" width="228" height="60" rx="8"/>
+  <text class="ex2" x="410" y="89" text-anchor="middle">作っているもの</text>
+  <text class="ex" x="410" y="109" text-anchor="middle">芯からぶれていないか</text>
+  <line class="arrow" x1="268" y1="94" x2="286" y2="94"/><polygon class="head" points="294,94 284,88 284,100"/>
+  <polygon class="head" points="266,94 276,88 276,100"/>
+  <text class="who" x="48" y="144">作品のよしあしではなく、設計書と比べてどうか</text>
+  <rect class="box" x="20" y="178" width="520" height="160" rx="10"/><rect class="bar" x="20" y="178" width="10" height="160" rx="4"/><text class="step" x="48" y="210">2　直すか、変えるか</text>
+  <rect class="chip" x="36" y="226" width="150" height="76" rx="8"/>
+  <text class="ex" x="111" y="259" text-anchor="middle">ずれを</text>
+  <text class="ex" x="111" y="279" text-anchor="middle">見つける</text>
+  <path class="arrow" d="M188 264 H 222 V 244 H 252"/><path class="arrow" d="M222 264 V 284 H 252"/><polygon class="head" points="262,244 252,238 252,250"/><polygon class="head" points="262,284 252,278 252,290"/>
+  <rect class="chip" x="264" y="226" width="260" height="36" rx="8"/>
+  <text class="ex" x="394" y="249" text-anchor="middle">作品を直す</text>
+  <rect class="chip" x="264" y="266" width="260" height="36" rx="8"/>
+  <text class="ex" x="394" y="289" text-anchor="middle">設計書を変える（負けではない）</text>
+  <text class="who" x="48" y="324">作ってみて初めて分かることもある</text>
+  <rect class="box" x="20" y="350" width="520" height="150" rx="10"/><rect class="bar" x="20" y="350" width="10" height="150" rx="4"/><text class="step" x="48" y="382">3　言葉で説明する</text>
+  <rect class="chip" x="36" y="398" width="100" height="44" rx="8"/>
+  <text class="ex" x="86" y="425" text-anchor="middle">抽象</text>
+  <rect class="chip" x="165" y="398" width="100" height="44" rx="8"/>
+  <text class="ex" x="215" y="425" text-anchor="middle">形容詞</text>
+  <rect class="chip" x="294" y="398" width="100" height="44" rx="8"/>
+  <text class="ex" x="344" y="425" text-anchor="middle">具体</text>
+  <rect class="chip" x="423" y="398" width="100" height="44" rx="8"/>
+  <text class="ex" x="473" y="425" text-anchor="middle">パラメータ</text>
+  <line class="arrow" x1="138" y1="420" x2="155" y2="420"/><polygon class="head" points="163,420 153,414 153,426"/>
+  <line class="arrow" x1="267" y1="420" x2="284" y2="420"/><polygon class="head" points="292,420 282,414 282,426"/>
+  <line class="arrow" x1="396" y1="420" x2="413" y2="420"/><polygon class="head" points="421,420 411,414 411,426"/>
+  <text class="who" x="48" y="470">段を飛ばさずに説明できれば、</text>
+  <text class="who" x="48" y="488">作品にも説得力が出る</text>
+</svg>

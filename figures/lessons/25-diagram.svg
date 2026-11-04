@@ -1,0 +1,35 @@
+<svg class="fig-l25d" viewBox="0 0 560 424" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l25d-t l25d-d">
+  <title id="l25d-t">光と背景が主役になる『君の名は。』の考察</title>
+  <desc id="l25d-d">背景が感情を語り、制約が様式を生み、現実の風景を少しだけ美しくする。</desc>
+  <style>
+    .fig-l25d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l25d .k{fill:var(--ink,#1A1D24)}
+    .fig-l25d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l25d .s{fill:var(--sub,#5B616E)}
+    .fig-l25d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l25d .m{fill:var(--c10,#5C6BC0)}
+    .fig-l25d .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l25d .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l25d .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l25d .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l25d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l25d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l25d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l25d .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l25d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l25d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l25d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l25d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l25d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l25d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l25d .head{fill:var(--sub,#5B616E)}
+    .fig-l25d .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l25d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l25d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">背景は舞台装置ではなく、感情を運ぶ主役</text><rect class="box" x="20" y="76" width="520" height="94" rx="10"/><rect class="m" x="20" y="76" width="10" height="94" rx="4"/><text class="step" x="48" y="106">1　背景が感情を語る</text><text class="ex" x="48" y="130">空の色や光の差し方で、気持ちを伝える場面が多い</text><text class="ex" x="48" y="152">背景が、セリフの代わりに気持ちを語る</text><rect class="box" x="20" y="182" width="520" height="94" rx="10"/><rect class="m" x="20" y="182" width="10" height="94" rx="4"/><text class="step" x="48" y="212">2　一人の制作から生まれた様式</text><text class="ex" x="48" y="236">少人数でも印象を強くするために、背景と光を磨いた</text><text class="ex" x="48" y="258">制約が様式を生んだ例</text><rect class="box" x="20" y="288" width="520" height="116" rx="10"/><rect class="m" x="20" y="288" width="10" height="116" rx="4"/><text class="step" x="48" y="318">3　実在の風景を、少しだけ美しくする</text><text class="ex" x="48" y="342">実在の場所をもとにした風景が多い</text><text class="ex" x="48" y="364">現実よりも少しだけ美しく描く</text><text class="ex" x="48" y="386">観客は自分の知っている場所まで特別に見える</text>
+</svg>

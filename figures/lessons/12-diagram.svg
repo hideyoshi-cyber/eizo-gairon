@@ -1,0 +1,40 @@
+<svg class="fig-l12d" viewBox="0 0 560 464" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l12d-t l12d-d">
+  <title id="l12d-t">谷の設計が山の大きさを決める</title>
+  <desc id="l12d-d">横軸に時間、縦軸に緊張を取ったテンションカーブのイメージ。長い谷のあとに転換点の山が来る。出会い、共作、分岐、再起の4段階と、描き方の4手順。</desc>
+  <style>
+    .fig-l12d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l12d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l12d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l12d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l12d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l12d .head{fill:var(--sub,#5B616E)}
+    .fig-l12d .a{fill:var(--c20,#127F91)} .fig-l12d .b{fill:var(--c10,#5C6BC0)} .fig-l12d .c{fill:var(--c00,#B0347E)} .fig-l12d .d{fill:var(--c90,#C26A1B)}
+    .fig-l12d .mid{text-anchor:middle}
+    .fig-l12d .inv{fill:var(--paper,#F5F3EE)}
+  </style>
+  <text class="who" x="50" y="22">縦軸：緊張・感情の高さ（イメージ図）</text>
+  <line x1="150" y1="36" x2="150" y2="262" stroke="var(--rule,#D3D7DE)" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <line x1="330" y1="36" x2="330" y2="262" stroke="var(--rule,#D3D7DE)" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <line x1="420" y1="36" x2="420" y2="262" stroke="var(--rule,#D3D7DE)" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <path d="M50,225 C75,215 95,185 115,200 C130,210 150,222 165,222 C230,220 290,205 328,190 L360,60 C375,50 385,90 400,140 C410,170 420,200 440,205 C470,212 500,205 530,200 L530,250 L50,250 Z" class="a" opacity=".15"/>
+  <path d="M50,225 C75,215 95,185 115,200 C130,210 150,222 165,222 C230,220 290,205 328,190 L360,60 C375,50 385,90 400,140 C410,170 420,200 440,205 C470,212 500,205 530,200" fill="none" stroke="var(--c20,#127F91)" stroke-width="4.5" stroke-linejoin="round"/>
+  <line x1="50" y1="250" x2="540" y2="250" stroke="var(--ink,#1A1D24)" stroke-width="2.5"/><line x1="50" y1="36" x2="50" y2="250" stroke="var(--ink,#1A1D24)" stroke-width="2.5"/>
+  <circle cx="360" cy="60" r="7" class="c"/>
+  <text class="ex" x="378" y="66">山：転換点</text>
+  <text class="ex" x="170" y="196">谷：静かな時間が長く続く</text>
+  <text class="ex" x="62" y="86">谷の設計が、</text>
+  <text class="ex" x="62" y="108">山の大きさを決める</text>
+  <text class="who mid" x="100" y="272">出会い</text>
+  <text class="who mid" x="240" y="272">共作</text>
+  <text class="who mid" x="375" y="272">分岐</text>
+  <text class="who mid" x="480" y="272">再起</text>
+  <text class="who" x="420" y="296">横軸：時間（分）</text>
+  <rect class="box" x="20" y="312" width="520" height="136" rx="10"/>
+  <rect class="a" x="20" y="312" width="10" height="136" rx="4"/>
+  <text class="step" x="48" y="344">テンションカーブの描き方</text>
+  <text class="ex" x="48" y="372">1　横軸に時間、縦軸に緊張を取る</text>
+  <text class="ex" x="48" y="394">2　場面ごとに点を打つ</text>
+  <text class="ex" x="48" y="416">3　線でつなぎ、山と谷に印をつける</text>
+  <text class="ex" x="48" y="438">4　山の直前と谷の長さを書き込む</text>
+
+</svg>

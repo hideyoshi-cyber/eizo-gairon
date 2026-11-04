@@ -1,0 +1,60 @@
+<svg class="fig-l47i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l47i-t l47i-d">
+  <title id="l47i-t">入口と出口</title>
+  <desc id="l47i-d">中央の枠へ入っていく矢印と、枠から出ていく矢印。枠の中には太い帯と細い帯。入口と出口の図案。</desc>
+  <style>
+    .fig-l47i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l47i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l47i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l47i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l47i .mid{text-anchor:middle}
+    .fig-l47i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l47i .head{fill:var(--sub,#5B616E)}
+    .fig-l47i .bar{fill:var(--c90,#C26A1B)}
+    .fig-l47i .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c90,#C26A1B);stroke-width:2.5}
+    .fig-l47i .accfill{fill:var(--c90,#C26A1B)}
+    .fig-l47i .accline{stroke:var(--c90,#C26A1B);stroke-width:3;fill:none}
+    .fig-l47i .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l47i .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l47i .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l47i .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l47i .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l47i .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="panel" x="0" y="0" width="560" height="315"/>
+  <line class="rule" x1="0" y1="0" x2="0" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="40" y1="0" x2="40" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="80" y1="0" x2="80" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="120" y1="0" x2="120" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="160" y1="0" x2="160" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="200" y1="0" x2="200" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="240" y1="0" x2="240" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="280" y1="0" x2="280" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="320" y1="0" x2="320" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="360" y1="0" x2="360" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="400" y1="0" x2="400" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="440" y1="0" x2="440" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="480" y1="0" x2="480" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="520" y1="0" x2="520" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="560" y1="0" x2="560" y2="315" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="0" x2="560" y2="0" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="35" x2="560" y2="35" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="70" x2="560" y2="70" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="105" x2="560" y2="105" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="140" x2="560" y2="140" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="175" x2="560" y2="175" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="210" x2="560" y2="210" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="245" x2="560" y2="245" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="280" x2="560" y2="280" style="stroke-opacity:.5"/>
+  <line class="rule" x1="0" y1="315" x2="560" y2="315" style="stroke-opacity:.5"/>
+  <rect class="box" x="190" y="60" width="180" height="195" rx="4"/>
+  <rect style="fill:var(--c90,#C26A1B);fill-opacity:0.2" x="206" y="76" width="148" height="163"/>
+  <line class="ink" x1="30" y1="158" x2="180" y2="158" style="stroke-width:4"/><polygon class="inkfill" points="176,142 176,174 204,158"/>
+  <line style="fill:none;stroke:var(--c90,#C26A1B);stroke-width:4" x1="380" y1="158" x2="530" y2="158"/><polygon style="fill:var(--c90,#C26A1B);fill-opacity:1" points="518,142 518,174 546,158"/>
+  <line class="rule" x1="30" y1="190" x2="52" y2="190"/>
+  <line class="rule" x1="66" y1="198" x2="88" y2="198"/>
+  <line class="rule" x1="102" y1="206" x2="124" y2="206"/>
+  <line class="rule" x1="138" y1="214" x2="160" y2="214"/>
+  <rect class="inkfill" x="222" y="190" width="116" height="6" style="fill-opacity:.5"/>
+  <rect style="fill:var(--c90,#C26A1B);fill-opacity:1" x="222" y="108" width="70" height="14"/>
+
+</svg>

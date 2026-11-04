@@ -1,0 +1,35 @@
+<svg class="fig-l33i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l33i-t l33i-d">
+  <title id="l33i-t">企画の芯を一言にする抽象図案</title>
+  <desc id="l33i-d">三つの案が一つの大きな枠に集まり、三本の線に絞られる抽象的な図案。</desc>
+  <style>
+    .fig-l33i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l33i .k{fill:var(--ink,#1A1D24)}
+    .fig-l33i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l33i .s{fill:var(--sub,#5B616E)}
+    .fig-l33i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l33i .m{fill:var(--c00,#B0347E)}
+    .fig-l33i .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l33i .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l33i .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l33i .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l33i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l33i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l33i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l33i .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l33i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l33i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l33i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l33i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l33i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l33i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l33i .head{fill:var(--sub,#5B616E)}
+    .fig-l33i .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l33i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l33i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><rect class="mo" x="30" y="60" width="170" height="64"/><line class="rs" x1="46" y1="82" x2="150" y2="82"/><line class="rs" x1="46" y1="102" x2="120" y2="102"/><line class="ms2" x1="200" y1="92" x2="250" y2="157"/><rect class="ko" x="30" y="140" width="170" height="64"/><line class="rs" x1="46" y1="162" x2="130" y2="162"/><line class="rs" x1="46" y1="182" x2="110" y2="182"/><line class="ms2" x1="200" y1="172" x2="250" y2="157"/><rect class="ko" x="30" y="220" width="170" height="64"/><line class="rs" x1="46" y1="242" x2="110" y2="242"/><line class="rs" x1="46" y1="262" x2="100" y2="262"/><line class="ms2" x1="200" y1="252" x2="250" y2="157"/><rect class="card" x="250" y="40" width="290" height="235"/><circle class="m" cx="284" cy="88" r="12"/><rect class="m" x="308" y="80" width="200" height="16"/><circle class="mm" cx="284" cy="148" r="12"/><rect class="mm" x="308" y="140" width="230" height="16"/><circle class="mo" cx="284" cy="208" r="12"/><rect class="mo" x="308" y="200" width="180" height="16"/><text class="t" x="24" y="306">芯を一言に</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg class="fig-l13d" viewBox="0 0 560 484" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l13d-t l13d-d">
+  <title id="l13d-t">世界観はルールから生まれる</title>
+  <desc id="l13d-d">元素の性質からルールを導き、ルールが物語の障害になる。その土台には作り手の個人史がある。</desc>
+  <style>
+    .fig-l13d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l13d .dash{fill:none;stroke:var(--c20,#127F91);stroke-width:2;stroke-dasharray:6 5}
+    .fig-l13d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l13d .sh{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l13d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l13d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l13d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l13d .head{fill:var(--sub,#5B616E)}
+    .fig-l13d .b1{fill:var(--c20,#127F91)} .b2{fill:var(--c00,#B0347E)}
+    .fig-l13d .chip{fill:var(--c20,#127F91);fill-opacity:.12;stroke:var(--c20,#127F91);stroke-width:1.5}
+    .fig-l13d .chiph{fill:var(--c20,#127F91)}
+    .fig-l13d .chipt{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l13d .chiptw{fill:var(--panel,#FFFFFF);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:middle}
+    .fig-l13d .axis{stroke:var(--ink,#1A1D24);stroke-width:2.5;fill:none}
+    .fig-l13d .axh{fill:var(--ink,#1A1D24)}
+    .fig-l13d .endl{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l13d .endr{fill:var(--ink,#1A1D24);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;text-anchor:end}
+    .fig-l13d .soft{fill:var(--c20,#127F91);fill-opacity:.14;stroke:var(--c20,#127F91);stroke-width:1.5}
+    .fig-l13d .softh{fill:var(--c20,#127F91);fill-opacity:.3;stroke:var(--c20,#127F91);stroke-width:2}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="92" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="46">1　元素の性質</text>
+  <text class="ex" x="48" y="70">燃える・流れる・育つ・漂う</text>
+  <text class="who" x="48" y="92">文化をそのまま描かず、性質から導く</text>
+  <line class="arrow" x1="280" y1="112" x2="280" y2="124"/><polygon class="head" points="272,122 288,122 280,132"/>
+  <rect class="box" x="20" y="136" width="520" height="92" rx="10"/>
+  <rect class="b2" x="20" y="136" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="166">2　ルール</text>
+  <text class="ex" x="48" y="190">住む場所・移動・社会・関係</text>
+  <text class="who" x="48" y="212">世界観は、見た目の前にルール</text>
+  <line class="arrow" x1="280" y1="232" x2="280" y2="244"/><polygon class="head" points="272,242 288,242 280,252"/>
+  <rect class="box" x="20" y="256" width="520" height="92" rx="10"/>
+  <rect class="b1" x="20" y="256" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="286">3　物語の障害になる</text>
+  <text class="ex" x="48" y="310">「火と水は触れ合えない」</text>
+  <text class="who" x="48" y="332">飾りではなく、物語を動かす装置</text>
+  <line class="arrow" x1="280" y1="360" x2="280" y2="372"/><polygon class="head" points="272,362 288,362 280,352"/>
+  <rect class="soft" x="20" y="376" width="520" height="92" rx="10"/>
+  <rect class="b2" x="20" y="376" width="10" height="92" rx="4"/>
+  <text class="step" x="48" y="406">土台：作り手の個人史</text>
+  <text class="ex" x="48" y="430">移民の街、家族の店、親の期待</text>
+  <text class="who" x="48" y="452">監督の現実を元素に置き換えた</text>
+</svg>

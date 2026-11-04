@@ -1,0 +1,35 @@
+<svg class="fig-l36i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l36i-t l36i-d">
+  <title id="l36i-t">カーブを先に描くことを表す抽象図案</title>
+  <desc id="l36i-d">四つの区間に分けた長い谷と一つの山のカーブを描く抽象的な図案。</desc>
+  <style>
+    .fig-l36i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l36i .k{fill:var(--ink,#1A1D24)}
+    .fig-l36i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l36i .s{fill:var(--sub,#5B616E)}
+    .fig-l36i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l36i .m{fill:var(--c00,#B0347E)}
+    .fig-l36i .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l36i .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l36i .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l36i .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l36i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l36i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l36i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l36i .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l36i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l36i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l36i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l36i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l36i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l36i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l36i .head{fill:var(--sub,#5B616E)}
+    .fig-l36i .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l36i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l36i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><line class="dash" x1="170" y1="30" x2="170" y2="270"/><line class="dash" x1="290" y1="30" x2="290" y2="270"/><line class="dash" x1="410" y1="30" x2="410" y2="270"/><path class="ms" d="M40,225 C90,250 170,260 240,235 C300,212 320,56 350,56 C380,56 400,200 440,215 C480,226 510,222 540,220"/><line class="dash" x1="350" y1="70" x2="350" y2="270"/><circle class="mo" cx="350" cy="56" r="20"/><circle class="m" cx="350" cy="56" r="9"/><line class="ks" x1="30" y1="270" x2="545" y2="270"/><line class="ks" x1="30" y1="270" x2="30" y2="28"/><text class="t" x="100" y="300">1</text><text class="t" x="230" y="300">2</text><text class="t" x="350" y="300">3</text><text class="t" x="475" y="300">4</text><text class="t" x="44" y="40">先に描く</text>
+</svg>

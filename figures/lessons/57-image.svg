@@ -1,0 +1,18 @@
+<svg class="fig-l57i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l57i-t l57i-d">
+  <title id="l57i-t">迷うと悩むの図案</title>
+  <desc id="l57i-d">左は一本の線が二つに分かれてどちらも先へ進む。右は線が壁に当たり、同じところを回って止まる。迷うことと悩むことの違いを抽象的に表す。</desc>
+  <style>
+    .fig-l57i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l57i .gl{stroke:var(--rule,#D3D7DE);stroke-width:1;fill:none}
+    .fig-l57i .a{fill:var(--c90,#C26A1B)}
+    .fig-l57i .as{stroke:var(--c90,#C26A1B);stroke-width:2.5;fill:none}
+    .fig-l57i .k{fill:var(--ink,#1A1D24)}
+    .fig-l57i .ks{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l57i .ss{stroke:var(--sub,#5B616E);stroke-width:1.5;fill:none}
+    .fig-l57i .p{fill:var(--paper,#F4F5F7)}
+    .fig-l57i .pn{fill:var(--panel,#FFFFFF)}
+    .fig-l57i .d{stroke-dasharray:6 5}
+  </style>
+  <rect class="bg" width="560" height="315"/>
+  <line class="gl" x1="280" y1="30" x2="280" y2="285"/><path class="as" d="M40 160 H110"/><path class="as" d="M110 160 C 150 160 150 100 190 100 H 250"/><path class="as" d="M110 160 C 150 160 150 220 190 220 H 250"/><polygon class="a" points="260,100 244,91 244,109"/><polygon class="a" points="260,220 244,211 244,229"/><circle class="k" cx="110" cy="160" r="7"/><path class="as" d="M310 160 H 400"/><rect class="k" x="470" y="90" width="22" height="140"/><polyline class="ss" points="400,160 430,160 430,130 410,130 410,185 450,185 450,115 400,115 400,205 458,205"/><circle class="a" cx="400" cy="160" r="7"/>
+</svg>

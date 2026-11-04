@@ -1,0 +1,35 @@
+<svg class="fig-l28i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l28i-t l28i-d">
+  <title id="l28i-t">源流を表す抽象図案</title>
+  <desc id="l28i-d">同じ形の半円が並んでリズムをつくり、色の濃淡で受け継ぎを表す抽象的な図案。</desc>
+  <style>
+    .fig-l28i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l28i .k{fill:var(--ink,#1A1D24)}
+    .fig-l28i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l28i .s{fill:var(--sub,#5B616E)}
+    .fig-l28i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l28i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l28i .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l28i .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l28i .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l28i .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l28i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l28i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l28i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l28i .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l28i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l28i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l28i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l28i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l28i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l28i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l28i .head{fill:var(--sub,#5B616E)}
+    .fig-l28i .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l28i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l28i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><path class="m" d="M8,125 A32,32 0 0 1 72,125 Z"/><path class="bg" d="M27,125 A13,13 0 0 1 53,125 Z"/><path class="mo" d="M88,125 A32,32 0 0 1 152,125 Z"/><path class="bg" d="M107,125 A13,13 0 0 1 133,125 Z"/><path class="m" d="M168,125 A32,32 0 0 1 232,125 Z"/><path class="bg" d="M187,125 A13,13 0 0 1 213,125 Z"/><path class="mo" d="M248,125 A32,32 0 0 1 312,125 Z"/><path class="bg" d="M267,125 A13,13 0 0 1 293,125 Z"/><path class="m" d="M328,125 A32,32 0 0 1 392,125 Z"/><path class="bg" d="M347,125 A13,13 0 0 1 373,125 Z"/><path class="mo" d="M408,125 A32,32 0 0 1 472,125 Z"/><path class="bg" d="M427,125 A13,13 0 0 1 453,125 Z"/><path class="m" d="M488,125 A32,32 0 0 1 552,125 Z"/><path class="bg" d="M507,125 A13,13 0 0 1 533,125 Z"/><path class="mo" d="M8,205 A32,32 0 0 1 72,205 Z"/><path class="bg" d="M27,205 A13,13 0 0 1 53,205 Z"/><path class="m" d="M88,205 A32,32 0 0 1 152,205 Z"/><path class="bg" d="M107,205 A13,13 0 0 1 133,205 Z"/><path class="mo" d="M168,205 A32,32 0 0 1 232,205 Z"/><path class="bg" d="M187,205 A13,13 0 0 1 213,205 Z"/><path class="m" d="M248,205 A32,32 0 0 1 312,205 Z"/><path class="bg" d="M267,205 A13,13 0 0 1 293,205 Z"/><path class="mo" d="M328,205 A32,32 0 0 1 392,205 Z"/><path class="bg" d="M347,205 A13,13 0 0 1 373,205 Z"/><path class="m" d="M408,205 A32,32 0 0 1 472,205 Z"/><path class="bg" d="M427,205 A13,13 0 0 1 453,205 Z"/><path class="mo" d="M488,205 A32,32 0 0 1 552,205 Z"/><path class="bg" d="M507,205 A13,13 0 0 1 533,205 Z"/><path class="m" d="M8,285 A32,32 0 0 1 72,285 Z"/><path class="bg" d="M27,285 A13,13 0 0 1 53,285 Z"/><path class="mo" d="M88,285 A32,32 0 0 1 152,285 Z"/><path class="bg" d="M107,285 A13,13 0 0 1 133,285 Z"/><path class="m" d="M168,285 A32,32 0 0 1 232,285 Z"/><path class="bg" d="M187,285 A13,13 0 0 1 213,285 Z"/><path class="mo" d="M248,285 A32,32 0 0 1 312,285 Z"/><path class="bg" d="M267,285 A13,13 0 0 1 293,285 Z"/><path class="m" d="M328,285 A32,32 0 0 1 392,285 Z"/><path class="bg" d="M347,285 A13,13 0 0 1 373,285 Z"/><path class="mo" d="M408,285 A32,32 0 0 1 472,285 Z"/><path class="bg" d="M427,285 A13,13 0 0 1 453,285 Z"/><path class="m" d="M488,285 A32,32 0 0 1 552,285 Z"/><path class="bg" d="M507,285 A13,13 0 0 1 533,285 Z"/><text class="t" x="24" y="40">源流</text>
+</svg>

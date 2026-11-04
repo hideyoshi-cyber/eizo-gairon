@@ -1,0 +1,28 @@
+<svg class="fig-g03i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="g03i-t g03i-d">
+  <title id="g03i-t">判断の図案</title>
+  <desc id="g03i-d">三分割の枠の中で一つの区画だけを色で選び、下の時間軸でも一区間だけを選んだ抽象図案。何を見せ、いつ出すかの判断を表す。</desc>
+  <style>
+    .fig-g03i .lab{fill:var(--sub,#5B616E);font:700 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif;letter-spacing:.2em}
+  </style>
+  <rect width="560" height="315" fill="var(--paper,#F4F5F8)"/>
+  <rect x="60" y="30" width="440" height="220" fill="var(--panel,#FFFFFF)" stroke="var(--ink,#1A1D24)" stroke-width="3"/>
+  <line x1="206.7" y1="30" x2="206.7" y2="250" stroke="var(--rule,#D3D7DE)" stroke-width="2"/>
+  <line x1="353.3" y1="30" x2="353.3" y2="250" stroke="var(--rule,#D3D7DE)" stroke-width="2"/>
+  <line x1="60" y1="103.3" x2="500" y2="103.3" stroke="var(--rule,#D3D7DE)" stroke-width="2"/>
+  <line x1="60" y1="176.7" x2="500" y2="176.7" stroke="var(--rule,#D3D7DE)" stroke-width="2"/>
+  <rect x="353.3" y="103.3" width="146.7" height="73.4" fill="var(--c00,#B0347E)"/>
+  <circle cx="426.7" cy="140" r="22" fill="var(--paper,#F4F5F8)"/>
+  <line x1="60" y1="282" x2="500" y2="282" stroke="var(--ink,#1A1D24)" stroke-width="3"/>
+  <line x1="60" y1="272" x2="60" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="104" y1="276" x2="104" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="148" y1="276" x2="148" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="192" y1="276" x2="192" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="236" y1="276" x2="236" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="280" y1="272" x2="280" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="324" y1="276" x2="324" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="368" y1="276" x2="368" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="412" y1="276" x2="412" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="456" y1="276" x2="456" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <line x1="500" y1="272" x2="500" y2="288" stroke="var(--ink,#1A1D24)" stroke-width="2"/>
+  <rect x="236" y="276" width="88" height="12" fill="var(--c00,#B0347E)"/>
+</svg>

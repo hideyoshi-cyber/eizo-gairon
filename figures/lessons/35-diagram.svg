@@ -1,0 +1,35 @@
+<svg class="fig-l35d" viewBox="0 0 560 578" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l35d-t l35d-d">
+  <title id="l35d-t">山が何度も来る映画のカーブ『ダークナイト』後半の考察</title>
+  <desc id="l35d-d">カーブの形は、作品が観客にどんな体験をさせたいかを表す。</desc>
+  <style>
+    .fig-l35d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l35d .k{fill:var(--ink,#1A1D24)}
+    .fig-l35d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l35d .s{fill:var(--sub,#5B616E)}
+    .fig-l35d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l35d .m{fill:var(--c00,#B0347E)}
+    .fig-l35d .mo{fill:var(--c00,#B0347E);opacity:.22}
+    .fig-l35d .mm{fill:var(--c00,#B0347E);opacity:.55}
+    .fig-l35d .ms{stroke:var(--c00,#B0347E);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l35d .ms2{stroke:var(--c00,#B0347E);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l35d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l35d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l35d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l35d .card{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:4}
+    .fig-l35d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l35d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l35d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l35d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l35d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l35d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l35d .head{fill:var(--sub,#5B616E)}
+    .fig-l35d .band{fill:var(--c00,#B0347E);fill-opacity:.16;stroke:var(--c00,#B0347E);stroke-width:1.5}
+    .fig-l35d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l35d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">カーブの形は、観客にさせたい体験を表す</text><rect class="box" x="20" y="76" width="254" height="164" rx="10"/><rect class="m" x="20" y="76" width="10" height="164" rx="4"/><text class="step" x="48" y="106">『ルックバック』</text><text class="ex" x="48" y="130">第12回</text><text class="ex" x="48" y="152">長い谷から、一つの大きな山へ</text><path class="ms2" d="M44,214 C126.4,222 147,222 171.72,204 C192.32,169 208.8,166 219.1,194 L250,214"/><rect class="box" x="286" y="76" width="254" height="164" rx="10"/><rect class="m" x="286" y="76" width="10" height="164" rx="4"/><text class="step" x="314" y="106">『ダークナイト』</text><text class="ex" x="314" y="130">今回</text><text class="ex" x="314" y="152">山が何度も来るギザギザ</text><polyline class="ms2" points="310,214 338.84000000000003,172 367.68,204 396.52,166 425.36,202 454.2,170 483.03999999999996,204 516,174"/><rect class="box" x="20" y="252" width="520" height="94" rx="10"/><rect class="m" x="20" y="252" width="10" height="94" rx="4"/><text class="step" x="48" y="282">1　ギザギザは、観客を休ませない</text><text class="ex" x="48" y="306">観客は、緊張を解く暇がない</text><text class="ex" x="48" y="328">観客も、落ち着かない状態に置かれている</text><rect class="box" x="20" y="358" width="520" height="94" rx="10"/><rect class="m" x="20" y="358" width="10" height="94" rx="4"/><text class="step" x="48" y="388">2　谷がないと、山は低く見える</text><text class="ex" x="48" y="412">この映画にも、短い谷はある</text><text class="who" x="48" y="434">第12回「谷の長さが山の高さを決める」</text><rect class="box" x="20" y="464" width="520" height="94" rx="10"/><rect class="m" x="20" y="464" width="10" height="94" rx="4"/><text class="step" x="48" y="494">3　カーブは、企画の段階で描く</text><text class="ex" x="48" y="518">コンテに入る前に、テンションカーブを描く</text><text class="ex" x="48" y="540">先に山の位置を決めると、構成が迷わない</text>
+</svg>

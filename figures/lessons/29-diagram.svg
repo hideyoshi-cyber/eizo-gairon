@@ -1,0 +1,35 @@
+<svg class="fig-l29d" viewBox="0 0 560 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l29d-t l29d-d">
+  <title id="l29d-t">遊ぶ時間と観る時間をつなぐ『The Last of Us』の考察</title>
+  <desc id="l29d-d">演技が主導権の切り替えを隠し、ゲームの物語がドラマになり、CGに演技が入る。</desc>
+  <style>
+    .fig-l29d .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l29d .k{fill:var(--ink,#1A1D24)}
+    .fig-l29d .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l29d .s{fill:var(--sub,#5B616E)}
+    .fig-l29d .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l29d .m{fill:var(--c10,#5C6BC0)}
+    .fig-l29d .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l29d .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l29d .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l29d .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l29d .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l29d .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l29d .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l29d .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l29d .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l29d .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l29d .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l29d .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l29d .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l29d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l29d .head{fill:var(--sub,#5B616E)}
+    .fig-l29d .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l29d .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29d .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="band" x="20" y="16" width="520" height="48" rx="10"/><text class="bt" x="36" y="46">俳優の演技が、遊ぶ時間と観る時間をつなぐ</text><rect class="box" x="20" y="76" width="520" height="160" rx="10"/><rect class="m" x="20" y="76" width="10" height="160" rx="4"/><text class="step" x="48" y="106">1　演技が、主導権の切り替えを隠す</text><text class="ex" x="48" y="130">ムービーも、プレイ中の人物も、同じ俳優の演技</text><text class="ex" x="48" y="152">主導権が切り替わっても、人物がぶれない</text><text class="who" x="48" y="174">第3回『Ghost of Tsushima』は</text><text class="who" x="48" y="196">システムで作った</text><text class="who" x="48" y="218">この作品は、演技でつないでいる</text><rect class="box" x="20" y="248" width="520" height="116" rx="10"/><rect class="m" x="20" y="248" width="10" height="116" rx="4"/><text class="step" x="48" y="278">2　ゲームの物語が、ドラマになる</text><text class="ex" x="48" y="302">10年後にドラマ化された</text><text class="ex" x="48" y="324">物語と人物が、それだけ強かった</text><text class="ex" x="48" y="346">ゲームも、長く続くIPの入口になる</text><rect class="box" x="20" y="376" width="520" height="116" rx="10"/><rect class="m" x="20" y="376" width="10" height="116" rx="4"/><text class="step" x="48" y="406">3　CGに演技を入れる</text><text class="who" x="48" y="430">第16回『シン・ゴジラ』：CGの怪獣に人間の演技</text><text class="ex" x="48" y="452">ここでは、CGの人間に俳優の演技を入れている</text><text class="ex" x="48" y="474">CGを作る人は、演技を受け取る側でもある</text>
+</svg>

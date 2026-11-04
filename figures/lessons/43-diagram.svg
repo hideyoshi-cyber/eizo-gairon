@@ -1,0 +1,39 @@
+<svg class="fig-l43d" viewBox="0 0 560 354" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l43d-t l43d-d">
+  <title id="l43d-t">ルックは観客への約束：3つの考察</title>
+  <desc id="l43d-d">使う色を絞ると世界観が立つ。撮影後のデジタルの色調整でルックを作り込めるようになった。一目で分かるルックは、観客への約束になる。</desc>
+  <style>
+    .fig-l43d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l43d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l43d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l43d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l43d .mid{text-anchor:middle}
+    .fig-l43d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l43d .head{fill:var(--sub,#5B616E)}
+    .fig-l43d .bar{fill:var(--c00,#B0347E)}
+    .fig-l43d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l43d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l43d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l43d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l43d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l43d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l43d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l43d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l43d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="48">1　色を絞ると、世界観が立つ</text>
+  <text class="ex" x="48" y="74">どの場面を切り取っても『アメリ』だと分かる</text>
+  <text class="who" x="48" y="96">全体を一つの色の世界にしている</text>
+  <rect class="box" x="20" y="128" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="128" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="160">2　デジタルの色調整</text>
+  <text class="ex" x="48" y="186">撮影したあとに、色を細かく調整できる</text>
+  <text class="who" x="48" y="208">作品全体のルックを作り込める時代になった</text>
+  <rect class="box" x="20" y="240" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="240" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="272">3　ルックは、観客への約束</text>
+  <text class="ex" x="48" y="298">「この作品はこういう世界です」</text>
+  <text class="who" x="48" y="320">予告編やポスターでも、約束が伝わる</text>
+
+</svg>

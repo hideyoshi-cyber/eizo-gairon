@@ -1,0 +1,35 @@
+<svg class="fig-l29i" viewBox="0 0 560 315" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l29i-t l29i-d">
+  <title id="l29i-t">遊ぶ時間と観る時間をつなぐ抽象図案</title>
+  <desc id="l29i-d">左はグリッド、右は横長の帯で、二つの時間を分け、中央の円がつなぐ抽象的な図案。</desc>
+  <style>
+    .fig-l29i .bg{fill:var(--panel,#FFFFFF)}
+    .fig-l29i .k{fill:var(--ink,#1A1D24)}
+    .fig-l29i .ko{fill:var(--ink,#1A1D24);opacity:.1}
+    .fig-l29i .s{fill:var(--sub,#5B616E)}
+    .fig-l29i .rs{stroke:var(--rule,#D3D7DE);fill:none;stroke-width:1.5}
+    .fig-l29i .m{fill:var(--c10,#5C6BC0)}
+    .fig-l29i .mo{fill:var(--c10,#5C6BC0);opacity:.22}
+    .fig-l29i .mm{fill:var(--c10,#5C6BC0);opacity:.55}
+    .fig-l29i .ms{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l29i .ms2{stroke:var(--c10,#5C6BC0);fill:none;stroke-width:2.5;stroke-linecap:round}
+    .fig-l29i .ks{stroke:var(--ink,#1A1D24);fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fig-l29i .ks2{stroke:var(--ink,#1A1D24);fill:none;stroke-width:2;opacity:.5}
+    .fig-l29i .dash{stroke:var(--sub,#5B616E);fill:none;stroke-width:2.5;stroke-dasharray:6 6;stroke-linecap:round}
+    .fig-l29i .card{fill:var(--panel,#FFFFFF);stroke:var(--c10,#5C6BC0);stroke-width:4}
+    .fig-l29i .a10{fill:var(--c10,#5C6BC0);opacity:.85}
+    .fig-l29i .a20{fill:var(--c20,#127F91);opacity:.85}
+    .fig-l29i .a00{fill:var(--c00,#B0347E);opacity:.85}
+    .fig-l29i .a90{fill:var(--c90,#C26A1B);opacity:.85}
+    .fig-l29i .t{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29i .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l29i .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29i .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29i .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29i .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l29i .head{fill:var(--sub,#5B616E)}
+    .fig-l29i .band{fill:var(--c10,#5C6BC0);fill-opacity:.16;stroke:var(--c10,#5C6BC0);stroke-width:1.5}
+    .fig-l29i .bt{fill:var(--ink,#1A1D24);font:700 16px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l29i .fl{fill:var(--ink,#1A1D24);font:700 15px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+  </style>
+<rect class="bg" width="560" height="315"/><rect class="ko" x="0" y="0" width="280" height="315"/><line class="rs" x1="0" y1="0" x2="0" y2="315"/><line class="rs" x1="28" y1="0" x2="28" y2="315"/><line class="rs" x1="56" y1="0" x2="56" y2="315"/><line class="rs" x1="84" y1="0" x2="84" y2="315"/><line class="rs" x1="112" y1="0" x2="112" y2="315"/><line class="rs" x1="140" y1="0" x2="140" y2="315"/><line class="rs" x1="168" y1="0" x2="168" y2="315"/><line class="rs" x1="196" y1="0" x2="196" y2="315"/><line class="rs" x1="224" y1="0" x2="224" y2="315"/><line class="rs" x1="252" y1="0" x2="252" y2="315"/><line class="rs" x1="280" y1="0" x2="280" y2="315"/><line class="rs" x1="0" y1="0" x2="280" y2="0"/><line class="rs" x1="0" y1="28" x2="280" y2="28"/><line class="rs" x1="0" y1="56" x2="280" y2="56"/><line class="rs" x1="0" y1="84" x2="280" y2="84"/><line class="rs" x1="0" y1="112" x2="280" y2="112"/><line class="rs" x1="0" y1="140" x2="280" y2="140"/><line class="rs" x1="0" y1="168" x2="280" y2="168"/><line class="rs" x1="0" y1="196" x2="280" y2="196"/><line class="rs" x1="0" y1="224" x2="280" y2="224"/><line class="rs" x1="0" y1="252" x2="280" y2="252"/><line class="rs" x1="0" y1="280" x2="280" y2="280"/><line class="rs" x1="0" y1="308" x2="280" y2="308"/><rect class="mo" x="28" y="84" width="28" height="28"/><rect class="mo" x="56" y="140" width="28" height="28"/><rect class="mo" x="112" y="56" width="28" height="28"/><rect class="mo" x="140" y="168" width="28" height="28"/><rect class="mo" x="196" y="112" width="28" height="28"/><rect class="mo" x="84" y="224" width="28" height="28"/><rect class="mo" x="168" y="252" width="28" height="28"/><rect class="m" x="196" y="140" width="28" height="28"/><rect class="mm" x="280" y="12" width="150" height="16"/><rect class="mo" x="280" y="37" width="90" height="16"/><rect class="mo" x="280" y="62" width="200" height="16"/><rect class="mm" x="280" y="87" width="120" height="16"/><rect class="mo" x="280" y="112" width="170" height="16"/><rect class="mo" x="280" y="137" width="70" height="16"/><rect class="mm" x="280" y="162" width="190" height="16"/><rect class="mo" x="280" y="187" width="110" height="16"/><rect class="mo" x="280" y="212" width="140" height="16"/><rect class="mm" x="280" y="237" width="160" height="16"/><rect class="mo" x="280" y="262" width="80" height="16"/><rect class="mo" x="280" y="287" width="130" height="16"/><circle class="card" cx="280" cy="157" r="50"/><circle class="m" cx="280" cy="157" r="22"/><text class="t" x="24" y="300">遊ぶ</text><text class="t" x="500" y="300">観る</text>
+</svg>

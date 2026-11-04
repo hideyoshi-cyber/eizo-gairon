@@ -1,0 +1,45 @@
+<svg class="fig-l39d" viewBox="0 0 560 488" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="l39d-t l39d-d">
+  <title id="l39d-t">映像の文法を持ち込んだ人：4つの考察</title>
+  <desc id="l39d-d">映画の道に進めなかった人が、アニメに映画の文法を持ち込んだ。コンテは絵ではなく文法。経験を原則にして渡した。作品はお金の流れを変えた。</desc>
+  <style>
+    .fig-l39d .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-l39d .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l39d .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l39d .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-l39d .mid{text-anchor:middle}
+    .fig-l39d .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-l39d .head{fill:var(--sub,#5B616E)}
+    .fig-l39d .bar{fill:var(--c00,#B0347E)}
+    .fig-l39d .accbox{fill:var(--panel,#FFFFFF);stroke:var(--c00,#B0347E);stroke-width:2.5}
+    .fig-l39d .accfill{fill:var(--c00,#B0347E)}
+    .fig-l39d .accline{stroke:var(--c00,#B0347E);stroke-width:3;fill:none}
+    .fig-l39d .rule{stroke:var(--rule,#D3D7DE);stroke-width:1.5;fill:none}
+    .fig-l39d .inkfill{fill:var(--ink,#1A1D24)}
+    .fig-l39d .paper{fill:var(--paper,#FFFFFF)}
+    .fig-l39d .panel{fill:var(--panel,#FFFFFF)}
+    .fig-l39d .ink{stroke:var(--ink,#1A1D24);stroke-width:2;fill:none}
+    .fig-l39d .sub{stroke:var(--sub,#5B616E);stroke-width:2;fill:none}
+  </style>
+  <rect class="box" x="20" y="16" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="16" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="48">1　遠回りが、武器になった</text>
+  <text class="ex" x="48" y="74">映画の道に進めず、アニメの中で映画を撮った</text>
+  <text class="who" x="48" y="96">一度失敗したからこそ見えるもの</text>
+  <rect class="box" x="20" y="128" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="128" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="160">2　コンテは、絵ではなく文法</text>
+  <text class="ex" x="48" y="186">カメラの位置、画面の左右、つなぎ方</text>
+  <text class="who" x="48" y="208">判断の速さと正確さが武器だった</text>
+  <rect class="box" x="20" y="240" width="520" height="98" rx="10"/>
+  <rect class="bar" x="20" y="240" width="10" height="98" rx="4"/>
+  <text class="step" x="48" y="272">3　経験を、原則にして渡す</text>
+  <text class="ex" x="48" y="298">『映像の原則』にまとめ、後の世代の道具に</text>
+  <text class="who" x="48" y="320">この授業の分析シートやはしごも同じ考え方</text>
+  <rect class="box" x="20" y="352" width="520" height="120" rx="10"/>
+  <rect class="bar" x="20" y="352" width="10" height="120" rx="4"/>
+  <text class="step" x="48" y="384">4　作品が、お金の流れを変えた</text>
+  <text class="ex" x="48" y="410">放送は予定より早く終わった</text>
+  <text class="ex" x="48" y="432">プラモデルの大ヒットで作品が生き返った</text>
+  <text class="who" x="48" y="454">アニメが商品を動かす構造は、ここから</text>
+
+</svg>
