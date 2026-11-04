@@ -1,5 +1,6 @@
 // Markdownを書き換えずに、変換で崩れた書式をビルド時に整える remark プラグイン。
 // 事実・主張の文面には触らない（リンク先の置換、囲みの付与、重複する見出し・ラベルの非表示のみ）。
+import { readFileSync } from 'node:fs';
 import { visit } from 'unist-util-visit';
 
 const PAGE_ROUTES = {
@@ -87,6 +88,18 @@ export function remarkEizo(opts = {}) {
         const divs = groups.map((g) => ({ type: 'blockquote', children: g, data: { hName: 'div' } }));
         kids.splice(a, b - a, { type: 'blockquote', children: divs, data: { hName: 'aside', hProperties: { className: ['today'] } } });
       }
+    }
+
+    // 4c. 「（図：figures/xxx.svg）」＋次の行の「図N　説明」を、図（figure）にする
+    for (let i = 0; i < kids.length; i++) {
+      const n = kids[i];
+      if (n.type !== 'paragraph') continue;
+      const m = text(n).match(/^（図：(figures\/[\w.-]+\.svg)）\n?([\s\S]*)$/);
+      if (!m) continue;
+      let svg;
+      try { svg = readFileSync(m[1], 'utf-8').replace(/<metadata>[\s\S]*?<\/metadata>/, ''); } catch { continue; }
+      const cap = m[2].trim().replace(/&/g, '&amp;').replace(/</g, '&lt;');
+      kids[i] = { type: 'html', value: `<figure class="fig-wrap">${svg}${cap ? `<figcaption class="src">${cap}</figcaption>` : ''}</figure>` };
     }
 
     // 5. 結論の囲み、演習の囲み

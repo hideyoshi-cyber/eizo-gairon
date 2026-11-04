@@ -1,0 +1,54 @@
+<svg class="fig-backbone" viewBox="0 0 560 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bb-title bb-desc">
+  <title id="bb-title">好きから価値へ：バックボーンを組み直す流れ</title>
+  <desc id="bb-desc">好き、バックボーン、リビルド、ジャッジ、価値の5段。好きで選んできたものが背骨になり、社会に出るときに構造化して出し入れしやすくし、誰のために何のために使うかを判断して、価値になる。</desc>
+  <style>
+    .fig-backbone .box{fill:var(--panel,#FFFFFF);stroke:var(--rule,#D3D7DE);stroke-width:1.5}
+    .fig-backbone .step{fill:var(--ink,#1A1D24);font:700 19px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-backbone .ex{fill:var(--ink,#1A1D24);font:500 14.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-backbone .who{fill:var(--sub,#5B616E);font:500 12.5px "Zen Kaku Gothic New","Hiragino Sans",sans-serif}
+    .fig-backbone .arrow{stroke:var(--sub,#5B616E);stroke-width:3;fill:none}
+    .fig-backbone .head{fill:var(--sub,#5B616E)}
+    .fig-backbone .b1{fill:var(--c20,#127F91)} .fig-backbone .b2{fill:var(--c10,#5C6BC0)}
+    .fig-backbone .b3{fill:var(--c00,#B0347E)} .fig-backbone .b4{fill:var(--c90,#C26A1B)}
+    .fig-backbone .b5{fill:var(--ink,#1A1D24)}
+  </style>
+
+  <!-- 1 好き -->
+  <rect class="box" x="20" y="16" width="520" height="96" rx="10"/>
+  <rect class="b1" x="20" y="16" width="10" height="96" rx="4"/>
+  <text class="step" x="48" y="48">1　好き</text>
+  <text class="ex" x="48" y="74">選んできたもの、心を動かされてきたもの</text>
+  <text class="who" x="48" y="96">この授業では：入学前の原体験</text>
+  <line class="arrow" x1="280" y1="116" x2="280" y2="132"/><polygon class="head" points="272,130 288,130 280,140"/>
+
+  <!-- 2 バックボーン -->
+  <rect class="box" x="20" y="144" width="520" height="96" rx="10"/>
+  <rect class="b2" x="20" y="144" width="10" height="96" rx="4"/>
+  <text class="step" x="48" y="176">2　バックボーン</text>
+  <text class="ex" x="48" y="202">好きが積み重なって、自分の背骨になったもの</text>
+  <text class="who" x="48" y="224">この授業では：1年。自分が何に反応するかを知る</text>
+  <line class="arrow" x1="280" y1="244" x2="280" y2="260"/><polygon class="head" points="272,258 288,258 280,268"/>
+
+  <!-- 3 リビルド -->
+  <rect class="box" x="20" y="272" width="520" height="96" rx="10"/>
+  <rect class="b3" x="20" y="272" width="10" height="96" rx="4"/>
+  <text class="step" x="48" y="304">3　リビルド</text>
+  <text class="ex" x="48" y="330">組み直し、構造化して、出し入れしやすくする</text>
+  <text class="who" x="48" y="352">この授業では：引き出しノート、分析シート、はしご</text>
+  <line class="arrow" x1="280" y1="372" x2="280" y2="388"/><polygon class="head" points="272,386 288,386 280,396"/>
+
+  <!-- 4 ジャッジ -->
+  <rect class="box" x="20" y="400" width="520" height="96" rx="10"/>
+  <rect class="b4" x="20" y="400" width="10" height="96" rx="4"/>
+  <text class="step" x="48" y="432">4　ジャッジ</text>
+  <text class="ex" x="48" y="458">誰のために、何のために使うかを決める</text>
+  <text class="who" x="48" y="480">この授業では：2年。企画の芯「誰に・何を・なぜ」</text>
+  <line class="arrow" x1="280" y1="500" x2="280" y2="516"/><polygon class="head" points="272,514 288,514 280,524"/>
+
+  <!-- 5 価値 -->
+  <rect class="box" x="20" y="528" width="520" height="96" rx="10"/>
+  <rect class="b5" x="20" y="528" width="10" height="96" rx="4"/>
+  <text class="step" x="48" y="560">5　価値</text>
+  <text class="ex" x="48" y="586">人の役に立ち、心に残る仕事になる</text>
+  <text class="who" x="48" y="608">この授業の先：卒業後の現場</text>
+</svg>
